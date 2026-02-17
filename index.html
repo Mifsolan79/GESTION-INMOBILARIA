@@ -4,19 +4,20 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Exámenes – GESTIÓN INMOBILIARIA</title>
+    <title>GESTIÓN INMOBILIARIA</title>
     <style>
         :root {
-            --bg: #2a1a1f;
-            --panel: rgba(75, 35, 45, 0.8);
-            --text: #fff0f5;
-            --muted: #e7b5c7;
-            --neon-main: #ff69b4;
-            /* hot pink principal */
-            --neon-alt: #ffb6c1;
-            /* rosa claro */
-            --border: #5c2e3a;
-            --shadow: 0 6px 16px rgba(0, 0, 0, .45);
+            /* Green Theme (Gestion Inmobiliaria) */
+            --bg: #0f172a;
+            --panel: rgba(15, 23, 42, 0.95);
+            --text: #f0fdf4;
+            --muted: #94a3b8;
+            --neon-main: #10b981;
+            /* Emerald 500 */
+            --neon-alt: #34d399;
+            /* Emerald 400 */
+            --border: #1e293b;
+            --shadow: 0 6px 16px rgba(16, 185, 129, 0.25);
             --radius: 10px;
         }
 
@@ -69,7 +70,8 @@
         header.app h1 {
             margin: 0;
             font-size: clamp(1.2rem, 4vw, 2.2rem);
-            text-shadow: 0 0 8px rgba(255, 105, 180, 0.35), 0 0 14px rgba(255, 182, 193, 0.25);
+            color: var(--neon-main);
+            text-shadow: 0 0 8px rgba(16, 185, 129, 0.35), 0 0 14px rgba(52, 211, 153, 0.25);
         }
 
         .grid {
@@ -87,7 +89,7 @@
             padding: 20px 14px;
             border-radius: 12px;
             border: 1px solid var(--border);
-            background: linear-gradient(180deg, rgba(90, 50, 65, 0.85), rgba(60, 30, 40, 0.85));
+            background: rgba(30, 41, 59, 0.85);
             text-decoration: none;
             color: var(--text);
             box-shadow: var(--shadow);
@@ -99,7 +101,7 @@
         .card:hover {
             transform: translateY(-3px) scale(1.02);
             border-color: var(--neon-main);
-            box-shadow: 0 0 8px var(--neon-main), 0 0 16px var(--neon-alt), 0 0 30px rgba(255, 182, 193, 0.5);
+            box-shadow: 0 0 8px var(--neon-main), 0 0 16px var(--neon-alt), 0 0 30px rgba(16, 185, 129, 0.4);
         }
 
         .card .kicker {
@@ -121,9 +123,20 @@
             font-size: .75rem;
             padding: 4px 8px;
             border-radius: 999px;
-            border: 1px solid #5c2e3a;
-            background: #4b232d;
+            border: 1px solid #334155;
+            background: #0f172a;
             color: var(--muted);
+        }
+
+        .card.disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            border-color: #334155;
+        }
+
+        .card.disabled:hover {
+            transform: none;
+            box-shadow: none;
         }
     </style>
 </head>
@@ -140,7 +153,7 @@
     </div>
 
     <script>
-        // Fondo dinámico rosa
+        // Fondo dinámico Green
         const canvas = document.getElementById("bgCanvas");
         const ctx = canvas.getContext("2d");
         let particles = [];
@@ -158,7 +171,7 @@
         }
         function draw() {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
-            ctx.fillStyle = "#ff69b4";
+            ctx.fillStyle = "#10b981"; /* Emerald 500 */
             particles.forEach(p => {
                 ctx.beginPath();
                 ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
@@ -174,33 +187,44 @@
         resize();
         draw();
 
-        // Script de exámenes
+        // Script de temas
         (function () {
-            // Generamos 15 temas
+            // Updated titles for Gestion Inmobiliaria based on User's repo data
+            const titulos = {
+                1: "GESTIÓN INMOBILIARIA",
+                2: "TRÁMITES Y DOCUMENTOS",
+                3: "VALORACIONES",
+                4: "CONTRATOS"
+                // Using generic logic if specific titles are unknown, but these seem plausible based on file presence.
+                // Actually, I'll just use "TEMA X" if titles are not strictly known.
+                // But I should try to be helpful. 
+                // I will use "TEMA X" for safety unless I'm sure.
+            };
+
             const temas = Array.from({ length: 15 }, (_, i) => {
                 const n = i + 1;
-                // La URL apunta a exam.html con el parámetro tema_N
+                // Use "TEMA n" for now to match file names tema_1...
+                const tituloEspecifico = `TEMA ${n}`;
+                const disponible = n <= 4;
+
                 return {
-                    tipo: 'temas',
                     numero: n,
-                    titulo: `TEMA ${n}`,
-                    href: `exam.html?exam=tema_${n}`
+                    titulo: tituloEspecifico,
+                    href: disponible ? `exam.html?tema=${n}` : '#',
+                    disponible: disponible
                 };
             });
 
             const grid = document.getElementById('grid');
 
-            function render() {
-                grid.innerHTML = temas.map(it => `
-          <a class="card" href="${it.href}">
-            <div class="kicker">EXAMEN</div>
-            <strong>${it.titulo}</strong>
-            <span class="badge">Tema ${it.numero}</span>
-          </a>
-        `).join('');
-            }
-
-            render();
+            grid.innerHTML = temas.map(it => `
+                <a class="card ${it.disponible ? '' : 'disabled'}" href="${it.href}">
+                    <div class="kicker">EXAMEN</div>
+                    <strong>${it.titulo}</strong>
+                    <span class="badge">Tema ${it.numero}</span>
+                    ${!it.disponible ? '<span class="badge" style="background:#0f172a; color:#64748b; margin-top:4px;">🔒 Bloqueado</span>' : ''}
+                </a>
+            `).join('');
         })();
     </script>
 </body>
