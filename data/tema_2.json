@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 2: DERECHO INMOBILIARIO BÁSICO",
+    "items": [
+        {
+            "question": "¿Cuál es la principal finalidad del derecho inmobiliario?",
+            "options": [
+                "Garantizar la seguridad jurídica en las relaciones derivadas de los bienes inmuebles.",
+                "Maximizar el valor de mercado de las propiedades rústicas y urbanas.",
+                "Eliminar las limitaciones administrativas sobre el uso del suelo privado.",
+                "Sustituir al derecho civil en la regulación de las herencias."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El derecho inmobiliario busca garantizar la seguridad jurídica en todas las relaciones jurídicas derivadas de los bienes inmuebles, aspecto fundamental para la actividad inmobiliaria. (Fuente: Página 4, Sección: Concepto de derecho inmobiliario)"
+        },
+        {
+            "question": "Según el artículo 334 del Código Civil, ¿cuál de los siguientes se considera un bien inmueble?",
+            "options": [
+                "Los vehículos de transporte de mercancías.",
+                "Los contratos de arrendamiento financiero.",
+                "Los caminos y todo lo unido de forma permanente al terreno.",
+                "Las herramientas portátiles de construcción."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El artículo 334 del Código Civil establece que son inmuebles el suelo, las edificaciones, los árboles, las minas y los caminos, entre otros. (Fuente: Página 4, Sección: Concepto de derecho inmobiliario)"
+        },
+        {
+            "question": "¿Qué caracteriza a los derechos reales frente a los derechos personales?",
+            "options": [
+                "Requieren obligatoriamente la intervención de un notario para existir.",
+                "Otorgan un poder directo e inmediato sobre una cosa, eficaz frente a terceros.",
+                "Son vínculos jurídicos que solo afectan a dos personas determinadas.",
+                "Solo pueden recaer sobre bienes muebles de alto valor."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los derechos reales otorgan a una persona un poder directo e inmediato sobre una cosa (bien inmueble), permitiéndole ejercerlo frente a cualquier tercero. (Fuente: Página 5, Sección: Derechos reales: Propiedad, usufructo, servidumbres)"
+        },
+        {
+            "question": "¿Cómo define el artículo 348 del Código Civil el derecho de propiedad?",
+            "options": [
+                "El derecho de poseer una cosa ajena con la obligación de conservarla.",
+                "La facultad de usar un bien sin poder disponer de su titularidad.",
+                "El derecho de gozar y disponer de una cosa sin más limitaciones que las leyes.",
+                "Una carga impuesta sobre un inmueble en beneficio de un tercero."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El artículo 348 define la propiedad como el derecho de gozar y disponer de una cosa, con las limitaciones establecidas en las leyes. (Fuente: Página 5, Sección: Derecho de propiedad)"
+        },
+        {
+            "question": "¿En qué consiste el derecho de usufructo según el Código Civil?",
+            "options": [
+                "En la plena propiedad del bien sin cargas registrables.",
+                "En el derecho a disfrutar bienes ajenos conservando su forma y sustancia.",
+                "En la obligación de vender el bien en un plazo determinado.",
+                "En la facultad de modificar la estructura del inmueble sin permiso."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El usufructo da derecho a disfrutar los bienes ajenos con la obligación de conservar su forma y sustancia, según el artículo 467 CC. (Fuente: Página 6, Sección: Derecho de usufructo)"
+        },
+        {
+            "question": "¿Qué es la 'nuda propiedad' en el contexto de un usufructo?",
+            "options": [
+                "El derecho de uso exclusivo del usufructuario.",
+                "La titularidad del bien sin el derecho a usarlo ni explotarlo.",
+                "Una servidumbre de paso no inscrita en el registro.",
+                "La propiedad de un terreno rústico sin edificaciones."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El nudo propietario conserva la titularidad del bien, pero no puede usarlo ni explotarlo mientras dure el usufructo. (Fuente: Página 6, Sección: Derecho de usufructo)"
+        },
+        {
+            "question": "¿Cómo se denomina al inmueble que sufre la carga en una servidumbre?",
+            "options": [
+                "Predio dominante.",
+                "Predio gravado.",
+                "Predio sirviente.",
+                "Predio usufructuado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La servidumbre impone una carga o limitación a un inmueble denominado predio sirviente en beneficio de otro llamado dominante. (Fuente: Página 6, Sección: Derecho de servidumbre)"
+        },
+        {
+            "question": "¿Qué diferencia a una servidumbre positiva de una negativa?",
+            "options": [
+                "La positiva permite un uso (como el paso) y la negativa impide un uso (como construir).",
+                "La positiva es obligatoria y la negativa es voluntaria.",
+                "La positiva afecta al suelo y la negativa a la edificación.",
+                "La positiva es vitalicia y la negativa temporal."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Las servidumbres pueden ser positivas (permiten un uso: paso, acueducto) o negativas (impiden un uso: construir o plantar). (Fuente: Página 6, Sección: Derecho de servidumbre)"
+        },
+        {
+            "question": "¿Qué establece el artículo 33.2 de la Constitución Española sobre la propiedad?",
+            "options": [
+                "Que la propiedad privada es un derecho absoluto e intocable.",
+                "Que la función social delimitará el contenido del derecho de propiedad.",
+                "Que no se reconoce el derecho a la herencia en España.",
+                "Que el Estado puede confiscar bienes sin indemnización previa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El artículo 33.2 de la Constitución establece que la función social de estos derechos delimitará su contenido, de acuerdo con las leyes. (Fuente: Página 7, Sección: Protección constitucional y régimen jurídico del derecho de propiedad)"
+        },
+        {
+            "question": "¿Bajo qué condiciones se puede privar a alguien de sus bienes según la Constitución?",
+            "options": [
+                "Por decisión unilateral del ayuntamiento sin justificación.",
+                "Por causa de utilidad pública o interés social con indemnización.",
+                "Únicamente en caso de guerra o estado de sitio.",
+                "Cuando el propietario no resida en la vivienda habitualmente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nadie podrá ser privado de sus bienes sino por utilidad pública o interés social, mediante indemnización y conforme a las leyes. (Fuente: Página 7, Sección: Protección constitucional y régimen jurídico del derecho de propiedad)"
+        },
+        {
+            "question": "¿Qué ley regula específicamente la expropiación forzosa en España?",
+            "options": [
+                "El Código Civil de 1889.",
+                "La Ley de Expropiación Forzosa de 1954.",
+                "El Plan General de Ordenación Urbana.",
+                "La Ley de Propiedad Horizontal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El ordenamiento contempla la expropiación forzosa regulada por la Ley de Expropiación Forzosa de 1954. (Fuente: Página 7, Sección: Protección constitucional y régimen jurídico del derecho de propiedad)"
+        },
+        {
+            "question": "¿Qué facultad otorga el derecho de propiedad respecto a la información urbanística?",
+            "options": [
+                "Derecho a modificar el plan general sin permiso.",
+                "Derecho de consulta a las Administraciones sobre la situación urbanística.",
+                "Derecho a no pagar impuestos si no se edifica.",
+                "Derecho a expropiar terrenos colindantes para mejora propia."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El derecho a la propiedad comprende, entre otras, las facultades de consulta a las Administraciones sobre la situación urbanística. (Fuente: Página 7, Sección: Protección constitucional y régimen jurídico del derecho de propiedad)"
+        },
+        {
+            "question": "En el caso de 'Los hermanos Ramírez', ¿por qué no podían vender el pleno dominio?",
+            "options": [
+                "Porque la finca era rústica y no urbanizable.",
+                "Porque existía un usufructo vitalicio a favor de su madre.",
+                "Porque la servidumbre de paso impedía cualquier transmisión.",
+                "Porque la nuda propiedad no permite la venta a terceros."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La existencia de un usufructo vitalicio impide la transmisión del pleno dominio sin el consentimiento expreso de la usufructuaria. (Fuente: Página 8, Sección: Caso práctico 1)"
+        },
+        {
+            "question": "¿Qué sucede con una servidumbre de paso si la propiedad cambia de titular?",
+            "options": [
+                "Se extingue automáticamente al cambiar el dueño.",
+                "Debe ser renegociada y pagada de nuevo por el comprador.",
+                "Se mantiene como una carga legal aunque cambie el titular.",
+                "Solo persiste si el nuevo dueño la acepta por escrito."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La servidumbre es una carga legal que debe mantenerse aunque la propiedad cambie de titular. (Fuente: Página 8, Sección: Caso práctico 1)"
+        },
+        {
+            "question": "¿Cuál es la norma estatal básica que regula el uso del suelo en España?",
+            "options": [
+                "La Ley 9/2001 de la Comunidad de Madrid.",
+                "El Código Civil.",
+                "El Texto Refundido de la Ley de Suelo y Rehabilitación Urbana (RD Legislativo 7/2015).",
+                "La Constitución Española de 1978."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La base legal estatal es el Texto Refundido de la Ley de Suelo y Rehabilitación Urbana, aprobado por RD Legislativo 7/2015. (Fuente: Página 9, Sección: La Ley del Suelo: Marco estatal)"
+        },
+        {
+            "question": "¿Qué se permite construir en el suelo rural (antes no urbanizable)?",
+            "options": [
+                "Viviendas residenciales de baja densidad.",
+                "Centros comerciales de interés local.",
+                "Fines específicos autorizados (agrícolas, forestales o infraestructuras).",
+                "Cualquier construcción ligera o prefabricada."
+            ],
+            "correctAnswer": 2,
+            "explanation": "En el suelo rural no se puede edificar salvo para fines específicos autorizados como agrícolas, forestales o infraestructuras. (Fuente: Página 9, Sección: La Ley del Suelo: Marco estatal)"
+        },
+        {
+            "question": "¿Cuál de los siguientes es un deber del propietario del suelo?",
+            "options": [
+                "Garantizar el acceso público gratuito a su finca.",
+                "Conservar, rehabilitar y mantener el inmueble.",
+                "Pagar las deudas personales del anterior propietario.",
+                "Ceder el usufructo al Estado tras 50 años."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Entre los deberes del propietario están los de conservar, rehabilitar y mantener el inmueble. (Fuente: Página 9, Sección: La Ley del Suelo: Marco estatal)"
+        },
+        {
+            "question": "¿Quién ostenta la competencia exclusiva en materia de urbanismo en España?",
+            "options": [
+                "El Estado central para todo el territorio.",
+                "Los Ayuntamientos de forma independiente.",
+                "Las Comunidades Autónomas.",
+                "El Registro de la Propiedad."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las comunidades autónomas ostentan competencias exclusivas en materia de urbanismo y ordenación del territorio (art. 148.1.3ª CE). (Fuente: Página 10, Sección: Normativas urbanísticas autonómicas)"
+        },
+        {
+            "question": "¿Qué regula la Ley 9/2001 en la Comunidad de Madrid?",
+            "options": [
+                "La clasificación del suelo en urbano, urbanizable y no urbanizable.",
+                "El régimen de herencias y sucesiones inmobiliarias.",
+                "La creación de nuevos Registros de la Propiedad.",
+                "La fiscalidad nacional sobre el patrimonio."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Esta norma establece la clasificación del suelo madrileño en suelo urbano, urbanizable y no urbanizable, entre otros aspectos. (Fuente: Página 10, Sección: Normativas urbanísticas autonómicas)"
+        },
+        {
+            "question": "En el caso de 'Rubén', ¿por qué no puede instalar una casa prefabricada?",
+            "options": [
+                "Porque las casas prefabricadas están prohibidas en toda España.",
+                "Porque el terreno está clasificado como suelo no urbanizable.",
+                "Porque no ha inscrito la casa en el Registro de la Propiedad.",
+                "Porque su parcela no tiene una servidumbre de luces."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Al ser suelo no urbanizable, no se puede construir vivienda residencial de ningún tipo, incluidas las prefabricadas. (Fuente: Página 11, Sección: Caso práctico 2)"
+        },
+        {
+            "question": "¿Garantiza la inscripción en el Registro de la Propiedad el derecho a edificar?",
+            "options": [
+                "Sí, la fe pública registral prevalece sobre el urbanismo.",
+                "Solo si la propiedad es heredada.",
+                "No, la inscripción garantiza la titularidad pero no autoriza a edificar contra el planeamiento.",
+                "Solo en el caso de suelos urbanizables sectorizados."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La inscripción registral garantiza la titularidad del bien, pero no autoriza a edificar si el planeamiento lo prohíbe. (Fuente: Página 12, Sección: Caso práctico 2)"
+        },
+        {
+            "question": "¿Qué ley estatal regula los criterios de valoración del suelo?",
+            "options": [
+                "La Ley de Enjuiciamiento Civil.",
+                "El Texto Refundido de la Ley de Suelo (RD Legislativo 7/2015).",
+                "La Ley Hipotecaria.",
+                "La Ley de Arrendamientos Urbanos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La normativa determina en sus artículos 22 al 27 criterios técnicos y económicos para valorar el suelo. (Fuente: Página 10, Sección: La Ley del Suelo: Marco estatal)"
+        },
+        {
+            "question": "¿Qué rama del derecho regula los derechos reales y las obligaciones sobre inmuebles?",
+            "options": [
+                "Derecho Administrativo.",
+                "Derecho Civil.",
+                "Derecho Mercantil.",
+                "Derecho Procesal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El derecho inmobiliario se relaciona con el derecho civil al regular los derechos reales y las obligaciones sobre inmuebles. (Fuente: Página 4, Sección: Concepto de derecho inmobiliario)"
+        },
+        {
+            "question": "¿Qué autor define el derecho inmobiliario como la parte del derecho civil que estudia el régimen jurídico de los bienes inmuebles?",
+            "options": [
+                "Albaladejo.",
+                "Caparrós Navarro et al.",
+                "García Goyena.",
+                "Sánchez Román."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Según Caparrós Navarro et al. (2006), el derecho inmobiliario es la parte del derecho civil que estudia el régimen jurídico de los bienes inmuebles. (Fuente: Página 4, Sección: Concepto de derecho inmobiliario)"
+        },
+        {
+            "question": "¿Qué documento debe formalizarse para garantizar la validez y seguridad en la adquisición de una vivienda?",
+            "options": [
+                "Contrato privado de compraventa únicamente.",
+                "Certificado de eficiencia energética.",
+                "Escritura pública y registro de la propiedad.",
+                "Informe pericial de la estructura."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Al adquirir un inmueble se debe formalizar mediante escritura pública y registrar la propiedad para garantizar seguridad jurídica. (Fuente: Página 4, Sección: Concepto de derecho inmobiliario)"
+        },
+        {
+            "question": "¿Qué sucede si una finca no tiene salida directa a la vía pública?",
+            "options": [
+                "Pierde su condición de bien inmueble.",
+                "Puede constituir una servidumbre de paso sobre el terreno vecino.",
+                "El Estado debe expropiarla inmediatamente.",
+                "El propietario no puede inscribirla en el Registro."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Una finca sin salida a vía pública puede tener constituida una servidumbre de paso sobre el terreno vecino para permitir el acceso. (Fuente: Página 6, Sección: Derecho de servidumbre)"
+        },
+        {
+            "question": "¿Cuál es la función del 'derecho registral' en el ámbito inmobiliario?",
+            "options": [
+                "Establecer el precio de mercado de las viviendas.",
+                "Gestionar los contratos de alquiler públicos.",
+                "La conexión con el registro de la propiedad para la publicidad jurídica.",
+                "Sancionar las infracciones urbanísticas graves."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El derecho inmobiliario se relaciona con el derecho registral por su conexión con el registro de la propiedad. (Fuente: Página 4, Sección: Concepto de derecho inmobiliario)"
+        },
+        {
+            "question": "¿Qué se entiende por 'Derechos reales atípicos' en el derecho español?",
+            "options": [
+                "Derechos que solo existen en el extranjero.",
+                "Derechos constituidos por acuerdo entre partes no regulados específicamente en el Código Civil.",
+                "Derechos que han sido derogados por la Constitución.",
+                "Derechos que no pueden inscribirse en el Registro."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En el Derecho español se pueden constituir derechos reales atípicos por acuerdo entre partes, como el uso exclusivo de una plaza de garaje. (Fuente: Página 5, Sección: Sabías que...)"
+        },
+        {
+            "question": "¿Cuál de estos elementos NO se menciona como instrumento de planeamiento urbanístico?",
+            "options": [
+                "Planes generales.",
+                "Planes parciales.",
+                "Estudios de detalle.",
+                "Contratos de arras."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Las leyes autonómicas regulan instrumentos de planeamiento como planes generales, parciales y estudios de detalle. El contrato de arras es privado. (Fuente: Página 10, Sección: Normativas urbanísticas autonómicas)"
+        },
+        {
+            "question": "¿Qué objetivo tiene la rehabilitación y regeneración urbana según la Ley del Suelo?",
+            "options": [
+                "Aumentar los impuestos locales.",
+                "Combatir la degradación del entorno construido.",
+                "Eliminar el derecho de propiedad privada.",
+                "Convertir todo el suelo rústico en urbanizable."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La ley fomenta la rehabilitación y la regeneración urbana como instrumentos clave para combatir la degradación del entorno construido. (Fuente: Página 10, Sección: La Ley del Suelo: Marco estatal)"
+        }
+    ]
+}

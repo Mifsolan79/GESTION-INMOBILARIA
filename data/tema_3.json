@@ -1,0 +1,225 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 3: EL CONTRATO DE MEDIACIÓN Y OTROS CONTRATOS",
+    "items": [
+        {
+            "question": "¿Cuál es la función principal de la nota de encargo en la mediación inmobiliaria?",
+            "options": [
+                "Sustituir al contrato de compraventa definitivo ante notario.",
+                "Recoger por escrito el contrato entre el agente y el cliente para la gestión del bien.",
+                "Actuar como un certificado de eficiencia energética del inmueble.",
+                "Garantizar que el comprador no retire su oferta de compra."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La nota de encargo es el documento que formaliza el contrato de mediación, encargando la gestión profesional de venta o alquiler. (Fuente: Página 5, Sección: 3.1. La nota de encargo)"
+        },
+        {
+            "question": "En España, ¿cómo se regula de forma específica el contrato de mediación inmobiliaria a nivel estatal?",
+            "options": [
+                "A través de una ley estatal unificada y específica para mediación.",
+                "Mediante el Reglamento General de Agentes Inmobiliarios.",
+                "No existe una ley estatal que lo regule de forma específica y unificada.",
+                "Únicamente mediante el Código de Comercio."
+            ],
+            "correctAnswer": 2,
+            "explanation": "No existe una ley estatal específica, por lo que su contenido depende de lo acordado en la nota de encargo. (Fuente: Página 5, Sección: 3.1. La nota de encargo - Sabías que...)"
+        },
+        {
+            "question": "¿Cuál es la consecuencia jurídica de pactar una cláusula de exclusividad en la nota de encargo?",
+            "options": [
+                "El cliente no puede vender el inmueble por su cuenta sin pagar honorarios al agente.",
+                "El agente está obligado a comprar el inmueble si no lo vende en el plazo pactado.",
+                "El contrato se convierte automáticamente en una hipoteca.",
+                "El cliente pierde la propiedad del inmueble durante la vigencia del contrato."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La exclusividad implica que la gestión se confía únicamente a un agente, y si se vende por otra vía, se deben honorarios. (Fuente: Página 5, Sección: 3.1. La nota de encargo)"
+        },
+        {
+            "question": "¿Qué elemento es esencial para la validez de un contrato de compraventa según el Código Civil?",
+            "options": [
+                "La entrega inmediata de las llaves.",
+                "El pago al contado de la totalidad del precio.",
+                "El consentimiento de los contratantes, objeto cierto y causa de la obligación.",
+                "La inscripción previa en el registro de la propiedad."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El artículo 1261 del Código Civil exige consentimiento, objeto y causa para la validez de los contratos. (Fuente: Página 7, Sección: 4. El contrato de compraventa)"
+        },
+        {
+            "question": "¿En qué se diferencian las arras penitenciales de las confirmatorias?",
+            "options": [
+                "Las penitenciales permiten desistir del contrato perdiendo la señal o devolviéndola duplicada.",
+                "Las confirmatorias permiten desistir sin penalización alguna.",
+                "Las penitenciales son obligatorias en todos los contratos verbales.",
+                "Las confirmatorias solo se aplican a bienes muebles."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Las arras penitenciales (art. 1454 CC) permiten el desistimiento mediante la pérdida o devolución duplicada de la señal. (Fuente: Página 8, Sección: 4.1. El contrato de arras)"
+        },
+        {
+            "question": "¿Qué ocurre si en el contrato de arras no se especifica el tipo de arras?",
+            "options": [
+                "Se presumen penitenciales.",
+                "Se presumen penales.",
+                "Se presumen confirmatorias.",
+                "El contrato es nulo de pleno derecho."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La jurisprudencia establece que, si no se especifica, las arras se consideran confirmatorias, es decir, un anticipo del precio. (Fuente: Página 8, Sección: 4.1. El contrato de arras)"
+        },
+        {
+            "question": "¿Cuál es la duración mínima de un contrato de arrendamiento de vivienda habitual según la LAU actual (2019 en adelante)?",
+            "options": [
+                "3 años si el arrendador es persona física.",
+                "5 años si el arrendador es persona física y 7 si es jurídica.",
+                "1 año prorrogable a voluntad del arrendador.",
+                "Indefinida hasta que el inquilino decida marcharse."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La LAU establece una duración mínima de 5 años (persona física) o 7 años (persona jurídica). (Fuente: Página 9, Sección: 5. El contrato de arrendamiento urbano)"
+        },
+        {
+            "question": "¿Qué fianza es obligatoria exigir en el arrendamiento de vivienda habitual?",
+            "options": [
+                "Dos mensualidades de renta.",
+                "Una mensualidad de renta.",
+                "Tres mensualidades de renta.",
+                "Ninguna, es opcional."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La fianza obligatoria en metálico para vivienda habitual es de una mensualidad de renta. (Fuente: Página 9, Sección: 5. El contrato de arrendamiento urbano)"
+        },
+        {
+            "question": "¿Y en el arrendamiento para uso distinto de vivienda (ej. local comercial)?",
+            "options": [
+                "Una mensualidad.",
+                "Dos mensualidades.",
+                "Seis meses de aval bancario.",
+                "Lo que pacten libremente las partes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Para uso distinto de vivienda, la fianza legal obligatoria es de dos mensualidades. (Fuente: Página 9, Sección: 5. El contrato de arrendamiento urbano)"
+        },
+        {
+            "question": "¿Qué es la opción de compra en un contrato de arrendamiento?",
+            "options": [
+                "La obligación del inquilino de comprar el inmueble al finalizar el contrato.",
+                "La facultad del arrendatario de adquirir la vivienda por un precio pactado en un plazo determinado.",
+                "El derecho del propietario a vender la vivienda a un tercero durante el alquiler.",
+                "Un impuesto especial sobre alquileres turísticos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La opción de compra permite al inquilino decidir si compra el inmueble en las condiciones pactadas, descontando a veces las rentas pagadas. (Fuente: Página 10, Sección: 5.2. Arrendamiento con opción de compra)"
+        },
+        {
+            "question": "En el caso práctico de 'Elena y Marcos', ¿por qué era importante distinguir entre arras penitenciales y confirmatorias?",
+            "options": [
+                "Porque Elena quería asegurarse de que Marcos no pudiera echarse atrás sin coste.",
+                "Porque Marcos quería pagar en negro una parte del precio.",
+                "Porque el banco exigía arras penales para conceder la hipoteca.",
+                "Para evitar pagar el Impuesto de Transmisiones Patrimoniales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Elena necesitaba seguridad, y las arras penitenciales permitían a Marcos desistir, mientras que las confirmatorias obligaban al cumplimiento. (Fuente: Página 11, Sección: 6. Caso práctico)"
+        },
+        {
+            "question": "¿Qué caracteriza al contrato de permuta inmobiliaria?",
+            "options": [
+                "El intercambio de un bien por dinero exclusivamente.",
+                "El intercambio de una cosa por otra (ej. solar por obra futura).",
+                "La donación gratuita de un inmueble a un familiar.",
+                "El alquiler de una vivienda con derecho a compra."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La permuta es el contrato por el cual cada uno de los contratantes se obliga a dar una cosa para recibir otra. (Fuente: Página 12, Sección: 7. Otros contratos inmobiliarios)"
+        },
+        {
+            "question": "¿En qué consiste el 'leasing' inmobiliario?",
+            "options": [
+                "Un arrendamiento financiero con opción de compra final.",
+                "Un alquiler turístico por temporadas.",
+                "Una hipoteca inversa para mayores de 65 años.",
+                "La venta de la nuda propiedad conservando el usufructo."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El leasing es un arrendamiento financiero que permite el uso del bien y su adquisición final por un valor residual. (Fuente: Página 12, Sección: 7. Otros contratos inmobiliarios)"
+        },
+        {
+            "question": "¿Qué ley regula las condiciones generales de la contratación para proteger a los consumidores?",
+            "options": [
+                "La Ley de Propiedad Horizontal.",
+                "La Ley General para la Defensa de los Consumidores y Usuarios.",
+                "El Código Penal.",
+                "La Ley de Secretos Oficiales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Esta ley protege a los consumidores frente a cláusulas abusivas en contratos redactados por profesionales. (Fuente: Página 13, Sección: 8. Protección del consumidor)"
+        },
+        {
+            "question": "¿Qué documento es obligatorio entregar al comprador de vivienda nueva según la normativa de consumo?",
+            "options": [
+                "El Documento Informativo Abreviado (DIA) o similar autonómico.",
+                "La partida de nacimiento del constructor.",
+                "El plano original manuscrito por el arquitecto.",
+                "La lista de futuros vecinos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Las normativas autonómicas exigen entregar un documento informativo (DIA) con datos claros sobre el inmueble y la venta. (Fuente: Página 13, Sección: 8. Protección del consumidor)"
+        },
+        {
+            "question": "¿Quién paga los gastos de otorgamiento de escritura pública salvo pacto en contrario según el Código Civil?",
+            "options": [
+                "El comprador al 100%.",
+                "El vendedor los de matriz y el comprador los de copias.",
+                "El notario debe asumirlos.",
+                "A medias entre ambas partes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Según el Código Civil, los gastos de otorgamiento de escrituras serán de cuenta del vendedor, y los de la primera copia del comprador, salvo pacto. (Fuente: Página 14, Sección: 9. Gastos e impuestos de la compraventa)"
+        },
+        {
+            "question": "¿Que impuesto grava la transmisión onerosa de bienes inmuebles entre particulares?",
+            "options": [
+                "El IVA (Impuesto sobre el Valor Añadido).",
+                "El ITP (Impuesto sobre Transmisiones Patrimoniales).",
+                "El IBI (Impuesto sobre Bienes Inmuebles).",
+                "El Impuesto de Sucesiones."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las transmisiones entre particulares están sujetas al ITP, competencia de las Comunidades Autónomas. (Fuente: Página 14, Sección: 9. Gastos e impuestos de la compraventa)"
+        },
+        {
+            "question": "En la compra de vivienda nueva al promotor, ¿qué impuesto se aplica?",
+            "options": [
+                "ITP.",
+                "IVA.",
+                "Plusvalía municipal exclusivamente.",
+                "Ninguno, está exenta."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La primera transmisión (vivienda nueva) está sujeta al IVA (generalmente 10%). (Fuente: Página 14, Sección: 9. Gastos e impuestos de la compraventa)"
+        },
+        {
+            "question": "¿Qué es la Plusvalía Municipal (IIVTNU)?",
+            "options": [
+                "Un impuesto sobre el incremento de valor de los terrenos de naturaleza urbana.",
+                "Un impuesto sobre la recogida de basuras.",
+                "Una tasa por la licencia de obras.",
+                "Un gravamen sobre los bienes rústicos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Es un impuesto local que grava el incremento de valor de los terrenos urbanos puesto de manifiesto en la transmisión. (Fuente: Página 14, Sección: 9. Gastos e impuestos de la compraventa)"
+        },
+        {
+            "question": "¿Quién es el sujeto pasivo de la Plusvalía Municipal en una compraventa?",
+            "options": [
+                "El comprador.",
+                "El notario.",
+                "El vendedor.",
+                "El agente inmobiliario."
+            ],
+            "correctAnswer": 2,
+            "explanation": "En las transmisiones onerosas, el sujeto pasivo obligado al pago es el transmisor (vendedor). (Fuente: Página 14, Sección: 9. Gastos e impuestos de la compraventa)"
+        }
+    ]
+}

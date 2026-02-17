@@ -1,0 +1,335 @@
+{
+  "title": "GESTIÓN INMOBILIARIA - TEMA 1",
+  "items": [
+    {
+      "question": "¿Cómo se define la gestión inmobiliaria según el texto?",
+      "options": [
+        "Un conjunto de técnicas para administrar, promover, comercializar y optimizar el uso y valor de bienes inmuebles.",
+        "La actividad exclusiva de construcción de viviendas protegidas por el Estado.",
+        "El proceso de financiación bancaria para la adquisición de terrenos rústicos.",
+        "La regulación municipal de las licencias de apertura para locales comerciales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La gestión inmobiliaria se define como el conjunto de técnicas y procedimientos para administrar, promover y optimizar el valor de inmuebles residenciales, comerciales o industriales. (Fuente: Página 4, Sección: 2. Concepto de gestión inmobiliaria y su importancia en la economía)"
+    },
+    {
+      "question": "Según datos del INE (2025), ¿qué porcentaje aproximado del PIB español representa el sector inmobiliario y de la construcción?",
+      "options": [
+        "Alrededor del 5 %.",
+        "Alrededor del 10 %.",
+        "Alrededor del 20 %.",
+        "Alrededor del 15 %."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sector inmobiliario y de la construcción representa aproximadamente el 10 % del PIB español según el Instituto Nacional de Estadística. (Fuente: Página 4, Sección: 2. Concepto de gestión inmobiliaria y su importancia en la economía)"
+    },
+    {
+      "question": "¿Cuál es una de las funciones sociales fundamentales de la gestión inmobiliaria?",
+      "options": [
+        "Aumentar el precio del suelo de forma especulativa.",
+        "Reducir el número de agentes inmobiliarios en el mercado.",
+        "Garantizar el acceso a una vivienda digna y regular el uso eficiente del suelo.",
+        "Eliminar la necesidad de registros oficiales en las comunidades autónomas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Además de su función económica, cumple la función social de garantizar el acceso a la vivienda y contribuir al desarrollo urbanístico sostenible. (Fuente: Página 4, Sección: 2. Concepto de gestión inmobiliaria y su importancia en la economía)"
+    },
+    {
+      "question": "¿Qué labor NO se menciona como función del agente inmobiliario?",
+      "options": [
+        "Asesoramiento técnico y comercial.",
+        "Valoración y análisis de inmuebles.",
+        "Ejecución material de la obra y construcción del edificio.",
+        "Gestión documental y legal."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La ejecución material de los proyectos es función de los constructores, no de los agentes inmobiliarios cuyas funciones son de intermediación y asesoría. (Fuente: Página 5, Sección: 3. Funciones del agente inmobiliario y su papel en el sector)"
+    },
+    {
+      "question": "En Cataluña y el País Vasco, ¿qué requisito es obligatorio para los agentes inmobiliarios?",
+      "options": [
+        "Ser arquitecto técnico colegiado.",
+        "Estar inscritos en un registro oficial.",
+        "Tener una antigüedad mínima de 10 años en el sector.",
+        "Trabajar exclusivamente para entidades financieras."
+      ],
+      "correctAnswer": 1,
+      "explanation": "En estas comunidades es obligatorio que los agentes estén inscritos en un registro oficial para garantizar su formación y responsabilidad. (Fuente: Página 5, Sección: 3. Funciones del agente inmobiliario y su papel en el sector)"
+    },
+    {
+      "question": "¿Qué caracteriza al contrato de mediación o corretaje?",
+      "options": [
+        "El agente se compromete a obtener un resultado garantizado de venta.",
+        "El agente actúa como mandatario con poder de firma final.",
+        "El agente busca compradores o arrendatarios actuando como intermediario.",
+        "El agente solo cobra si se formaliza la escritura ante notario sin excepciones."
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el contrato de mediación, el agente busca posibles interesados y tiene derecho a comisión si logra el acuerdo entre las partes. (Fuente: Página 6, Sección: 3. 1. Contratación del agente inmobiliario. Servicios)"
+    },
+    {
+      "question": "¿En qué se diferencia el contrato de arrendamiento de servicios del de mediación?",
+      "options": [
+        "Es un contrato donde el agente asume la representación legal total.",
+        "El agente se compromete a prestar servicios específicos independientemente del resultado.",
+        "Es el contrato que se firma obligatoriamente con las entidades financieras.",
+        "Solo puede firmarse para inmuebles de uso industrial."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A diferencia de la mediación, en el arrendamiento de servicios se pactan labores concretas (valoración, publicidad) que se remuneran por el servicio en sí. (Fuente: Página 6, Sección: 3. 1. Contratación del agente inmobiliario. Servicios)"
+    },
+    {
+      "question": "¿Qué implica el contrato de mandato en el sector inmobiliario?",
+      "options": [
+        "La obligación del cliente de no vender el piso por su cuenta.",
+        "La realización de obras de reforma por parte del agente.",
+        "La facultad del agente para representar al cliente y actuar en su nombre.",
+        "Un acuerdo de publicidad exclusiva en portales digitales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "El contrato de mandato implica una confianza total donde el agente puede negociar o incluso firmar contratos preliminares en nombre del cliente. (Fuente: Página 6, Sección: 3. 1. Contratación del agente inmobiliario. Servicios)"
+    },
+    {
+      "question": "¿Quiénes son los responsables de adquirir suelo, gestionar licencias y contratar constructoras?",
+      "options": [
+        "Los inversores institucionales.",
+        "Las SOCIMI.",
+        "Los promotores inmobiliarios.",
+        "Las agencias independientes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los promotores inmobiliarios impulsan los proyectos, asumen riesgos financieros y gestionan todo el proceso desde el suelo hasta la venta. (Fuente: Página 7, Sección: 4. Principales actores en el mercado inmobiliario)"
+    },
+    {
+      "question": "¿Qué papel desempeñan las entidades financieras en el ciclo inmobiliario?",
+      "options": [
+        "Redactan los proyectos técnicos de arquitectura.",
+        "Financian a promotores y compradores, y gestionan activos inmobiliarios.",
+        "Establecen los planes urbanísticos municipales.",
+        "Se encargan de la ejecución material de las obras de edificación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las entidades financieras tienen una doble función: financiar a promotores (créditos promotor) y a compradores (hipotecas). (Fuente: Página 7, Sección: 4. Principales actores en el mercado inmobiliario)"
+    },
+    {
+      "question": "¿Qué actor regula el uso del suelo mediante planes urbanísticos en España?",
+      "options": [
+        "Los Agentes de la Propiedad Inmobiliaria (API).",
+        "Las Administraciones públicas.",
+        "Los Colegios de Registradores.",
+        "Las Sociedades de Tasación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Administraciones públicas regulan el suelo, conceden licencias y promueven políticas de vivienda. (Fuente: Página 7, Sección: 4. Principales actores en el mercado inmobiliario)"
+    },
+    {
+      "question": "¿Qué es una SOCIMI?",
+      "options": [
+        "Una Sociedad Civil de Inmuebles Industriales.",
+        "Una Sociedad Cotizada de Inversión Inmobiliaria.",
+        "Un Seguro de Obligación Civil Inmobiliaria.",
+        "Un Sistema Operativo de Construcción de Inmuebles Múltiples."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las SOCIMI son inversores institucionales que gestionan carteras de inmuebles como activo financiero. (Fuente: Página 7, Sección: 4. Principales actores en el mercado inmobiliario)"
+    },
+    {
+      "question": "En el caso práctico de Almudena, ¿qué significa un encargo de 'exclusiva plena o compartida'?",
+      "options": [
+        "El propietario puede vender por su cuenta sin pagar honorarios.",
+        "Varias agencias pueden anunciar el piso simultáneamente sin previo aviso.",
+        "Otorga a la agencia el derecho exclusivo de venta durante un plazo determinado.",
+        "La agencia solo cobra si el comprador es extranjero."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La exclusiva plena otorga el derecho de gestión único a la agencia durante un tiempo pactado, incluso si vende el propietario. (Fuente: Página 8, Sección: 5. Caso práctico 1: “Formalización de contratos: El caso de Almudena”)"
+    },
+    {
+      "question": "¿Qué ley regula aspectos como la duración mínima del contrato de alquiler de vivienda habitual?",
+      "options": [
+        "La Ley de Propiedad Horizontal.",
+        "La Ley Hipotecaria.",
+        "La Ley de Arrendamientos Urbanos (LAU).",
+        "El Reglamento del Registro de la Propiedad."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LAU (Ley 29/1994) regula los arrendamientos de fincas urbanas y sus prórrogas. (Fuente: Página 9, Sección: 6. Normativa básica aplicable en España)"
+    },
+    {
+      "question": "¿Qué norma es fundamental para regular el reparto de gastos y la toma de decisiones en comunidades de propietarios?",
+      "options": [
+        "El Código Civil.",
+        "La Ley de Propiedad Horizontal (LPH).",
+        "La Ley del Suelo.",
+        "La Ley de Transparencia Inmobiliaria."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LPH (Ley 49/1960) regula la constitución de comunidades y las obligaciones de los copropietarios. (Fuente: Página 9, Sección: 6. Normativa básica aplicable en España)"
+    },
+    {
+      "question": "¿Qué ley clasifica el suelo en urbano, urbanizable y rústico?",
+      "options": [
+        "La Ley Hipotecaria.",
+        "El Código Civil.",
+        "La Ley de Suelo y Rehabilitación Urbana.",
+        "La Ley de Arrendamientos Urbanos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Real Decreto Legislativo 7/2015 establece los principios de clasificación del suelo y planeamiento. (Fuente: Página 9, Sección: 6. Normativa básica aplicable en España)"
+    },
+    {
+      "question": "¿Cuál es la función principal de la Ley Hipotecaria y su Reglamento?",
+      "options": [
+        "Regular la construcción de edificios sostenibles.",
+        "Establecer los honorarios de los agentes inmobiliarios.",
+        "Regular el sistema registral y la inscripción de derechos reales.",
+        "Fijar el precio máximo de los alquileres."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley Hipotecaria regula el Registro de la Propiedad, ofreciendo publicidad y protección frente a terceros. (Fuente: Página 9, Sección: 6. Normativa básica aplicable en España)"
+    },
+    {
+      "question": "¿Cuál es la base jurídica general para los contratos privados y las obligaciones en España?",
+      "options": [
+        "El Código Civil.",
+        "La Ley de Propiedad Horizontal.",
+        "La Ley de Ordenación de la Edificación.",
+        "El Estatuto del Agente Inmobiliario."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Código Civil regula de forma general la compraventa, arrendamiento y obligaciones contractuales. (Fuente: Página 9, Sección: 6. Normativa básica aplicable en España)"
+    },
+    {
+      "question": "¿Cuándo se transfiere legalmente la propiedad de un inmueble en España?",
+      "options": [
+        "Al firmar el contrato de arras.",
+        "Al entregar las llaves físicamente.",
+        "Al firmar la escritura pública ante notario e inscribirla en el Registro de la Propiedad.",
+        "Cuando el comprador paga el primer plazo de la hipoteca."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La transferencia legal plena requiere la escritura pública y la inscripción registral para ser oponible a terceros. (Fuente: Página 10, Sección: 6. 1. La inscripción registral y la regulación profesional del agente inmobiliario)"
+    },
+    {
+      "question": "¿Qué significa que un derecho sea 'oponible frente a terceros' tras su inscripción registral?",
+      "options": [
+        "Que el propietario no puede vender el piso a nadie más.",
+        "Que cualquier persona puede consultar y comprobar la situación legal inscrita.",
+        "Que el banco no puede ejecutar la hipoteca.",
+        "Que los vecinos deben aceptar al nuevo propietario obligatoriamente."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La oponibilidad significa que la situación legal inscrita es pública y protegida frente a reclamaciones de terceros no inscritos. (Fuente: Página 10, Sección: 6. 1. La inscripción registral y la regulación profesional del agente inmobiliario)"
+    },
+    {
+      "question": "¿Qué garantiza la inscripción de un profesional en un registro oficial de agentes inmobiliarios en comunidades como la Valenciana?",
+      "options": [
+        "Un sueldo mínimo garantizado por el Estado.",
+        "La exención de pagar el Impuesto de Actividades Económicas.",
+        "Formación mínima, seguro de responsabilidad civil y cumplimiento de código ético.",
+        "La potestad para tasar bienes inmuebles oficiales del Estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La inscripción garantiza que el profesional tiene formación, seguro y ética profesional, protegiendo al consumidor. (Fuente: Página 10, Sección: 6. 1. La inscripción registral y la regulación profesional del agente inmobiliario)"
+    },
+    {
+      "question": "¿Qué documento debe revisar Javier para asegurar el estado de cargas de la vivienda de Pablo y Virginia?",
+      "options": [
+        "El catastro municipal.",
+        "La escritura de propiedad original.",
+        "El Registro de la Propiedad.",
+        "El contrato de suministros de agua y luz."
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Registro de la Propiedad es el lugar donde se comprueba la titularidad y las cargas reales del inmueble. (Fuente: Página 12, Sección: 7. Caso práctico 2: “Pablo y Virginia: La compra segura de su primera vivienda”)"
+    },
+    {
+      "question": "En el análisis urbanístico, ¿cuáles son los tres tipos principales de clasificación del suelo?",
+      "options": [
+        "Productivo, residencial y comercial.",
+        "Urbano, urbanizable y rústico.",
+        "Protegido, libre y dotacional.",
+        "Edificable, no edificable y de servicios."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La normativa de suelo clasifica los terrenos en estas tres categorías según su capacidad de desarrollo. (Fuente: Página 13, Sección: 8. Resumen y resolución del caso práctico de la unidad)"
+    },
+    {
+      "question": "¿Qué factor demográfico debe considerar un gestor inmobiliario para analizar el mercado local?",
+      "options": [
+        "La tasa de inflación anual.",
+        "El crecimiento o decrecimiento de la población.",
+        "El tipo de interés de las hipotecas fijas.",
+        "El precio de los materiales de construcción."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evolución demográfica es un factor general clave para entender la demanda futura en una región. (Fuente: Página 13, Sección: 8. Resumen y resolución del caso práctico de la unidad)"
+    },
+    {
+      "question": "¿A quién corresponde la concesión de licencias de obra y actividad?",
+      "options": [
+        "A los Registradores de la Propiedad.",
+        "A los Notarios.",
+        "A las Administraciones públicas (Ayuntamientos).",
+        "A los Agentes Inmobiliarios independientes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los ayuntamientos regulan las licencias urbanísticas y los impuestos como el IBI. (Fuente: Página 9, Sección: 6. Normativa básica aplicable en España)"
+    },
+    {
+      "question": "Dentro de la gestión documental de un agente, ¿qué trámite es esencial comprobar?",
+      "options": [
+        "Las cargas registrales del inmueble.",
+        "La decoración interior de la vivienda.",
+        "La marca de los electrodomésticos instalados.",
+        "El historial médico de los vendedores."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comprobación de cargas registrales es parte de la gestión documental y legal que aporta seguridad. (Fuente: Página 5, Sección: 3. Funciones del agente inmobiliario y su papel en el sector)"
+    },
+    {
+      "question": "¿Cuál es el impacto social de la gestión inmobiliaria mencionado en el texto?",
+      "options": [
+        "La creación de una red de oficinas físicas en todas las ciudades.",
+        "La planificación territorial sostenible y acceso a la vivienda.",
+        "La obligatoriedad de contratar seguros de vida.",
+        "La digitalización total de los contratos de alquiler."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tiene impacto en el acceso a la vivienda y la configuración del entorno urbano y territorial. (Fuente: Página 3, Sección: 1. Introducción y contextualización práctica)"
+    },
+    {
+      "question": "En el esquema resumen, ¿con qué sectores económicos se relaciona la gestión inmobiliaria?",
+      "options": [
+        "Turismo y hostelería exclusivamente.",
+        "Construcción, financiación y urbanismo.",
+        "Agricultura y ganadería intensiva.",
+        "Transporte y logística internacional."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La gestión inmobiliaria dinamiza sectores como la construcción, arquitectura, urbanismo y finanzas. (Fuente: Página 4, Sección: 2. Concepto de gestión inmobiliaria e importancia)"
+    },
+    {
+      "question": "¿Qué permite al agente inmobiliario actuar con profesionalidad y objetividad?",
+      "options": [
+        "Una formación integral y visión estratégica del mercado.",
+        "El uso exclusivo de redes sociales para captación.",
+        "La aplicación de comisiones superiores al 10 %.",
+        "La firma de contratos únicamente verbales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ejercicio profesional requiere competencias técnicas, jurídicas y una visión global para ofrecer un servicio ético. (Fuente: Página 4, Sección: 3. Funciones del agente inmobiliario y su papel en el sector)"
+    },
+    {
+      "question": "¿Qué legislación regula la constitución de las comunidades de vecinos?",
+      "options": [
+        "La Ley de Arrendamientos Urbanos.",
+        "El Código de Comercio.",
+        "La Ley de Propiedad Horizontal.",
+        "La Ley de Cooperativas Inmobiliarias."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley de Propiedad Horizontal (LPH) es la norma básica para la gestión de comunidades de propietarios. (Fuente: Página 9, Sección: 6. Normativa básica aplicable en España)"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Exámenes – GESTIÓN INMOBILIARIA</title>
+    <style>
+        :root {
+            --bg: #2a1a1f;
+            --panel: rgba(75, 35, 45, 0.8);
+            --text: #fff0f5;
+            --muted: #e7b5c7;
+            --neon-main: #ff69b4;
+            /* hot pink principal */
+            --neon-alt: #ffb6c1;
+            /* rosa claro */
+            --border: #5c2e3a;
+            --shadow: 0 6px 16px rgba(0, 0, 0, .45);
+            --radius: 10px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html,
+        body {
+            height: 100%;
+            overflow-y: scroll;
+            scrollbar-width: none;
+        }
+
+        body::-webkit-scrollbar {
+            display: none;
+        }
+
+        body {
+            font-family: system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        canvas#bgCanvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background: var(--bg);
+        }
+
+        .wrap {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        header.app {
+            text-align: center;
+            margin: 18px 0 14px;
+        }
+
+        header.app h1 {
+            margin: 0;
+            font-size: clamp(1.2rem, 4vw, 2.2rem);
+            text-shadow: 0 0 8px rgba(255, 105, 180, 0.35), 0 0 14px rgba(255, 182, 193, 0.25);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 14px;
+            margin-top: 20px;
+        }
+
+        .card {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px 14px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            background: linear-gradient(180deg, rgba(90, 50, 65, 0.85), rgba(60, 30, 40, 0.85));
+            text-decoration: none;
+            color: var(--text);
+            box-shadow: var(--shadow);
+            transition: all .2s ease-in-out;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .card:hover {
+            transform: translateY(-3px) scale(1.02);
+            border-color: var(--neon-main);
+            box-shadow: 0 0 8px var(--neon-main), 0 0 16px var(--neon-alt), 0 0 30px rgba(255, 182, 193, 0.5);
+        }
+
+        .card .kicker {
+            font-size: .9rem;
+            font-weight: 700;
+            color: var(--neon-main);
+            margin-bottom: 6px;
+            letter-spacing: .4px;
+        }
+
+        .card strong {
+            font-size: .95rem;
+            letter-spacing: .4px;
+            color: var(--text);
+        }
+
+        .badge {
+            margin-top: 8px;
+            font-size: .75rem;
+            padding: 4px 8px;
+            border-radius: 999px;
+            border: 1px solid #5c2e3a;
+            background: #4b232d;
+            color: var(--muted);
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="bgCanvas"></canvas>
+
+    <div class="wrap" id="app">
+        <header class="app">
+            <h1>GESTIÓN INMOBILIARIA</h1>
+        </header>
+
+        <section class="grid" id="grid"></section>
+    </div>
+
+    <script>
+        // Fondo dinámico rosa
+        const canvas = document.getElementById("bgCanvas");
+        const ctx = canvas.getContext("2d");
+        let particles = [];
+
+        function resize() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+            particles = Array.from({ length: 100 }, () => ({
+                x: Math.random() * canvas.width,
+                y: Math.random() * canvas.height,
+                r: Math.random() * 2 + 1,
+                dx: (Math.random() - 0.5) * 0.6,
+                dy: (Math.random() - 0.5) * 0.6
+            }));
+        }
+        function draw() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.fillStyle = "#ff69b4";
+            particles.forEach(p => {
+                ctx.beginPath();
+                ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+                ctx.fill();
+                p.x += p.dx;
+                p.y += p.dy;
+                if (p.x < 0 || p.x > canvas.width) p.dx *= -1;
+                if (p.y < 0 || p.y > canvas.height) p.dy *= -1;
+            });
+            requestAnimationFrame(draw);
+        }
+        window.addEventListener("resize", resize);
+        resize();
+        draw();
+
+        // Script de exámenes
+        (function () {
+            // Generamos 15 temas
+            const temas = Array.from({ length: 15 }, (_, i) => {
+                const n = i + 1;
+                // La URL apunta a exam.html con el parámetro tema_N
+                return {
+                    tipo: 'temas',
+                    numero: n,
+                    titulo: `TEMA ${n}`,
+                    href: `exam.html?exam=tema_${n}`
+                };
+            });
+
+            const grid = document.getElementById('grid');
+
+            function render() {
+                grid.innerHTML = temas.map(it => `
+          <a class="card" href="${it.href}">
+            <div class="kicker">EXAMEN</div>
+            <strong>${it.titulo}</strong>
+            <span class="badge">Tema ${it.numero}</span>
+          </a>
+        `).join('');
+            }
+
+            render();
+        })();
+    </script>
+</body>
+
+</html>
