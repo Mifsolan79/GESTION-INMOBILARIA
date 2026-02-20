@@ -134,15 +134,15 @@
             "explanation": "El derecho a la propiedad comprende, entre otras, las facultades de consulta a las Administraciones sobre la situación urbanística. (Fuente: Página 7, Sección: Protección constitucional y régimen jurídico del derecho de propiedad)"
         },
         {
-            "question": "En el caso de 'Los hermanos Ramírez', ¿por qué no podían vender el pleno dominio?",
+            "question": "¿Por qué el nudo propietario no puede transmitir el pleno dominio de un inmueble si existe un usufructo vitalicio vigente?",
             "options": [
-                "Porque la finca era rústica y no urbanizable.",
-                "Porque existía un usufructo vitalicio a favor de su madre.",
-                "Porque la servidumbre de paso impedía cualquier transmisión.",
-                "Porque la nuda propiedad no permite la venta a terceros."
+                "Porque la finca es rústica y la ley lo impide en todo caso.",
+                "Porque el usufructo vitalicio otorga al usufructuario el derecho de uso hasta su fallecimiento, limitando la disponibilidad plena.",
+                "Porque la servidumbre de paso impide cualquier tipo de transmisión.",
+                "Porque la nuda propiedad nunca permite la venta a terceros ni siquiera con consentimiento."
             ],
             "correctAnswer": 1,
-            "explanation": "La existencia de un usufructo vitalicio impide la transmisión del pleno dominio sin el consentimiento expreso de la usufructuaria. (Fuente: Página 8, Sección: Caso práctico 1)"
+            "explanation": "La existencia de un usufructo vitalicio impide la transmisión del pleno dominio sin el consentimiento expreso del usufructuario, ya que éste conserva el derecho de uso y disfrute durante toda su vida. (Fuente: Página 6, Sección: Derecho de usufructo)"
         },
         {
             "question": "¿Qué sucede con una servidumbre de paso si la propiedad cambia de titular?",
@@ -211,15 +211,15 @@
             "explanation": "Esta norma establece la clasificación del suelo madrileño en suelo urbano, urbanizable y no urbanizable, entre otros aspectos. (Fuente: Página 10, Sección: Normativas urbanísticas autonómicas)"
         },
         {
-            "question": "En el caso de 'Rubén', ¿por qué no puede instalar una casa prefabricada?",
+            "question": "¿Qué tipo de construcciones residenciales están permitidas en el suelo no urbanizable (suelo rural)?",
             "options": [
-                "Porque las casas prefabricadas están prohibidas en toda España.",
-                "Porque el terreno está clasificado como suelo no urbanizable.",
-                "Porque no ha inscrito la casa en el Registro de la Propiedad.",
-                "Porque su parcela no tiene una servidumbre de luces."
+                "Las casas prefabricadas de baja altura están permitidas por ser desmontables.",
+                "No se puede construir ninguna vivienda residencial de ningún tipo.",
+                "Solo se permiten viviendas cuya superficie no supere los 50 m².",
+                "Cualquier vivienda siempre que el propietario del terreno preste su consentimiento."
             ],
             "correctAnswer": 1,
-            "explanation": "Al ser suelo no urbanizable, no se puede construir vivienda residencial de ningún tipo, incluidas las prefabricadas. (Fuente: Página 11, Sección: Caso práctico 2)"
+            "explanation": "En suelo no urbanizable (rural), la legislación no permite la construcción de viviendas residenciales de ningún tipo, incluyendo las prefabricadas, salvo usos específicos autorizados (agrícolas, forestales o de infraestructuras). (Fuente: Página 9, Sección: La Ley del Suelo: Marco estatal)"
         },
         {
             "question": "¿Garantiza la inscripción en el Registro de la Propiedad el derecho a edificar?",

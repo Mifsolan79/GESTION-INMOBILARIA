@@ -112,15 +112,15 @@
             "explanation": "La opción de compra permite al inquilino decidir si compra el inmueble en las condiciones pactadas, descontando a veces las rentas pagadas. (Fuente: Página 10, Sección: 5.2. Arrendamiento con opción de compra)"
         },
         {
-            "question": "En el caso práctico de 'Elena y Marcos', ¿por qué era importante distinguir entre arras penitenciales y confirmatorias?",
+            "question": "¿Cuándo conviene pactar arras penitenciales en lugar de confirmatorias al firmar un precontrato de compraventa?",
             "options": [
-                "Porque Elena quería asegurarse de que Marcos no pudiera echarse atrás sin coste.",
-                "Porque Marcos quería pagar en negro una parte del precio.",
-                "Porque el banco exigía arras penales para conceder la hipoteca.",
-                "Para evitar pagar el Impuesto de Transmisiones Patrimoniales."
+                "Cuando el vendedor quiere asegurarse de que el comprador no se eche atrás sin coste alguno.",
+                "Cuando el comprador quiere pagar en varios plazos una parte del precio fuera de escritura.",
+                "Cuando el banco exige una garantía adicional para conceder la hipoteca al comprador.",
+                "Para evitar el pago del Impuesto de Transmisiones Patrimoniales en la firma de la escritura."
             ],
             "correctAnswer": 0,
-            "explanation": "Elena necesitaba seguridad, y las arras penitenciales permitían a Marcos desistir, mientras que las confirmatorias obligaban al cumplimiento. (Fuente: Página 11, Sección: 6. Caso práctico)"
+            "explanation": "Las arras penitenciales (art. 1454 CC) son útiles cuando una parte quiere mantener la seguridad de la operación: si el comprador desiste pierde la señal y si desiste el vendedor debe devolverla duplicada. Las confirmatorias, en cambio, son solo un anticipo del precio y obligan al cumplimiento del contrato. (Fuente: Página 8, Sección: 4.1. El contrato de arras)"
         },
         {
             "question": "¿Qué caracteriza al contrato de permuta inmobiliaria?",

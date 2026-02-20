@@ -266,48 +266,48 @@
             "explanation": "En inmuebles sujetos a precio máximo de venta fijado administrativamente (viviendas protegidas), el valor catastral nunca podrá superar dicho límite legal. (Fuente: Página 11, Sección: Valoración catastral)"
         },
         {
-            "question": "En el Caso Práctico 2 sobre el local en Lavapiés, ¿qué descubre Carlos al consultar la nota simple?",
+            "question": "¿Qué información puede descubrir un comprador al consultar la nota simple de un inmueble antes de firmarlo?",
             "options": [
-                "Que el local no existe físicamente.",
-                "Que el vendedor es el mismo que figura como titular registral.",
-                "Que el titular registral es una sociedad distinta a la vendedora.",
-                "Que el local está exento de pagar el IBI."
-            ],
-            "correctAnswer": 2,
-            "explanation": "Descubre que el titular registral del inmueble es una sociedad distinta a la que aparece como vendedora en el contrato. (Fuente: Página 11, Sección: Caso práctico 2)"
-        },
-        {
-            "question": "¿Por qué el profesional le recomienda a Carlos solicitar una certificación registral en lugar de quedarse solo con la nota simple?",
-            "options": [
-                "Porque la certificación es gratuita y la nota simple no.",
-                "Porque la certificación tiene valor probatorio y la nota simple es meramente informativa.",
-                "Porque la certificación se entrega en el acto y la nota simple tarda meses.",
-                "Porque la certificación incluye fotos del interior del local."
+                "Que el inmueble no existe físicamente en el catastro.",
+                "El titular registral real, las cargas (hipotecas, embargos) y la descripción del bien.",
+                "Los datos personales de todos los inquilinos anteriores.",
+                "El historial de reformas y valor de mercado actualizado."
             ],
             "correctAnswer": 1,
-            "explanation": "Le aclara que la nota simple es útil como consulta informativa, pero le recomienda la certificación porque tiene valor probatorio. (Fuente: Página 12, Sección: Caso práctico 2)"
+            "explanation": "La nota simple informativa refleja el titular registral, la descripción del inmueble y las cargas inscritas (hipotecas, embargos, servidumbres), siendo un documento clave para comprobaciones previas a una compraventa. (Fuente: Página 6, Sección: Publicidad registral)"
         },
         {
-            "question": "Según la resolución del caso práctico final, ¿qué ley regula el procedimiento de coordinación entre el Registro y el Catastro?",
+            "question": "¿Por qué se recomienda solicitar una certificación registral y no conformarse únicamente con la nota simple ante un juzgado o un tercero?",
             "options": [
-                "La Ley 13/2015.",
-                "El Decreto de 1946.",
+                "Porque la certificación es gratuita y la nota simple tiene un coste elevado.",
+                "Porque la certificación tiene valor probatorio pleno mientras que la nota simple es solo informativa.",
+                "Porque la certificación se entrega en el acto y la nota simple tarda meses en obtenerse.",
+                "Porque la certificación incluye fotos actuales del interior del inmueble."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La nota simple es un documento meramente informativo, útil para consultas previas, pero la certificación registral es el único medio que acredita de forma fehaciente el contenido de los asientos registrales ante terceros o tribunales. (Fuente: Página 6, Sección: Publicidad registral)"
+        },
+        {
+            "question": "¿Qué ley regula el procedimiento de coordinación entre el Registro de la Propiedad y el Catastro Inmobiliario en España?",
+            "options": [
+                "La Ley 13/2015, de Reforma de la Ley Hipotecaria y del Texto Refundido de la Ley del Catastro.",
+                "El Decreto Hipotecario de 1946.",
                 "La Ley de Enjuiciamiento Civil.",
                 "La Ley General Tributaria."
             ],
             "correctAnswer": 0,
-            "explanation": "Para evitar problemas de discrepancia, se debe iniciar el procedimiento de coordinación regulado por la Ley 13/2015. (Fuente: Página 13, Sección: Resolución del caso práctico de la unidad)"
+            "explanation": "La Ley 13/2015 reformó la Ley Hipotecaria y el Texto Refundido de la Ley del Catastro para establecer el procedimiento que permite la coordinación gráfica entre ambos registros. (Fuente: Página 13, Sección: Diferencias entre catastro y registro de la propiedad)"
         },
         {
-            "question": "¿Qué documento técnico se menciona como necesario para la coordinación entre Registro y Catastro?",
+            "question": "¿Qué documento técnico se requiere para iniciar el procedimiento de coordinación entre el Registro de la Propiedad y el Catastro cuando existe discrepancia en la descripción del inmueble?",
             "options": [
-                "Un contrato de alquiler antiguo.",
-                "Una representación gráfica georreferenciada actualizada.",
-                "Un inventario de bienes muebles.",
-                "Un certificado de antecedentes penales del titular."
+                "Un contrato de alquiler de la época de la construcción del inmueble.",
+                "Una representación gráfica georreferenciada actualizada elaborada por un técnico.",
+                "Un inventario detallado de todos los bienes muebles del inmueble.",
+                "Un certificado de antecedentes penales del titular registral."
             ],
             "correctAnswer": 1,
-            "explanation": "Deberá aportar una representación gráfica georreferenciada actualizada elaborada por un técnico. (Fuente: Página 13, Sección: Resolución del caso práctico de la unidad)"
+            "explanation": "Para coordinar la descripción del inmueble entre Registro y Catastro es necesario aportar una representación gráfica georreferenciada actualizada, elaborada por un técnico cualificado, conforme a la Ley 13/2015. (Fuente: Página 13, Sección: Diferencias entre catastro y registro de la propiedad)"
         },
         {
             "question": "¿Cuál es el efecto del Registro de la Propiedad frente a terceros?",

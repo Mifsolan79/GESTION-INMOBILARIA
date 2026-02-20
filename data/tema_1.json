@@ -134,7 +134,7 @@
       "explanation": "Las SOCIMI son inversores institucionales que gestionan carteras de inmuebles como activo financiero. (Fuente: Página 7, Sección: 4. Principales actores en el mercado inmobiliario)"
     },
     {
-      "question": "En el caso práctico de Almudena, ¿qué significa un encargo de 'exclusiva plena o compartida'?",
+      "question": "¿Qué implica pactar una cláusula de 'exclusiva plena' en un contrato de encargo inmobiliario?",
       "options": [
         "El propietario puede vender por su cuenta sin pagar honorarios.",
         "Varias agencias pueden anunciar el piso simultáneamente sin previo aviso.",
@@ -142,7 +142,7 @@
         "La agencia solo cobra si el comprador es extranjero."
       ],
       "correctAnswer": 2,
-      "explanation": "La exclusiva plena otorga el derecho de gestión único a la agencia durante un tiempo pactado, incluso si vende el propietario. (Fuente: Página 8, Sección: 5. Caso práctico 1: “Formalización de contratos: El caso de Almudena”)"
+      "explanation": "La exclusiva plena otorga el derecho de gestión único a la agencia durante un tiempo pactado. Si el propietario vende por su cuenta durante ese periodo, igualmente deberá abonar los honorarios al agente. (Fuente: Página 8, Sección: 3.1. Contratación del agente inmobiliario. Servicios)"
     },
     {
       "question": "¿Qué ley regula aspectos como la duración mínima del contrato de alquiler de vivienda habitual?",
@@ -233,7 +233,7 @@
       "explanation": "La inscripción garantiza que el profesional tiene formación, seguro y ética profesional, protegiendo al consumidor. (Fuente: Página 10, Sección: 6. 1. La inscripción registral y la regulación profesional del agente inmobiliario)"
     },
     {
-      "question": "¿Qué documento debe revisar Javier para asegurar el estado de cargas de la vivienda de Pablo y Virginia?",
+      "question": "¿En qué organismo debe comprobarse el estado de cargas (hipotecas, embargos) de un inmueble antes de su compra?",
       "options": [
         "El catastro municipal.",
         "La escritura de propiedad original.",
@@ -241,7 +241,7 @@
         "El contrato de suministros de agua y luz."
       ],
       "correctAnswer": 2,
-      "explanation": "El Registro de la Propiedad es el lugar donde se comprueba la titularidad y las cargas reales del inmueble. (Fuente: Página 12, Sección: 7. Caso práctico 2: “Pablo y Virginia: La compra segura de su primera vivienda”)"
+      "explanation": "El Registro de la Propiedad es el organismo donde se comprueba la titularidad real del inmueble y la existencia de cargas (hipotecas, embargos, servidumbres), siendo una consulta imprescindible antes de cualquier compraventa. (Fuente: Página 10, Sección: 6.1. La inscripción registral y la regulación profesional del agente inmobiliario)"
     },
     {
       "question": "En el análisis urbanístico, ¿cuáles son los tres tipos principales de clasificación del suelo?",
