@@ -112,15 +112,15 @@
             "explanation": "La opción de compra permite al inquilino decidir si compra el inmueble en las condiciones pactadas, descontando a veces las rentas pagadas. (Fuente: Página 10, Sección: 5.2. Arrendamiento con opción de compra)"
         },
         {
-            "question": "¿Cuándo conviene pactar arras penitenciales en lugar de confirmatorias al firmar un precontrato de compraventa?",
+            "question": "¿Cuándo conviene pactar arras penitenciales en lugar de confirmatorias?",
             "options": [
+                "Cuando las partes quieren tener la libertad de desistir del contrato asumiendo una penalización.",
                 "Cuando el vendedor quiere asegurarse de que el comprador no se eche atrás sin coste alguno.",
                 "Cuando el comprador quiere pagar en varios plazos una parte del precio fuera de escritura.",
-                "Cuando el banco exige una garantía adicional para conceder la hipoteca al comprador.",
-                "Para evitar el pago del Impuesto de Transmisiones Patrimoniales en la firma de la escritura."
+                "Cuando el banco exige una garantía adicional para conceder la hipoteca al comprador."
             ],
             "correctAnswer": 0,
-            "explanation": "Las arras penitenciales (art. 1454 CC) son útiles cuando una parte quiere mantener la seguridad de la operación: si el comprador desiste pierde la señal y si desiste el vendedor debe devolverla duplicada. Las confirmatorias, en cambio, son solo un anticipo del precio y obligan al cumplimiento del contrato. (Fuente: Página 8, Sección: 4.1. El contrato de arras)"
+            "explanation": "Las arras penitenciales (art. 1454 CC) son útiles cuando una parte quiere mantener la seguridad de la operación: si el comprador desiste pierde la señal y si desiste el vendedor debe devolverla duplicada. (Fuente: Página 8, Sección: 4.1. El contrato de arras)"
         },
         {
             "question": "¿Qué caracteriza al contrato de permuta inmobiliaria?",
@@ -178,7 +178,7 @@
             "explanation": "Según el Código Civil, los gastos de otorgamiento de escrituras serán de cuenta del vendedor, y los de la primera copia del comprador, salvo pacto. (Fuente: Página 14, Sección: 9. Gastos e impuestos de la compraventa)"
         },
         {
-            "question": "¿Que impuesto grava la transmisión onerosa de bienes inmuebles entre particulares?",
+            "question": "¿Qué impuesto grava la transmisión onerosa de bienes inmuebles entre particulares?",
             "options": [
                 "El IVA (Impuesto sobre el Valor Añadido).",
                 "El ITP (Impuesto sobre Transmisiones Patrimoniales).",
@@ -220,6 +220,116 @@
             ],
             "correctAnswer": 2,
             "explanation": "En las transmisiones onerosas, el sujeto pasivo obligado al pago es el transmisor (vendedor). (Fuente: Página 14, Sección: 9. Gastos e impuestos de la compraventa)"
+        },
+        {
+            "question": "¿Qué documento expedido por el Registro de la Propiedad permite verificar la titularidad y cargas de un inmueble?",
+            "options": [
+                "El Certificado de Eficiencia Energética.",
+                "La Cédula de Habitabilidad.",
+                "El Documento Informativo Abreviado (DIA).",
+                "La Nota Simple."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La nota simple permite verificar si el propietario es quien dice ser y si el inmueble tiene cargas o gravámenes. (Fuente: Página 4, Sección: 2.1. Otros elementos y trámites)"
+        },
+        {
+            "question": "¿Qué acredita que un inmueble cumple las condiciones mínimas de higiene e instalaciones para ser habitado?",
+            "options": [
+                "El Impuesto sobre Bienes Inmuebles (IBI).",
+                "La Cédula de Habitabilidad.",
+                "La Nota de Encargo.",
+                "La Escritura Pública de Compraventa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La cédula de habitabilidad acredita que el inmueble cumple con condiciones de higiene, medición e instalaciones. (Fuente: Página 4, Sección: 2.1. Otros elementos y trámites)"
+        },
+        {
+            "question": "¿Cuál es una de las obligaciones principales del agente inmobiliario tras la firma de la nota de encargo?",
+            "options": [
+                "Garantizar la financiación bancaria al comprador.",
+                "Hacerse cargo de los gastos de notaría del cliente.",
+                "Informar con transparencia al cliente sobre el estado de la operación.",
+                "Comprar el inmueble si no se vende en el plazo pactado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El agente debe actuar con diligencia, buena fe e informar con transparencia sobre la operación. (Fuente: Página 6, Sección: 3.2. Obligaciones del agente)"
+        },
+        {
+            "question": "¿Qué obligación tiene el cliente que contrata los servicios de un agente inmobiliario?",
+            "options": [
+                "Pagar los honorarios al agente únicamente si no logra vender el piso.",
+                "Aportar información veraz y la documentación del inmueble.",
+                "Ceder la propiedad legal del inmueble al agente durante la gestión.",
+                "Contratar obligatoriamente un seguro de vida con la inmobiliaria."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El cliente debe aportar información veraz y facilitar el desarrollo de la mediación. (Fuente: Página 7, Sección: 3.3. Obligaciones del cliente)"
+        },
+        {
+            "question": "¿Qué sucede si en un arrendamiento de vivienda habitual no se manifiesta la intención de no renovar con 30 días de antelación?",
+            "options": [
+                "El contrato se extingue definitivamente.",
+                "El inquilino debe abandonar la vivienda inmediatamente.",
+                "El contrato se prorroga automáticamente cada año hasta los 5 o 7 años.",
+                "El propietario puede duplicar la renta de forma unilateral."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Si no hay comunicación previa, el contrato se prorroga anualmente hasta alcanzar el mínimo legal. (Fuente: Página 12, Sección: 6. Principales diferencias)"
+        },
+        {
+            "question": "En el arrendamiento para uso distinto de vivienda, ¿cómo se determina la duración del contrato?",
+            "options": [
+                "Es obligatoriamente de 5 años.",
+                "Se pacta libremente entre las partes sin un periodo mínimo legal.",
+                "Viene impuesta por el Código Civil en 3 años fijos.",
+                "Depende exclusivamente de la antigüedad del edificio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A diferencia de la vivienda habitual, en el uso distinto se pacta libremente la duración. (Fuente: Página 11, Sección: 6. Principales diferencias)"
+        },
+        {
+            "question": "¿Qué son las arras penales en un precontrato de compraventa?",
+            "options": [
+                "Un tipo de multa que impone el ayuntamiento por retraso en el pago de impuestos.",
+                "Una fianza que se pierde si el inquilino no limpia la vivienda al salir.",
+                "Una garantía de cumplimiento donde la cantidad se pierde o devuelve duplicada, pero se puede exigir el cumplimiento del contrato.",
+                "Un seguro obligatorio que cubre los daños estructurales del edificio."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las arras penales actúan como resarcimiento de daños, no permiten desistir del contrato como las penitenciales. (Fuente: Página 8, Sección: 4.1. El contrato de arras)"
+        },
+        {
+            "question": "¿Cuándo se produce generalmente el devengo de los honorarios del agente inmobiliario?",
+            "options": [
+                "En el momento de realizar la primera visita con un interesado.",
+                "Con el cierre de la operación (normalmente en el contrato de arras o escritura).",
+                "Mensualmente mientras dure la promoción del inmueble.",
+                "Al publicar el anuncio en los portales inmobiliarios."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los honorarios se devengan con la perfección del contrato mediado (compraventa o alquiler). (Fuente: Página 6, Sección: 3.1. La nota de encargo)"
+        },
+        {
+            "question": "¿Qué debe incluir obligatoriamente una nota de encargo profesional?",
+            "options": [
+                "La identificación de las partes y el objeto del contrato.",
+                "Las fotos personales de todos los empleados de la agencia.",
+                "Un listado de los restaurantes recomendados de la zona.",
+                "La clave de acceso a la cuenta bancaria del vendedor."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La nota de encargo debe identificar a las partes, el objeto, la duración y los honorarios. (Fuente: Página 5, Sección: 3.1. La nota de encargo)"
+        },
+        {
+            "question": "¿Cuál es la finalidad última de la mediación inmobiliaria según el texto?",
+            "options": [
+                "Sustituir la labor de los notarios y registradores.",
+                "Acercar posiciones entre las partes y facilitar el cierre del acuerdo.",
+                "Actuar como perito tasador oficial del Estado.",
+                "Recaudar impuestos en nombre de la Agencia Tributaria."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La mediación busca aproximar a comprador y vendedor/arrendador para que nazca el contrato. (Fuente: Página 5, Sección: 3. Contrato de mediación)"
         }
     ]
 }
