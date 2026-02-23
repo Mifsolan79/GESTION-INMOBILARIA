@@ -192,19 +192,25 @@
             // Updated titles for Gestion Inmobiliaria based on User's repo data
             const titulos = {
                 1: "GESTIÓN INMOBILIARIA",
-                2: "TRÁMITES Y DOCUMENTOS",
-                3: "VALORACIONES",
-                4: "CONTRATOS"
-                // Using generic logic if specific titles are unknown, but these seem plausible based on file presence.
-                // Actually, I'll just use "TEMA X" if titles are not strictly known.
-                // But I should try to be helpful. 
-                // I will use "TEMA X" for safety unless I'm sure.
+                2: "DERECHO INMOBILIARIO BÁSICO",
+                3: "EL CONTRATO DE MEDIACIÓN Y OTROS CONTRATOS",
+                4: "EL REGISTRO DE LA PROPIEDAD Y EL CATASTRO",
+                5: "VALORACIÓN Y TASACIÓN INMOBILIARIA",
+                6: "FINANCIACIÓN INMOBILIARIA",
+                7: "FISCALIDAD INMOBILIARIA",
+                8: "MARKETING INMOBILIARIO Y CAPTACIÓN",
+                9: "GESTIÓN DE VENTAS Y NEGOCIACIÓN",
+                10: "URBANISMO Y NORMATIVA DE LA EDIFICACIÓN",
+                11: "ADMINISTRACIÓN Y GESTIÓN DE PROPIEDADES",
+                12: "ASPECTOS LEGALES Y ÉTICA PROFESIONAL",
+                13: "NUEVAS TECNOLOGÍAS Y TRANSFORMACIÓN DIGITAL",
+                14: "DESARROLLO Y PROMOCIÓN INMOBILIARIA",
+                15: "TENDENCIAS Y FUTURO del SECTOR"
             };
 
             const temas = Array.from({ length: 15 }, (_, i) => {
                 const n = i + 1;
-                // Use "TEMA n" for now to match file names tema_1...
-                const tituloEspecifico = `TEMA ${n}`;
+                const tituloEspecifico = titulos[n] || `TEMA ${n}`;
                 const disponible = n <= 4;
 
                 return {
