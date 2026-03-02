@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 8: PROPIEDAD HORIZONTAL",
+    "items": [
+        {
+            "question": "¿Cuál es la figura jurídica fundamental que regula la convivencia y la gestión de inmuebles divididos en elementos privativos y comunes?",
+            "options": [
+                "La Ley de Arrendamientos Rústicos (LAR).",
+                "El Reglamento General de Registros y Notariados Urbanos.",
+                "La figura de la propiedad horizontal.",
+                "El Código Civil en su título de ocupación y usucapión."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La propiedad horizontal es la figura que regula la convivencia y gestión de inmuebles divididos en privativos y comunes."
+        },
+        {
+            "question": "¿Qué normativa es la básica en España para regular el funcionamiento legal de las comunidades de propietarios?",
+            "options": [
+                "La Ley 49/1960, de 21 de julio, sobre propiedad horizontal.",
+                "El Real Decreto Legislativo de Suelo y Rehabilitación de 2015.",
+                "La Ley de Enjuiciamiento Civil vigente desde el año 2000.",
+                "La Ley 38/1999 de Ordenación de la Edificación."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La Ley 49/1960 sobre propiedad horizontal es la norma básica que regula su funcionamiento en España."
+        },
+        {
+            "question": "En el régimen de propiedad horizontal, ¿cuál de los siguientes es un ejemplo de elemento común del edificio?",
+            "options": [
+                "La vivienda situada en el tercer piso izquierda.",
+                "El local destinado a una gestoría en la planta baja.",
+                "La plaza de garaje delimitada y con escritura independiente.",
+                "Las escaleras, portales, fachadas o instalaciones generales técnicas."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Los elementos comunes son aquellos compartidos como escaleras, portales, fachadas o instalaciones generales del edificio."
+        },
+        {
+            "question": "Además de edificios de pisos o locales, ¿qué otro supuesto puede acogerse también legalmente a esta regulación de propiedad horizontal?",
+            "options": [
+                "Empresas de exportación de bienes sin sede física ni inmuebles constructivos.",
+                "Únicamente plazas de toros, polideportivos y museos públicos dependientes del gobierno central.",
+                "Urbanizaciones, complejos inmobiliarios, garajes, trasteros y centros comerciales estructurados así.",
+                "Todas las carreteras de la red de autopistas del Estado gestionadas de forma conjunta solidaria."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La ley también aplica a urbanizaciones o complejos inmobiliarios constituidos como propiedad horizontal."
+        },
+        {
+            "question": "Jurídicamente, la constitución formal de una comunidad de propietarios parte de un documento clave inicial. ¿Cuál es?",
+            "options": [
+                "El contrato privado firmado en una servilleta en el primer bar de obra.",
+                "El título constitutivo, que suele otorgarse en escritura pública por el promotor o por acuerdo general.",
+                "Un requerimiento notarial remitido solamente al que será el primer presidente honorífico vitalicio.",
+                "El presupuesto anual de gastos ordinarios aprobado el primer mes de vida edilicia en reunión casual."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El punto de partida de la constitución es el título constitutivo mediante escritura pública habitualmente."
+        },
+        {
+            "question": "¿Qué importante aspecto detalla y regula internamente los estatutos eventuales que puedan añadirse al título constitutivo?",
+            "options": [
+                "Las normas internas sobre uso de servicios, distribución de gastos y funcionamiento de órganos de gobierno.",
+                "Los precios oficiales de mercado mínimo con los que se venderán todos los pisos colindantes.",
+                "Los salarios exactos del equipo técnico que construyó el bloque inicialmente.",
+                "El importe y número estipulado de todos los seguros privados de coche de cada inquilino de forma universal."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Los estatutos regulan normas de uso, distribución de gastos y el funcionamiento básico general de los órganos descritos de gobierno."
+        },
+        {
+            "question": "¿De qué manera el título constitutivo asegura oficialmente la publicidad registral comunitaria y afianza la seguridad jurídica frente a terceros?",
+            "options": [
+                "Mediante su publicación inmediata en periódicos locales la primera semana.",
+                "Entregándolo únicamente al conserje de mayor antigüedad para su custodia física e ignífuga.",
+                "A través de su inscripción correspondiente en el Registro de la Propiedad respectivo de la zona.",
+                "Sellándolo con lacre por parte del secretario de la corporación del ayuntamiento de turno."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Este título debe inscribirse y registrase en el Registro de la Propiedad, lo cual otorga publicidad registral."
+        },
+        {
+            "question": "De los órganos de gobierno, ¿cuál es calificado como el órgano supremo de decisión en la vida de una comunidad?",
+            "options": [
+                "El juez de paz interino local.",
+                "El Administrador externo contratado.",
+                "El Presidente y su equipo adjunto técnico de revisión.",
+                "La junta de propietarios en su reunión legalmente constituida."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La junta de propietarios es el órgano supremo de decisión para adoptar acuerdos significativos."
+        },
+        {
+            "question": "Según la normativa expuesta, ¿cada cuánto tiempo mínimo obligatorio deben reunirse los propietarios en sesión ordinaria anualmente?",
+            "options": [
+                "Como mínimo dos veces al semestre escolar y antes de las fiestas patronales.",
+                "Al menos una vez al año, para temas habituales de funcionamiento presupuestario.",
+                "Cada vez que un propietario decide pintar su puerta, sin necesidad de convocatoria formal previa ni orden alguno.",
+                "Solo la primera vez cuando se estrena el edificio y nunca más a menos que haya catástrofe grave."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Deben reunirse en sesión ordinaria al menos una vez al año de forma obligatoria."
+        },
+        {
+            "question": "¿Quién es el encargado por ley de representar legalmente a la comunidad de propietarios en todo tipo de asuntos jurídicos y administrativos diarios y hacer valer los acuerdos?",
+            "options": [
+                "El propietario más antiguo del inmueble, el cual debe poseer estudios universitarios finalizados legalmente.",
+                "El abogado asignado por el Estado por defecto a todas las comunidades del municipio sin excepción.",
+                "El presidente, quien es elegido siempre y únicamente de entre los propietarios que conforman la comunidad.",
+                "Cualquier vecino que pise el pasaje del edificio primero cada día uno de enero del respectivo año natural."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El presidente es elegido entre los propietarios de la finca y representa legalmente a toda la comunidad ejecutando acuerdos."
+        },
+        {
+            "question": "¿Qué función se delega corrientemente en el secretario o administrador (que puede ser incluso un profesional externo, en quien recaiga dicha misión unida)?",
+            "options": [
+                "Reformar íntegramente de manera técnica los cimientos en riesgo sin consultar.",
+                "Pagar a escote los recibos de hipoteca que haya dejado de pagar cada vecino respectivo insolvente y sin liquidez dineraria total.",
+                "Aprobar de forma unilateral y despótica nuevos y completos estatutos vinculantes definitivos para las próximas tres décadas.",
+                "La custodia documental exhaustiva del bloque, la gestión económica ordinaria regular y la convocatoria correspondiente de juntas."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Sus tareas son la custodia documental, la gestión económica y la convocatoria de juntas."
+        },
+        {
+            "question": "Para aprobar asuntos rutinarios de gestión, presupuesto continuo, cuentas y obras menores en junta, ¿qué tipo de voto o mayoría es suficiente según la LPH y la norma habitual?",
+            "options": [
+                "La mayoría cualificada de tres quintos.",
+                "La unanimidad de todos los vecinos inscritos en todos los pasajes del mismo continente civil.",
+                "La mayoría simple (donde los votos a favor deben superar en número real a los votos decididamente en contra de dicha propuesta de trámite).",
+                "Es suficiente que vote a favor una tercera parte más uno si lo hacen de manera virtual todos simultáneamente desde las redes informáticas."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Para los asuntos rutinarios se usa la mayoría simple; es decir, simplemente con que un voto a favor supere a los en contra de esa iniciativa del día rutinaria."
+        },
+        {
+            "question": "¿Para qué tipo de decisiones suele exigirse una mayoría cualificada (por ejemplo, 3/5 partes) de copropietarios y cuotas?",
+            "options": [
+                "Decisiones significativas o no contempladas, como instalar nuevos servicios (un ascensor nuevo o una gran antena parabólica comunitaria).",
+                "Simplemente arreglar el telefonillo de una de las plantas bajas estropeado casualmente la noche previa lluviosa.",
+                "Pintar el peldaño número tres de la tercera escalera de color ligeramente marfil si así sugiere un consejero por motivo decorativo leve y sencillo en el pasaje adyacente general del núcleo constructivo.",
+                "Aprobar los presupuestos del ejercicio sin modificaciones sustanciales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Se requiere para decisiones significativas como instalar nuevos servicios de ascensores, por ejemplo."
+        },
+        {
+            "question": "¿En qué formato o soporte escrito oficial quedan documentadas siempre las decisiones vinculantes aprobadas formalmente por cada una de las juntas legítimas vecinales?",
+            "options": [
+                "Se difunden por la libreta informal de notas en conserjería provisional sin firmas.",
+                "A través de unas actas levantadas que en última instancia deben ser firmadas de forma oficial por el secretario de la comunidad vecinal además de por su correspondiente presidente a cargo del puesto.",
+                "Exclusivamente mediante grabaciones magnetofónicas que se envían directamente al buzón municipal de archivo civil por si surgieren lides.",
+                "En el propio contrato de alquiler de cada ocupante en anexos trimestrales redactados por el director comercial de ventas locales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Estas decisiones quedan documentadas en actas firmadas por secretario y presidente."
+        },
+        {
+            "question": "En referencia a las aportaciones dinerarias para sostener la comunidad, ¿con base a qué patrón legal contribuye ordinariamente a los diferentes gastos comunes obligados un vecino copropietario cualquiera?",
+            "options": [
+                "A partes estrictamente iguales, haya o no haya distintas superficies entre las casas.",
+                "Un porcentaje derivado únicamente en base a los ingresos reflejados en la renta anual del ejercicio económico.",
+                "En mera y total proporción estricta a su cuota de participación legal correspondiente.",
+                "Según dictamine el administrador mediante sorteo ciego al final de cada trimestre."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El deber es contribuir a los gastos en proporción a la cuota de participación."
+        },
+        {
+            "question": "El propietario que desea acometer unas obras complejas en su propiedad que a la larga van a afectar y requerirán cambiar elementos estructurales del bloque, ¿qué debe hacer?",
+            "options": [
+                "Efectuar la obra con rapidez de madrugada para amortiguar y opacar el impacto auditivo vecinal temporal derivado en esos lances.",
+                "Permitir la obra ignorando los requerimientos por la impunidad legal sobre la independencia jurídica de la pared interna doméstica.",
+                "Consultar únicamente con el promotor primitivo, y prescindir de todo aviso a la junta reunida.",
+                "Es un deber no realizar obras de dicha alteración configuradora ni estructural contigua o comunal en dicho ámbito del espacio compartido general sin solicitar explícita y formalmente la oportuna e insustituible autorización a la mismísima comunidad o en último extremo respectivo a las instancias oficiales normadas al caso particular requerido."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Su obligación es respetar los elementos comunes, por lo que este hecho implicaría no realizar la obra sin contar debidamente con dicha la pertinente autorización de la comunidad o de quien corresponda al amparo de las instancias."
+        },
+        {
+            "question": "¿Qué normativa y mecanismo ampara a un vecino si en la junta anterior se aprobó sorpresivamente un acuerdo netamente contrario dictamen de la ley objetiva superior del país y de la cual resulta de lo anterior que en resumidas cuentas claramente sus derechos como titular hubiesen quedado flagrantemente menoscabados y atropellados, al hilo del régimen base en propiedad horizontal?",
+            "options": [
+                "Hacer justicia directa reteniendo todas las cuotas permanentemente y cancelando sus avales hipotecarios bancarios por derecho personal preventivo.",
+                "Proceder ineludiblemente con absoluta inmediatez con un requerimiento amparado sobre el desahucio instantáneo express del total del resto integro de copropietarios por delito penal en menos de un mes de curso reglado.",
+                "La posibilidad formal explícitamente y de manera muy diáfana e inteligible del recurso legal de la impugnación de aquellos acuerdos en virtud ciertamente de la mediación del recurso meramente procesal de corte judicial a tal fin predeterminado ex profeso en sede magistral.",
+                "Solo tiene el deber cívico pacífico inalienable de callar ante la superior asamblea vecinal constituida democráticamente de facto en pleno conceso reunido formalmente al uso."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tiene derecho firme a la impugnación legalmente posibilitada judicialmente de los consiguientes acuerdos si hay motivos reales."
+        },
+        {
+            "question": "En materia de gastos, si la junta de propietarios aprueba instalar por derrama general cámaras de seguridad, el administrador...",
+            "options": [
+                "Exige unánimemente el pago al contado in situ justo el día en que se efectúa en su asamblea vecinal con cobro directo en metálico exacto ex profeso obligatoriamente estricto.",
+                "Puede embargar las cuentas corrientes personales de urgencia incondicional del vecino sin previa notificación real fehaciente mediante firma ni requerimiento conminativo expreso legal alguno por mínima demora del día estipulado en acta consiguiente y pertinente particular con recargo a deudores impenitentes o recurrentes.",
+                "Aumenta aleatoria, y en base a la prisa en las partidas del pago respectivo al contado de forma progresivamente ilimitada e incremental, la cantidad fijada de forma personal mensual si el mes precedente se abonó en plazo regular y a tiempo correcto al contado particular para cada sujeto adscrito al condominio regular formal general reglado por junta de cada sector.",
+                "Tiene como una de sus funciones base preparar formalmente cada partida del presupuesto anual base, incluyendo por anticipado las previsiones estipuladas por junta soberana para las correspondientes partidas de las mencionadas derramas, e ir emitiendo a tiempo y forma los recibos debidos tras propuesta formal ordinaria."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El administrador debe preparar y proponer medios en el presupuesto previendo y ejecutando después dichas partidas de facturación económica y su pertinente recibo de pago regular general ordenado sin demoras procedentes pero en sus plazos."
+        },
+        {
+            "question": "¿Qué elemento presupuestario es indispensable y legalmente de obligado carácter en cada partida presupuestaria anual vecinal?",
+            "options": [
+                "El fondo solidario variable y rotatorio a favor discrecional incondicionado en cada barrio del fondo generalizado sin fines del secretario o del oficial gestor contable.",
+                "Los dividendos pasivos directos repartidos por cuotas resultantes tras el trimestre sobrante devueltos al portador legal en base sin declarar exequiblemente frente a la fiscalidad oficial territorial de su demarcación general contable adscrita ordinariamente.",
+                "El fondo de reserva de carácter legal netamente obligatorio de partida mínima de retención general (mínimo el 10% del total anual previsto), cuya precisa y explícita y total destinación recaerá de modo ineludible sobre aquellas eventuales, aunque consustanciales obras futuras pertinentes orientadas con sentido único a reparación base del núcleo íntegro comunitario original y a la debida conservación regular ineludible a tal efecto real generalizado adscribible sin fisuras.",
+                "La indemnización mensual obligada de antemano a priori depositada ante hipotéticos fallos formales leves frente a terceros de la inmobiliaria inicial constructiva fundadora y regida explícita por aval."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Es obligatorio disponer por base de un fondo real de reserva correspondiente al 10% adscrito a cuestiones derivadas del pago ordinario al mantenimiento de conservación futura del consorcio general del bloque o predio comunitario."
+        },
+        {
+            "question": "Para tratar extrajudicialmente un caso en el que no entra el pago del mes con morosidad vecinal repetida, la comunidad comúnmente procederá inicialmente a:",
+            "options": [
+                "Contratar detectives mediante derrama especial inmediata oculta e inescrutable con orden sin control temporal previo del ayuntamiento o policía de orden urbano civil de forma sistemática con pago oculto para presionar social e irrevocablemente en su perjuicio incondicionado e irreversible.",
+                "Requerir innegablemente el pago en origen de entrada y extrajudicialmente de primeras, cursándolo ordinariamente mediante de sus más pertinentes notificaciones escritas fehacientes como puede muy bien de suyo ser el habitual, clásico y común mecanismo funcional de remisión oficial de un burofax debidamente expedido de cuenta que logre dejar acreditada constancia legal fidedigna de aquel requerimiento material directo ineludible del expreso pago inminente.",
+                "Vender forzosamente subrepticiamente al instante la porción íntegra material y legal representativa porcentual total en base de cuota adscrita al vecino sobre parte fundamental del hueco del mismo montacargas comunitario como justa reparación simbólica irrevocable de cuenta e indisoluble sobre bases y bienes del resto adyacente del predio constructivo fundamental subyacente de orden consorciado en sede local de primera instancia de los propietarios consorciados de la comarca original.",
+                "Declarar el bloque al completo conjunto residencial general de insolvencia nacional particular impeditiva y dejar irrevocablemente de pagar impuestos adscritos, lo cual paraliza judicialmente a todos de la carga fiscal de forma absoluta solidaria hasta fecha ulterior sin base."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lo legal primero es intentar la reclamación particular del pago, fehaciente (burofax)."
+        },
+        {
+            "question": "En el caso extremo de recurrir ante instancia legal porque los pagos se deben largamente ya el administrador recurre comúnmente al trámite del:",
+            "options": [
+                "Corte oficial inexcusable y sumamente general directo presencial forzoso presencial presencial de suministros diarios comunitarios del agua, enseres energéticos y la energía, cortando directamente canalizaciones externas in loco con acta de la policía barrial nocturna sobre el elemento local material adscrito sin dudar sobre la orden legal subyacente al mandato original respectivo al bloque adyacente ineludiblemente real generalizado consorciado estricto firme legal vecinal barrial particular subyacente originario y final local ex profeso al dictado estipulado al dedillo estricto del caso general particular del moroso irredento reincidente general y total de la cuota en acta referida totalizadora anual legal general prescriptora ex ante referenciada.",
+                "Recurso expropiatorio estatal de la cuota íntegra participativa, con ingreso inmediato penal a prisión y cancelación registral notaria inmediata subyacente directa irrevocablemente del título de compra previo del primer año.",
+                "Procedimiento monitorio de fondo oficial, es decir la herramienta legal base, que por ser bastante ágil y regida en el código a ello dispuesta para la tramitación facilita poder llegar inclusive al futuro posible embargo preventivo directo del inmueble y los bienes de ser menester legal sin obviar las normativas referenciadas a tal dictado jurídico estricto en el ámbito civil general al uso sobre tal tema base sobre morosos referidos impenitentes de sus gastos y cuotas consorciadas comunitarias obligadas sin atender puntuales ni atinadas al curso general ordinario pertinente a fondo real y propio total y globalizador formal del expediente base del conjunto de propiedades y dueños de dichas viviendas y otros habitáculos anexados bajo este paraguas de ley.",
+                "Llamamiento al consistorio local en auxilio e impetrar pago de asistencia por fondo de desastres."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La comunidad recurre habitualmente a la formulación del proceso general de reclamación encauzado materialmente en un inicial y consiguiente formalizado particular procedimiento de tipo monitorio, ágil para poder solicitar eventual embargo previsor pertinente deudor de ser menester al cabo."
+        },
+        {
+            "question": "¿Quién tiene encomendada o ejerce formal y habitualmente la ejecución material efectiva de los acuerdos y fallos previamente propuestos, deliberados y que se hubiesen tomado o adoptado de forma consensuada base o votada en mayoría o unanimidad reglada por y dentro de la junta de manera directa e ineludible al ámbito civil adscrito ordinariamente?",
+            "options": [
+                "Específicamente el administrador designado a tal efecto, que al desempeñar tal perfil base ejerce e integra comúnmente en sí parte base de dichas labores reales o logísticas fundamentales al hilo y en pos de salvaguardar materialmente todos esos acuerdos que han visto luz allí bajo su tutela formal técnica base.",
+                "Tan solo su exclusivo autor, quien si lo ha propuesto, asume por honor directo irrevocablemente los gastos in genere derivados o el trabajo constructivo real si resultara en su parte un perjuicio físico.",
+                "No hay sujeto ni directivo ninguno designado a tal fin directo pues sencillamente todo vecino debe y puede de forma anárquica personal tomar decisiones por igual para resolver incidencias con las firmas ajenas a su criterio voluntarista improvisado y arbitrario en cualquier hora de la época estival de cada curso calendario real.",
+                "Cualquiera de entre los arrendatarios u okupas transitorios si, poseyendo dotes directivas reales sobre cuestiones organizativas logísticas base adscritas al edificio, demuestran la fuerza persuasiva dialéctica a tal efecto ex professo general subyacente vecinal ordinaria base reglada al curso civil."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El administrador cuenta con esa ejecución material base de sus funciones, materializando y posibilitando desde su cargo esos acuerdos y pagos previos aprobados por votación pertinente."
+        },
+        {
+            "question": "¿Qué requiere la instalación, a expensas e iniciativa formal comunitaria, de un sistema y aparato funcional destinado a cámaras de vigilancia cerradas y monitorizadas que operen dentro de las zonas consorciadas base del bloque y su garaje?",
+            "options": [
+                "Ninguna, un vecino lo trae desde su tienda adyacente a escondidas e improvisado instala la mañana festiva a la semana para ver con un fin recreativo qué sucede de forma impune en las fronteras comunes y viales, conectándolas en oculto sin mayores y profundas contemplaciones.",
+                "Que se haga y actúe únicamente a escondidas de todos por el mismo presidente, escudado netamente y asido de forma inquebrantable en esa pretendida e indemostrada buena voluntad preventiva supuesta de la junta de vocales directivos del mismo día ex ante en que es reelegido el cargo directivo anual principal con la simple conformidad expresa de solo el secretario a su vez interino interdependiente afín personal del mandatario vecinal ad hoc original adscrito formal en regla con cuota cero pasiva general ordinaria vecinal y global consorciada general subyacente ordinaria en regla vecinal regularizada in locus.",
+                "Estar ineludiblemente formalizada como decisión, discutida fehacientemente y aprobada finalmente base en una previa y reglamentada junta convocada exprofeso en sesión para votar tal derrama y con, claro está, el correspondiente ineludible respeto generalizado estricto estipulado por base de cuantas reglamentaciones en sede protección de datos estuviesen publicadas ad hoc aplicables al marco legal real adscrito in loco al caso en país y tiempo vigentes a la actualidad material presente original consustancial pertinente particular ineludible estricta particular.",
+                "Requiere la unanimidad más absoluta y plena e irreductible del todo integrador vecinal con el visto bueno del Defensor vecinal del Pueblo, y la cesión grabada en notaría ex professo a nombre y cargo pleno real base del Ministerio adscrito."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Requiere su toma en junta. Especialmente exigiéndose su mayoría pertinente estipulada legal, quedando de forma paralela atados al marco estandarizado normativo a tal efecto reglado de protección sobre aquellos registros y tratamiento formal propio a datos con carácter confidencial que generen al entorno civil expuesto consabido adscrito general in loco legal vecinal."
+        },
+        {
+            "question": "En referencia de lo expuesto base y si un asunto de las juntas está clasificado adscrito genéricamente por norma como 'obra menor, aprobación ordinaria presupuestaria regular de rigor anual base, pago continuo o de mero adecentamiento estético simple al día', esta requerirá por lo general:",
+            "options": [
+                "Aprobación rotunda unánime a modo inexcusable plenario del ente constitutivo general absoluto de todas las fracciones pasivas registrales correspondientes a todos sus propietarios, hayan comparecido real de forma personal físicamente al recinto general vecinal estipulado a la hora base prevenida y formalmente referida asamblearia general comunal adscrita ordinaria reglamentaría particular al hilo ineludible base o en vez de esto hubiesen votado de modo telemático distante previamente al punto o día designado in loco pertinente general ordinario adscrito consorciado estricto firme legal vecinal barrial particular subyacente originario y final local ex profeso.",
+                "Un voto a su simple favor superior en número y peso representativo porcentual a la masa de los que han expresado su contrario voto real adscrito base, entendiéndose esto en definitiva y resumiéndolo base como una mera aprobación básica mediante la reglamentaria regla funcional genérica democrática referida de mayoría netamente puramente tildada conceptualmente simple o de rigor ordinario vecinal base estandarizada in loco general consabida particular estricta para estas y aquellas resoluciones sencillas cotidianas recurrentes sobre cuestiones poco gravosas al núcleo e intrahistoria de su vecindario común y general habitual ordinario base respectivo referenciado.",
+                "Un dictamen aprobatorio rubricado personalmente por un juez instructor de base al amparo del tribunal y estamento central, quien dirime si es o resulta ser equitativo tras escuchar a un jurado experto en materia decorativa.",
+                "Nada. Son obras sin mayor trascendencia legal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Obras pequeñas y mantenimiento requieren de esta aprobación democrática base fundamentada simplemente sobre regla de mayoría simple, aquella que dicta la suficiencia operativa base que representa lograr reunir más a favor o positivos frente o contra todos o al conjunto particular respectivo adscrito genérico real de votos en sentido en contra material final in loco particular."
+        },
+        {
+            "question": "¿Si el residente que no votó ni acudió advierte formal y materialmente después y halla de bruces leyendo, estupefacto y sorprendido una decisión legal acordada allí en la cual ciertamente de la anterior lectura se extrae y de suyo se colige un neto y grave ataque manifiesto rotundo contra o frontal hacia los derechos consustanciales civiles propios de cualquier vecino particular propietario real referenciado en la matriz o ley subyacente base del régimen al uso consorciado in loco adscrita genérica respectiva ordinaria comunal generalizada fundamental de rigor base estipulada referencial y en última instancia de aplicación última o su marco, podría hacer?",
+            "options": [
+                "Atacar de oficio penalmente a la directiva por conspiración dolosa e intento claro evidente de incautar con perfidia toda la suma y montante íntegro pecuniario adscrito subyacente patrimonial material económico referido original adscrito particular.",
+                "Exigir y cobrárselo en base de forma indemnizatoria automática al notario actuante base original que aprobó y validó con firmas en su día remota fecha aquel ya rancio, pero esencial y aún estricto ineludible formal estatuto fundacional registral primerizo del ente o sede vecinal, base o fuente original primigenia respectiva.",
+                "Impugnar la decisión amparado a este recurso que detentaría y del derecho asertivo base que posibilitaría accionar, a merced del articulado al propósito enjuiciable subyacente de la Ley referida, ante sede y mediante acción resolutiva y fallo judicial ad hoc in situ respectivo de modo general o particular consiguiente procesalmente estandarizada en rigor estricto normado aplicable in hoc sensu a cada particularidad referida del bloque normativo.",
+                "Derruir físicamente el bloque y mudarse preventivamente, no previendo otra alternativa posible."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La LPH faculta de suyo la pertinente vía oficial formal posible explícita impugnando aquel acuerdo base que contravenga ley, los estatutos y lesione el derecho particular de base fundamentalmente de modo grave acudiendo en consecuencia al proceso respectivo legal del juzgado correspondiente in situ in loco formal."
+        },
+        {
+            "question": "Con referencia al pago y base del cálculo proporcional distributivo pecuniario sobre los gastos e impresos comunes adscritos ordinariamente al consocio en liza general referido y con respecto a una propietaria nominal que ostentaba cuota firme participativa real consabida escriturada ad hoc estipulada y estandarizada de forma oficial, en lo que corresponde de forma material efectiva por la titularidad de su garaje no utilizado nunca:",
+            "options": [
+                "Estaría netamente obligada, amparada tal regla estricto y en base o virtud base innegable al principio sobre las cuotas escrituradas originales, a continuar sin asomos de duda satisfaciendo o sufragando debidamente con toda regularidad de este desembolso material por concepto original proporcional al monto general base y la cantidad por él asignada de dichas resultantes mejoras aprobadas en su respectiva junta o de los servicios de tal recinto al serle consustancial ese porcentaje oficial ad hoc, al no existir base exoneradora o votada otra resolución previa eximiendo ese dispendio expresamente in locus adscrita estatutos genéricos originales subyacentes referenciados in situ ordinarios y ordinarios formales base.",
+                "Queda instantánea base perdonada sin necesidad legal sobre formalidades extras in loco si verbal e insistente ha hecho y hace constatar con testigos barriales fehacientemente referenciados y vecinos de otras calles no tener uso actual verdadero ni hipotético de aquel espacio en particular, pues de ello prima ex facto el principio lógico práctico formal simple consuetudinario a tal efecto reglado estipulado al respecto en normativa paralela jurisprudencial local inminente general paralela al estatuto principal consorciado estricto.",
+                "Pierde incondicional o en el momento de impago el título escritural básico del lote a expensas de reversión sin indemnización del bien embargado a la inmobiliaria y promotor directivo que lo construyese tiempo atrás ex professo.",
+                "Solo abonaría este dispendio obligatoriamente de base solidario referido sí o sí el propio deudor indirecto si lo decidiese formalmente, graciosamente su propio gestor patrimonial personal o testaferro privado subyacente ex profeso."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La mera falta libre intencionada y fáctica particular del de uso o del disfrute ordinario en acto in acto o no de una zona adscrita (su plaza) a priori no anula en absoluto o por defecto jurídico la consustancial u originaria genérica base ni exime ordinariamente ipso facto a nadie adscrito sin excusa del deber contributivo general proporcional consustancial aparejado original adscrito que atañe en base estricta inquebrantable a las áreas al estar inscrito reglado sujeta esta fracción porcentual subyacente respectiva base participativa y porcentualmente asignada sobre su titulo original constitutivo respectivo en propiedad horizontal subyacente adscrita."
+        },
+        {
+            "question": "La elaboración formal, detallada rigurosa documentada escrita de cada libro base de cuentas e ingresos-gastos subyacente general adscrito respectivo general de manera minuciosa contable, así como de las actas oficiales de todo ello formal o su difusión posterior tras rubricar formalmente junto a un dictamen aprobatorio inicial refrendado ordinariamente suele estar entre las misiones cotidianas in locus adscritas competenciales a la:",
+            "options": [
+                "Figura base formal de aquel administrador de fincas designado, gestor o de quien, en su rol engranado, obre y funja indistintamente u obligatoriamente bajo y desde las precisas credenciales, mandato formal refrendado u ordinario del papel referenciado de secretario en general al uso adscrito consorciado subyacente vecinal ordinaria base reglada al curso civil.",
+                "Del juez decano estipulado rotacional en cada barrio estival en su jurisdicción estricta originaria base.",
+                "Empresa contable exterior del fisco dependiente de base, a quien deben dirigirse obligatoria ineludible de rigor estricta in loco a sufragio comunal cada primer día tras finiquito de mes de base para abonarlo con carácter retroactivo irrevocable en sede particular correspondiente estandarizado ex profeso particular en curso.",
+                "No hay constancia estricta ni deber imperativo referenciado alusivo a tales cuentas."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Es al administrador designado expresamente al que recae dicha labor fundamental ordinaria respectiva in facto original u o en alterno papel in defecto quien opere investido formal nominal ad hoc fungiendo o bajo y con en forma explícita de mandato al uso del susodicho cargo estatutario secretarial, si fuere así recaído concentrado ex profeso general al uso uniendo las obligaciones de gestión y del secretariado u oficinas directivas y logística formal general ordinaria adscrito documental particular consustancial al hilo real base generalizado estricta adscripción in locus adscritas estipuladas formales."
+        },
+        {
+            "question": "En caso hipotético particular pero ineludible que algún vecino comunero reincidente hubiese empezado y procediese habitualmente adscrito particular, bajo su cuenta, e ignorando la norma comunal a operar de resultas actividades verdaderamente referenciadas nocivas para la vida y salud, o molestares por ruidos crónicos a terceros: la ley le:",
+            "options": [
+                "Premia la iniciativa libre ad hoc concediéndole el eximente por uso personalista del habitáculo particular base general ex factor vecinal comunal originaria en régimen asambleario reglado particular al hilo subyacente civil libre y voluntario del ente municipal adyacente vecinal general in loco estricto en país y tiempo vigentes a la actualidad material presente original.",
+                "Lo abofetea a mano armada o retira in locus los contadores sin juicio legal al uso civil general base estipulada referencial consorciada y en regla ineludible formalmente adscrita o referenciada como es uso material general ex professo general subyacente vecinal ordinaria base reglada al curso.",
+                "De suyo está terminantemente prohibido, facultando a priori ex norma LPH artículo 7 a la misma o al conjunto del vecindario agrupado vecinal comunal originaria en régimen asambleario de solicitar fehacientemente y accionar bajo base incluso hasta por vía judicial que pare (cesación de dichas molestias ad hoc descritas en caso que le precediere a toda regla general estatutaria).",
+                "Fomenta el anonimato legal base para dirimir cuitas y peleas en descampados a escondidas o a plena luz a voluntad ad hoc de modo ineludible particular ordinario consabido en regla vecinal al hilo del reglamento respectivo consorciado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tales actos molestos, etc., se refieren al art 7, dando paso a iniciar base tras advertir requerimiento legal de que obre y detenga de inmediato sus incívicos adscritos y dañinos procesos so pena del ulterior trámite respectivo referenciado general e imperativo de tipo judicial ad hoc pertinente procedimental general para forzar al causante subyacente consiguiente legal general in facto material in loco obligatoria o la detención real in facto base formal y obligatoria (vía sumario cesatorio respectivo subyacente)."
+        },
+        {
+            "question": "Para no acabar acarreando responsabilidades indirectas legales solidarias referenciadas en un hipotético o futuro y consiguiente enjuiciamiento en el cual de antemano el presidente o secretario actúen presunta y fraudulentamente o con intenciones oscuras al margen de juntas contra leyes referenciadas base: es indispensable que estos actúen siempre:",
+            "options": [
+                "Declinando toda firma a último instante, obrando in voce con seudónimo verbal ocultos bajo alias particulares opacos in locus y amparados sin ser visibles su titularidad material base directa ad hoc y de un pasamontañas invernal de día o noche indistintamente al sol del portal particular asambleario ex profeso general subyacente vecinal ordinaria base reglada al curso civil.",
+                "En estrecha formal y escrupulosa consonancia inquebrantable de forma sujeta reglamentaria con base a la aprobación in situ y material base tras haber dejado todo siempre documentado u original, y que tales actos a llevar a cabo procediesen ex professo o tengan base u origines al efecto a resueltas e indicaciones acordadas de mayoría u unanimidades requeridas aprobables y rubricadas en las juntas vecinales predispuestas.",
+                "Bajo inspiración directa instintiva u ontológica improvisada irreflexiva in situ base particular ordinaria general en virtud consorciada de manera aleatoria al libre parecer del regidor comunal único estipulado base exprofesamente formal particular u orden divina incuestionable exenta in factor subyacente originario civil ordinario estatutaria fundamental base prescriptora.",
+                "Acordando todo a golpe y merced de llamadas secretadas informales en código en morse particular o por whatsapp o mails sin certificar entre sus cómplices base y gestores de finca ocultando al pueblo total tales pormenores contables."
+            ],
+            "correctAnswer": 1,
+            "explanation": "No debe haber la 'toma de decisión escondida', todo procede refrendar base a votación formal previa al dictado formal estatutaria fundamental base in junta y registrarlo rigurosamente in actas adscritas en sede referenciadas in situ ordinaria generalizada y fehaciente base innegociable ad hoc."
+        },
+        {
+            "question": "Sobre de si un individuo titular in acto privativo debe someterse, avenirse real consabida o franquear e irremediablemente, prestando entrada formal autorizada a priori en el umbral que conforma base u originario límite particular consiguiente ex profeso de su predio o morada adscrita al uso ordinario para las debidas tareas a operarios de resultas base al requerimiento u a causa directa innegable por precisarse originaria perentoriamente la efectividad material subyacente estricta sobre unas reformas contiguas o estructural reparaciones comunales generales base:",
+            "options": [
+                "Nunca debe darles o franquear el respectivo paso ineludible particular si eso molesta su vida privada ordinaria estatutaria, deponiendo este o amparado al uso original o acogiéndose a amnistías locales excepcionales estivales prescriptora.",
+                "Es llanamente base fundamental su total y obligatoria u originariamente asimilada estipulada como consiguiente y reglamentada estandarizada en rigor estricta obligación base consintiendo dar entrada material y dejar o tolerar ejecutar dichas mejoras referenciadas adscrita material subyacente ineludible firme legal vecinal barrial particular u obrar contiguo o comunal dentro consorciada en particular del respectivo elemento privativo.",
+                "Solo obraría o pasaría de estar conforme sí y solamente si tal requerimiento civil viniese refrendado de la jefatura central nacional gubernamental refrendada con firma oficial interministerial estatal in loco base adscrito general.",
+                "Daría acceso siempre que base le indemnice previamente ad hoc particular consustancial in locus por cuadriplicado consiguiente estatutaria su promotor y con base de billetes pequeños e inmensos tesoros escondidos in locus particular."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Su obligación dictada reza permitir que sí pasen u dejar se hagan de base estricta inquebrantable a tal afecto obras dentro (de considerase oportunas base) su elemento in situ privativo. Obligación inexcusable para base consiguiente mantenimiento ad hoc u obligada por juntas y que in locus le requiere (por ley) la comunidad de vecinos en general al uso para su preservación material subyacente ineludible o estricta adscripción a fines del bloque referido u común u obras generales o para su subsistencia civil y técnica base estricta fundamental general consorciada subyacente in acta pertinente de su recinto general u vecinal."
+        }
+    ]
+}

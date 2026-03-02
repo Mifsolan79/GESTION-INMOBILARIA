@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 7: ASPECTOS BÁSICOS DE LA PROMOCIÓN INMOBILIARIA",
+    "items": [
+        {
+            "question": "¿Qué se entiende por promoción inmobiliaria según el texto de la unidad?",
+            "options": [
+                "El proceso mediante el cual se desarrollan bienes inmuebles destinados al mercado (venta o arrendamiento).",
+                "El conjunto de técnicas de marketing exclusivas para la venta de terrenos vacíos.",
+                "La administración financiera de activos en la bolsa de valores inmobiliarios.",
+                "La concesión de préstamos hipotecarios para la compra de locales comerciales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La promoción inmobiliaria es el proceso mediante el cual se desarrollan bienes inmuebles destinados al mercado, ya sea venta o arrendamiento."
+        },
+        {
+            "question": "¿A qué se destina la promoción inmobiliaria residencial?",
+            "options": [
+                "A naves y almacenes logísticos.",
+                "A la construcción de viviendas, tanto de promoción libre como protegida (VPO).",
+                "A equipamientos públicos y hospitales.",
+                "A locales comerciales exclusivamente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La promoción residencial está dirigida a la construcción de viviendas, tanto libres como protegidas (VPO)."
+        },
+        {
+            "question": "¿Quién asume la máxima responsabilidad coordinadora en el contexto de la promoción inmobiliaria?",
+            "options": [
+                "El cliente comprador final.",
+                "El Director de la ejecución de obra.",
+                "El promotor inmobiliario (persona física o jurídica).",
+                "La administración pública competente local."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El promotor inmobiliario actúa como motor del proyecto y asume la dirección y máxima responsabilidad coordinadora."
+        },
+        {
+            "question": "¿Qué tipología de promoción se enfoca a inmuebles destinados a oficinas, locales comerciales o centros de servicios?",
+            "options": [
+                "Promoción residencial.",
+                "Promoción industrial.",
+                "Promoción dotacional.",
+                "Promoción comercial o terciaria."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La promoción comercial o terciaria está enfocada a inmuebles destinados a oficinas, locales comerciales o centros de servicios."
+        },
+        {
+            "question": "¿Cuál es la responsabilidad principal del promotor inmobiliario en un proyecto?",
+            "options": [
+                "Garantizar la viabilidad técnica, económica y legal del proyecto, desde adquirir el suelo hasta la entrega.",
+                "Firmar únicamente las escrituras de compraventa ante notario al final de la obra.",
+                "Colocar ladrillos y materiales de obra de forma manual en la zona.",
+                "Aprobar de forma unilateral las licencias que emite el ayuntamiento."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La responsabilidad principal del promotor es la viabilidad técnica, económica y legal del proyecto, desde la adquisición del suelo hasta la entrega del inmueble."
+        },
+        {
+            "question": "En el desarrollo de las funciones del promotor, ¿qué acción es previa a la contratación de técnicos constructores?",
+            "options": [
+                "Inscribir a todos los compradores.",
+                "Detectar oportunidades de inversión y adquirir terrenos adecuados para la promoción.",
+                "Cobrar la totalidad de las viviendas que se construirán.",
+                "Obtener la licencia de primera ocupación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Entre sus funciones destacan detectar oportunidades mediante estudios, adquirir terrenos, y posteriormente contratar técnicos."
+        },
+        {
+            "question": "¿Quién contrata y coordina a los técnicos competentes como arquitectos e ingenieros en el proceso constructivo?",
+            "options": [
+                "El notario de la zona.",
+                "El Jefe de obra municipal.",
+                "El promotor inmobiliario.",
+                "La Agencia Tributaria."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El promotor inmobiliario tiene entre sus funciones contratar técnicos competentes (arquitectos, ingenieros) y coordinar sus actuaciones."
+        },
+        {
+            "question": "¿A qué está orientada específicamente la promoción industrial?",
+            "options": [
+                "Al alojamiento de familias vulnerables en edificios antiguos.",
+                "A equipamientos deportivos y hospitales.",
+                "A centros comerciales y oficinas de representación internacional.",
+                "A la edificación de naves, almacenes y espacios logísticos en polígonos industriales."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La promoción industrial está orientada a la edificación de naves, almacenes y espacios logísticos en polígonos industriales."
+        },
+        {
+            "question": "¿A qué tipo de promoción pertenecen los equipamientos públicos o privados como hospitales, centros educativos o deportivos?",
+            "options": [
+                "Promoción dotacional.",
+                "Promoción residencial libre.",
+                "Promoción terciaria comercial.",
+                "Promoción industrial periférica."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La promoción dotacional está dedicada a equipamientos públicos o privados, como hospitales, centros educativos o deportivos."
+        },
+        {
+            "question": "En las Fases del desarrollo inmobiliario, ¿qué acciones se llevan a cabo en la fase de 'Estudio previo y adquisición del suelo'?",
+            "options": [
+                "Se construyen directamente los cimientos.",
+                "Se realiza un análisis urbanístico, legal y de viabilidad económica antes de comprar el terreno.",
+                "Se entregan las llaves de los inmuebles y escrituras a los nuevos dueños.",
+                "Se solicita la licencia de primera ocupación al Consistorio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En esta fase se realiza un análisis urbanístico y legal para entender qué se puede construir y bajo qué condiciones, evaluando su rentabilidad antes de la compra."
+        },
+        {
+            "question": "¿En qué fase los arquitectos e ingenieros elaboran los anteproyectos y planos detallados de las instalaciones?",
+            "options": [
+                "Ejecución de la obra.",
+                "Comercialización y entrega.",
+                "Redacción del proyecto técnico.",
+                "Gestión urbanística posventa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "En la fase de 'Redacción del proyecto técnico', arquitectos e ingenieros elaboran los anteproyectos y planos detallados de la edificación."
+        },
+        {
+            "question": "¿En qué fase se evalúa una licencia para la construcción de nuevas edificaciones residenciales de planta nueva y quién la aprueba?",
+            "options": [
+                "En la venta sobre plano avaluada por el banco.",
+                "Al finalizar la obra por las entidades de control de materiales.",
+                "En la fase de comercialización visada por el tasador.",
+                "Se solicita la licencia de obra mayor en la fase de gestión de licencias ante el ayuntamiento."
+            ],
+            "correctAnswer": 3,
+            "explanation": "En la fase de Gestión de licencias y permisos se presenta la solicitud de licencia de obra ante el ayuntamiento."
+        },
+        {
+            "question": "¿Cuál es el objetivo primordial de la fase de 'Comercialización' en el desarrollo de promociones?",
+            "options": [
+                "Lograr la venta o el arrendamiento del inmueble recuperando la inversión.",
+                "Obtener los permisos medioambientales para instalar las tuberías.",
+                "Redactar los estatutos de la comunidad de vecinos exclusivamente.",
+                "Realizar mediciones físicas sobre el terreno rústico original."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La comercialización tiene como objetivo lograr la venta o el arrendamiento del inmueble, lo que permite recuperar la inversión y obtener beneficios."
+        },
+        {
+            "question": "Para poder obtener la licencia de obra mayor, ¿cuál suele ser el primer paso técnico y documental requerido por el ayuntamiento?",
+            "options": [
+                "Que la obra ya esté finalizada y vendida.",
+                "La redacción y presentación del proyecto técnico por parte de arquitectos o técnicos competentes.",
+                "Entregar las llaves del piso piloto al alcalde de la ciudad.",
+                "Firmar un contrato vinculante con cada uno de los proveedores logísticos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El procedimiento de licencias se inicia con la redacción del proyecto técnico, seguido de su presentación ante el ayuntamiento con la solicitud."
+        },
+        {
+            "question": "¿Qué licencia es imprescindible y obligatoria solicitar para la construcción de una edificación de nueva planta?",
+            "options": [
+                "Licencia de primera ocupación únicamente.",
+                "Licencia de alienación de tierras.",
+                "Licencia de obra mayor.",
+                "Licencia urbanística menor."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La licencia de obra mayor es imprescindible para la construcción de edificaciones de nueva planta."
+        },
+        {
+            "question": "¿Qué licencia acredita que el edificio ha sido construido conforme a lo autorizado y ya puede ser habitado?",
+            "options": [
+                "Autorización medioambiental autonómica.",
+                "Licencia de obra mayor o estructural.",
+                "Licencia de cimentación y estructura principal.",
+                "Licencia de primera ocupación o utilización."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La Licencia de primera ocupación o utilización acredita que el edificio fue construido según autorización y puede ser habitado."
+        },
+        {
+            "question": "¿Qué autorización es necesaria si, antes de construir, en el terreno existe una edificación antigua que debe desaparecer?",
+            "options": [
+                "Licencia de demolición.",
+                "Licencia de obra de primera ocupación.",
+                "Licencia de enajenación forzosa.",
+                "Licencia de rehabilitación integral."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La Licencia de demolición se requiere en caso de que exista una edificación anterior que deba ser derribada antes de la nueva."
+        },
+        {
+            "question": "Dentro de los canales de comercialización, ¿en qué consiste el 'marketing digital'?",
+            "options": [
+                "Instalar una oficina de obra física en el barrio de la promoción.",
+                "Llevar a cabo campañas en páginas web, portales inmobiliarios y redes sociales.",
+                "Repartir folletos informativos a mano por todas las calles cercanas.",
+                "Llamar al timbre de los vecinos ofreciendo comprar un local."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El marketing digital engloba páginas web, portales inmobiliarios, campañas en redes sociales y e-mail marketing."
+        },
+        {
+            "question": "¿Cómo se llama la técnica en la cual se venden los inmuebles cuando aún no han sido construidos mediante maquetas o renders?",
+            "options": [
+                "Agencias de exclusividad inmobiliaria.",
+                "Marketing colateral preventivo.",
+                "Venta sobre plano.",
+                "Venta condicionada posventa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La venta sobre plano es la comercialización anticipada de inmuebles aún no construidos, con maquetas o renders."
+        },
+        {
+            "question": "En el proceso de formalización legal de la venta, ¿cuál es el paso en el que se detallan de forma definitiva condiciones económicas, plazos y forma de pago tras una reserva inicial?",
+            "options": [
+                "La inscripción registral en Hacienda.",
+                "La obtención del certificado de eficiencia energética.",
+                "La firma del acta de replanteo municipal.",
+                "La firma del contrato de compraventa."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La firma del contrato de compraventa en el que se detallan las condiciones económicas, los plazos y la forma de pago."
+        },
+        {
+            "question": "A nivel normativo básico, ¿qué ley establece quiénes son los diferentes agentes que intervienen en el proceso del edificio?",
+            "options": [
+                "La Ley 38/1999, de Ordenación de la Edificación (LOE).",
+                "El Código Civil y la Constitución de forma conjunta.",
+                "La Ley de Prevención de Riesgos Laborales aplicable en las obras.",
+                "El Real Decreto de Financiación de Cargas Autonómicas."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación (LOE) establece los diferentes agentes de la edificación."
+        },
+        {
+            "question": "Según la Ley de Ordenación de la Edificación (LOE), ¿qué agente es el autor del diseño y quien elabora el proyecto técnico de la obra?",
+            "options": [
+                "Mano de obra directa y peones.",
+                "El Proyectista (arquitecto, arquitecto técnico o ingeniero).",
+                "Las Entidades y laboratorios de control.",
+                "El Registrador de la Propiedad en su primera comprobación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Proyectista es el técnico autor del proyecto (arquitecto o ingeniero), que asume el diseño del edificio."
+        },
+        {
+            "question": "De los agentes de edificación, ¿quién asume la función material y técnica de ejecutar la obra siguiendo estrictamente el proyecto aportando medios humanos y materiales?",
+            "options": [
+                "El Promotor.",
+                "El Alcalde del municipio.",
+                "El Constructor (persona o empresa).",
+                "El tasador bancario."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El Constructor es la persona o empresa que ejecuta la obra siguiendo el proyecto y aportando los medios."
+        },
+        {
+            "question": "¿Quién es habitualmente el técnico encargado de supervisar y dirigir de manera constante y técnica la ejecución de la obra principal en marcha?",
+            "options": [
+                "El operario de maquinaria pesada.",
+                "El oficial de albañilería al mando.",
+                "El Promotor a través de sus agentes inmobiliarios de venta.",
+                "El Director de obra (normalmente un arquitecto)."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El Director de obra es el técnico (arquitecto) que supervisa y dirige técnicamente la ejecución."
+        },
+        {
+            "question": "¿Qué agente técnico se encarga de manera directa del control de calidad en los materiales que llegan y en los procesos constructivos diarios?",
+            "options": [
+                "El Director de la ejecución de obra (suele ser un arquitecto técnico).",
+                "El Ayuntamiento mediante un inspector urbanístico de obras.",
+                "La entidad financiera prestamista que concede la hipoteca.",
+                "El Director de marketing de la promotora."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El Director de la ejecución de obra (arquitecto técnico) se encarga de controlar la calidad de materiales y procesos."
+        },
+        {
+            "question": "¿Qué papel cumplen las 'Entidades y laboratorios de control' en el proceso edificatorio?",
+            "options": [
+                "Financiar préstamos avalistas a los futuros propietarios.",
+                "Verificar y corroborar que los materiales y sistemas de obra cumplen rigurosamente con estándares técnicos establecidos.",
+                "Dirigir comercial y comunicativamente el evento de inauguración del piso piloto.",
+                "Firmar escrituras notariadas en nombre del constructor si está indispuesto."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tienen la función de verificar que los materiales y sistemas constructivos cumplen los estándares técnicos."
+        },
+        {
+            "question": "¿De qué tipo pueden ser las consecuentes responsabilidades legales que asume cada uno de los agentes intervinientes al ejecutar su participación en el bloque constructivo?",
+            "options": [
+                "Ficticias y abstractas exentas de penas.",
+                "Puramente honoríficas a las normas de urbanidad general.",
+                "Civiles, administrativas o penales derivadas de su intervención técnica y legal.",
+                "Estrictamente enfocadas a pagar los seguros de enfermedad del comprador directo."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las responsabilidades que deben asumir estos agentes pueden ser civiles, administrativas o penales."
+        },
+        {
+            "question": "¿A través de qué fórmulas o fuentes principales suele obtener el promotor inmobiliario el dinero suficiente para financiar el proyecto constructivo íntegramente de cara al final de venta?",
+            "options": [
+                "Vendiendo inmuebles colindantes que no le pertenecen previa expropiación municipal particular encubierta.",
+                "Con impuestos cedidos voluntariamente por la Hacienda Local al inicio.",
+                "Con limosna pública recaudada en forma de crowdfunding anónimo general a fondo perdido.",
+                "Con fondos propios, préstamos hipotecarios al promotor o ventas financiadas sobre plano."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El promotor obtiene recursos a través de fondos propios, préstamos hipotecarios o ventas previas sobre plano."
+        },
+        {
+            "question": "¿Quién revisa formalmente el expediente para evaluar que el proyecto introducido cumple efectivamente con el planeamiento municipal antes del pago de la licencia oficial?",
+            "options": [
+                "Los informes y técnicos de los servicios municipales del ayuntamiento correspondiente.",
+                "Exclusivamente el constructor del cual dependen las licencias propias.",
+                "La delegación de vivienda estatal a título particular superior desde la capital del país.",
+                "El notario actuante al otorgar la futura división horizontal del edificio completo en parcelas."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Es el informe de los servicios técnicos municipales el que revisa el cumplimiento del planeamiento urbanístico y normativa en el ayuntamiento."
+        },
+        {
+            "question": "En la última etapa del proceso de comercialización de la adquisición del inmueble, ¿quién se hace cargo comúnmente de tramitar la inscripción resultante en el Registro de la Propiedad?",
+            "options": [
+                "El constructor asumiendo este importe vitalicio en sus impuestos empresariales al efecto contable.",
+                "El comprador inscribiendo el contrato de propiedad firmado válidamente ante oficial notarial.",
+                "El arquitecto del proyecto como validación final y sello de garantía profesional permanente inscrita.",
+                "El ayuntamiento local como tributario e inscriptor directo de toda finca de la comarca natural."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La formalización de compraventa prevé normalmente la inscripción registral en el Registro de la Propiedad, trámite que recae a cargo del comprador adquirente final."
+        }
+    ]
+}

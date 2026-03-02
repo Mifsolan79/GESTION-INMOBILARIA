@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 5: VALORACIÓN Y TASACIÓN INMOBILIARIA",
+    "items": [
+        {
+            "question": "¿Qué es la fiscalidad inmobiliaria?",
+            "options": [
+                "El conjunto de normas, obligaciones y tributos que afectan a las operaciones con inmuebles.",
+                "La ley que regula únicamente los arrendamientos de viviendas turísticas.",
+                "El impuesto exclusivo que pagan los agentes de la propiedad inmobiliaria.",
+                "El sistema por el cual se fijan los precios máximos de alquiler en las ciudades."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La fiscalidad inmobiliaria hace referencia al conjunto de normas, obligaciones y tributos que afectan a las operaciones relacionadas con bienes inmuebles."
+        },
+        {
+            "question": "¿Cómo se estructuran los impuestos en el sistema tributario español aplicables a las operaciones inmobiliarias?",
+            "options": [
+                "A nivel europeo e internacional exclusivamente.",
+                "En tres niveles: estatal, autonómico y local.",
+                "Solamente a nivel del Estado central.",
+                "En dos niveles fijos: provincial y local."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En España, el sistema tributario se estructura en tres niveles: estatal, autonómico y local."
+        },
+        {
+            "question": "¿Qué tipo de impuesto es el IRPF cuando grava los ingresos de un alquiler?",
+            "options": [
+                "Un impuesto indirecto sobre el consumo.",
+                "Una tasa administrativa de gestión municipal.",
+                "Un impuesto directo que se aplica sobre la renta o el patrimonio del contribuyente.",
+                "Un impuesto especial aplicable solo a empresas constructoras."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El IRPF es un impuesto directo que grava la renta, aplicándose a los ingresos obtenidos por alquileres."
+        },
+        {
+            "question": "¿Cuál de los siguientes es un ejemplo de impuesto indirecto aplicado a transacciones inmobiliarias?",
+            "options": [
+                "El Impuesto sobre Bienes Inmuebles.",
+                "El IRPF sobre ganancias patrimoniales.",
+                "El impuesto de plusvalía municipal.",
+                "El Impuesto sobre el Valor Añadido (IVA)."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Los impuestos indirectos afectan al consumo y transacciones; un ejemplo es el IVA, aplicable a la compra de viviendas nuevas."
+        },
+        {
+            "question": "¿Cuál es la primera obligación fiscal que debe asumir un agente inmobiliario antes de iniciar su actividad?",
+            "options": [
+                "Darse de alta en el censo de empresarios, profesionales y retenedores mediante los modelos correspondientes.",
+                "Pagar una cuota especial de entrada a la Seguridad Social.",
+                "Liquidar su primer impuesto de sociedades por adelantado.",
+                "Facturar al menos a tres clientes diferentes."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Antes de iniciar la actividad, hay que darse de alta en el censo mediante el modelo 036 o 037."
+        },
+        {
+            "question": "¿A qué tipo de bienes inmuebles se aplica el Impuesto sobre el Valor Añadido (IVA) en las compraventas?",
+            "options": [
+                "A la obra nueva y a todas las viviendas usadas.",
+                "A las viviendas nuevas que se transmiten por primera vez y no han sido habitadas.",
+                "Exclusivamente a herencias y donaciones entre familiares.",
+                "A las plazas de garaje de segunda mano vendidas entre particulares."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El IVA se aplica a la compraventa de viviendas nuevas que se transmiten por primera vez."
+        },
+        {
+            "question": "¿Cuál es el tipo impositivo general de IVA aplicable a la compraventa de una vivienda de nueva construcción (vivienda habitual)?",
+            "options": [
+                "4% (superreducido).",
+                "8% (bonificado).",
+                "10% sobre el valor de compraventa.",
+                "21% sobre el valor del suelo."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El tipo impositivo general del IVA para vivienda habitual de primera transmisión es del 10%."
+        },
+        {
+            "question": "¿En qué caso se aplicaría un IVA del 21% en lugar del 10%?",
+            "options": [
+                "Al comprar una segunda vivienda para vacaciones.",
+                "Al comprar vivienda habitual si eres familia numerosa.",
+                "Al reformar una vivienda propia antes de habitarla.",
+                "Al adquirir locales comerciales, garajes adicionales o terrenos no edificables."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El tipo del 21% de IVA se aplica en locales comerciales, garajes adicionales o terrenos no edificables."
+        },
+        {
+            "question": "¿Cuál es el impuesto aplicable en la compraventa de viviendas usadas o de segunda transmisión entre particulares?",
+            "options": [
+                "Impuesto sobre transmisiones patrimoniales (ITP).",
+                "Impuesto sobre bienes inmuebles (IBI).",
+                "Impuesto sobre sucesiones y donaciones.",
+                "Impuesto sobre actividades económicas (IAE)."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El ITP se aplica a la compraventa de viviendas usadas entre particulares y es autonómico."
+        },
+        {
+            "question": "¿Quién tiene la obligación de liquidar el Impuesto sobre transmisiones patrimoniales (ITP) y en qué plazo?",
+            "options": [
+                "El notario en el plazo de una semana tras la firma.",
+                "El comprador, en el plazo de 30 días hábiles desde la firma del contrato público.",
+                "El vendedor, en un plazo máximo de tres meses.",
+                "El agente inmobiliario, justo antes de firmar las arras."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El sujeto pasivo del ITP es el comprador, debiendo liquidarlo en 30 días hábiles desde la firma."
+        },
+        {
+            "question": "¿Qué impuesto grava el incremento del valor del suelo urbano desde la anterior transmisión en una venta?",
+            "options": [
+                "El Impuesto sobre el valor añadido.",
+                "El IRPF en su base de ahorro.",
+                "El Impuesto sobre el incremento del valor de los terrenos de naturaleza urbana (plusvalía municipal).",
+                "El Impuesto sobre transmisiones patrimoniales de carácter estatal."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La plusvalía municipal grava este incremento de valor del suelo urbano."
+        },
+        {
+            "question": "Por norma general, ¿quién es el sujeto pasivo encargado de abonar la plusvalía municipal tras una venta?",
+            "options": [
+                "El agente inmobiliario intermediario.",
+                "El comprador, al convertirse en el nuevo titular.",
+                "El Ayuntamiento mediante un fondo de compensación.",
+                "El vendedor, salvo pacto en contrario en escritura pública."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El sujeto pasivo es el vendedor, salvo que se acuerde lo contrario."
+        },
+        {
+            "question": "¿Con qué periodicidad se devenga el Impuesto sobre bienes inmuebles (IBI) y quién lo gestiona?",
+            "options": [
+                "Es anual y lo gestiona cada ayuntamiento.",
+                "Es un pago único en la vida de la vivienda gestionado por el Estado.",
+                "Es semestral y depende únicamente de la Diputación Provincial.",
+                "Se paga mensualmente y lo recauda la comunidad autónoma."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El IBI es anual y municipal."
+        },
+        {
+            "question": "En el año en que se vende un inmueble, ¿cómo se gestiona habitualmente el pago del IBI?",
+            "options": [
+                "Hacienda exime del pago por ser año de traspaso.",
+                "Suele acordarse un reparto proporcional del recibo entre comprador y vendedor.",
+                "El notario asume siempre el coste en sus honorarios fijos.",
+                "Se duplica el recibo, teniendo que pagarlo tanto el comprador como el vendedor."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Suele acordarse su reparto proporcional entre ambas partes en el ejercicio vigente."
+        },
+        {
+            "question": "En una misma operación de compraventa de una vivienda, ¿es posible tributar simultáneamente por IVA e ITP?",
+            "options": [
+                "Sí, siempre que el valor supere los 100.000 euros.",
+                "Sí, pero el ITP solo se aplica a la mitad del importe pagado en concepto de IVA.",
+                "No, son impuestos alternativos y nunca se aplican a la vez en la misma transmisión.",
+                "Sí, la ley general tributaria obliga a pagar ambos si interviene promotor y particular."
+            ],
+            "correctAnswer": 2,
+            "explanation": "IVA e ITP son alternativos, nunca se aplican simultáneamente."
+        },
+        {
+            "question": "¿En qué supuesto se aplicaría IVA a una segunda transmisión de un inmueble?",
+            "options": [
+                "Si el inmueble se vende a un ciudadano extranjero.",
+                "Si se trata de un garaje situado en el centro de una capital.",
+                "Siempre que el precio sea inferior al valor de mercado.",
+                "Si el vendedor renuncia a la exención del IVA, en ciertos casos empresariales o con locales."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Cuando siendo segunda transmisión, el vendedor renuncia a la exención en ciertos casos empresariales o con locales."
+        },
+        {
+            "question": "¿Qué administración tiene competencia para gestionar el ITP?",
+            "options": [
+                "La Comunidad Autónoma correspondiente.",
+                "El Ministerio de Hacienda directa y exclusivamente.",
+                "El Ayuntamiento del municipio donde se ubica el bien.",
+                "La Seguridad Social a través de embargos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El ITP es un impuesto autonómico."
+        },
+        {
+            "question": "¿Quién es el sujeto pasivo del IBI al devengarse el impuesto el 1 de enero?",
+            "options": [
+                "Quien firme la última derrama de la comunidad.",
+                "Quien figure como titular registral a fecha 1 de enero del año correspondiente.",
+                "Quien use la vivienda el día 31 de diciembre del año previo.",
+                "Quien tenga contrato de alquiler vigente en febrero."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El sujeto pasivo es quien figure como titular registral a fecha 1 de enero."
+        },
+        {
+            "question": "¿De qué depende la cuantía a pagar en el Impuesto sobre bienes inmuebles (IBI)?",
+            "options": [
+                "Del precio por el que el propietario haya hipoteticamente vendido la casa.",
+                "De la renta de la persona que habita la vivienda.",
+                "Del valor catastral del inmueble al que se aplica un tipo impositivo determinado por el ayuntamiento.",
+                "De las ganancias obtenidas en el alquiler por el arrendador."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Depende del valor catastral del inmueble aplicando un tipo impositivo determinado por el ayuntamiento."
+        },
+        {
+            "question": "¿Cuál es el límite máximo de años que se toma para calcular la plusvalía municipal desde la anterior adquisición?",
+            "options": [
+                "Un máximo de 10 años.",
+                "Un máximo de 15 años.",
+                "Toda la vida util de la vivienda sin límite.",
+                "Un máximo de 20 años."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El cálculo se basa en un máximo de 20 años."
+        },
+        {
+            "question": "Desde la reforma legal de 2021 sobre la plusvalía municipal, ¿qué dos métodos existen para su cálculo?",
+            "options": [
+                "Un sistema objetivo basado en coeficientes oficiales y un sistema real basado en la plusvalía efectiva.",
+                "Un sistema estimado por el notario y otro fijo dictado por la Agencia Tributaria.",
+                "Un pago mensual o un único pago quinquenal según prefiera el vendedor.",
+                "Un método a tanto alzado y otro progresivo según los ingresos anuales del transmitente."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Existen dos métodos: sistema objetivo (coeficientes) y sistema real (plusvalía efectiva)."
+        },
+        {
+            "question": "¿Desde qué fecha se suprimió la deducción estatal por adquisición de vivienda habitual para las nuevas compras?",
+            "options": [
+                "Desde el 1 de enero de 2005.",
+                "Desde el 1 de enero de 2013.",
+                "Desde el 31 de diciembre de 2018.",
+                "Desde la entrada en vigor del euro en 2002."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Fue suprimida a partir del 1 de enero de 2013 para nuevas compras."
+        },
+        {
+            "question": "¿Qué ocurre con la deducción por adquisición de vivienda si un contribuyente compra actualmente una casa habitual?",
+            "options": [
+                "Recibirá una bonificación automática del 15% del IRPF nacional.",
+                "Se le aplicará siempre y cuando la vivienda cueste menos de 100.000 euros.",
+                "Ya no tendrá derecho a esta deducción estatal, aunque podría tener acceso a deducciones autonómicas.",
+                "Se deduce el 100% de la hipoteca solo si es menor de 30 años en todo el Estado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Quienes compran actualmente no tienen derecho a deducción estatal, aunque sí pueden acceder a las autonómicas."
+        },
+        {
+            "question": "Para quienes mantienen el régimen transitorio por haber comprado antes de 2013, ¿cuál es el porcentaje máximo y el límite base de la deducción estatal en IRPF?",
+            "options": [
+                "50% de deducción sobre un límite de 20.000 € anuales.",
+                "10% de deducción sin límite económico.",
+                "5% de deducción exclusivamente sobre los intereses satisfechos.",
+                "15% de los importes invertidos en el ejercicio, con límite de 9.040 € anuales."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La reducción puede alcanzar hasta el 15% de los importes invertidos, con un límite máximo de 9.040 €."
+        },
+        {
+            "question": "Si alguien que venía disfrutando de la deducción por adquisición de vivienda (antes de 2013) vende la suya para comprar otra habitual, ¿puede aplicar la deducción por la compra de la nueva vivienda?",
+            "options": [
+                "Sí, si realiza una reinversión en nueva vivienda habitual.",
+                "No, el cambio de vivienda elimina automáticamente cualquier derecho previo.",
+                "Solo si el nuevo municipio se encuentra en diferente comunidad autónoma.",
+                "Sí, pero la base máxima se reduce a la mitad automáticamente."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Si vende y reinvierte el importe en nueva vivienda habitual, puede continuar aplicando la deducción."
+        },
+        {
+            "question": "Cuando un arrendador persona física cobra el alquiler de una vivienda no dedicada a actividad empresarial, ¿cómo tributan esos ingresos en el IRPF?",
+            "options": [
+                "Como rendimientos de actividades económicas exclusivamente.",
+                "Como rendimientos del capital inmobiliario.",
+                "Como rentas exentas y no sujetas a tributación alguna.",
+                "Como ganancias patrimoniales generadas por lotería o azar."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los ingresos obtenidos fuera de una actividad económica se consideran rendimientos del capital inmobiliario."
+        },
+        {
+            "question": "¿Qué reducción estatal puede aplicar el arrendador sobre el rendimiento neto de un inmueble alquilado como vivienda habitual?",
+            "options": [
+                "Una reducción del 10% por eficiencia energética.",
+                "Una reducción del 30% si el contrato dura más de cinco años.",
+                "Una reducción del 60% sobre el rendimiento neto.",
+                "Una reducción del 100% si alquila a empresarios con local."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El arrendador podrá aplicar una deducción del 60% sobre el rendimiento neto en alquileres de vivienda habitual."
+        },
+        {
+            "question": "En el caso del arrendatario de vivienda habitual en España, ¿quién regula principalmente las deducciones fiscales actualmente vigentes a las que puede acceder en el IRPF?",
+            "options": [
+                "Solo la normativa municipal a través del recibo del IBI.",
+                "El parlamento europeo fijando un tope estándar para todos.",
+                "Nadie, no existe absolutamente ninguna deducción por alquiler.",
+                "Las comunidades autónomas en el marco de sus competencias."
+            ],
+            "correctAnswer": 3,
+            "explanation": "No existe deducción estatal activa para arrendatarios nuevos, pero existen deducciones autonómicas."
+        },
+        {
+            "question": "Según el texto respecto a la deducción autonómica por alquiler en la Comunidad de Madrid, ¿cuál es el porcentaje de reducción en vigor para jóvenes menores de 35 años (cumpliendo requisitos)?",
+            "options": [
+                "Una deducción del 30% del alquiler (con máximo de 1.237,20 €).",
+                "El 50% de las rentas brutas pagadas anualmente.",
+                "Una única ayuda de 200 euros en un solo pago.",
+                "Una devolución directa del IBI abonado por el propietario."
+            ],
+            "correctAnswer": 0,
+            "explanation": "En Madrid se permite una deducción del 30% del alquiler para menores de 35."
+        },
+        {
+            "question": "¿Puede aplicarse el arrendador la deducción del 60% sobre el IRPF si destina la vivienda a alquiler túristico vacacional?",
+            "options": [
+                "Sí, en todos los casos por ser de carácter residencial.",
+                "No, no se aplica en arrendamientos de duración determinada turísticos.",
+                "Sí, pero solo durante los tres meses de verano demostrables.",
+                "Sí, siempre que lo registre como actividad hotelera mercantil."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La reducción del 60% busca fomentar el alquiler residencial y no se aplica a arrendamientos turísticos."
+        }
+    ]
+}

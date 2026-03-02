@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 6: ARRENDAMIENTOS URBANOS",
+    "items": [
+        {
+            "question": "¿Cuál es el objetivo principal de la Ley de Arrendamientos Urbanos (LAU)?",
+            "options": [
+                "Establecer un marco que garantice la seguridad jurídica, equilibre intereses y fomente el acceso a la vivienda en alquiler.",
+                "Fijar un precio máximo universal para todos los alquileres en el territorio español.",
+                "Regular exclusivamente los arrendamientos de locales comerciales y oficinas.",
+                "Prohibir cualquier tipo de alquiler que no esté gestionado por una agencia estatal."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El objetivo principal de la LAU es establecer un marco normativo que garantice la seguridad jurídica, equilibre los intereses de las partes y fomente el acceso a la vivienda en régimen de alquiler."
+        },
+        {
+            "question": "¿Qué Real Decreto-Ley introdujo la versión vigente con reformas relevantes en la LAU?",
+            "options": [
+                "La Ley de Enjuiciamiento Civil de 2000.",
+                "El Real Decreto-Ley 7/2019, de 1 de marzo.",
+                "El Código Civil del siglo XIX.",
+                "La Ley Hipotecaria de 1946."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La versión vigente actual se recoge en el Real Decreto-Ley 7/2019, de 1 de marzo, que introdujo reformas sobre duración de contratos y fianzas."
+        },
+        {
+            "question": "¿A qué tipo de inmuebles se aplica exclusivamente la Ley de Arrendamientos Urbanos (LAU)?",
+            "options": [
+                "A las fincas rústicas destinadas a la agricultura.",
+                "A los arrendamientos financieros (leasing) de vehículos.",
+                "A los inmuebles urbanos, situados en suelo clasificado como urbano o urbanizable.",
+                "A las concesiones administrativas sobre el dominio público."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La LAU se aplica exclusivamente a los arrendamientos de inmuebles urbanos (suelo urbano o urbanizable), y no rústicos."
+        },
+        {
+            "question": "Dentro de los principios de la LAU, ¿qué caracteriza al régimen de los arrendamientos de vivienda frente al libre pacto?",
+            "options": [
+                "Se basan únicamente en leyes internacionales.",
+                "Permiten a las partes acordar cualquier condición sin límite.",
+                "Tienen una duración máxima fijada por el juez en cada caso particular.",
+                "Establecen un régimen imperativo que limita la autonomía de la voluntad en favor de la protección del arrendatario."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El régimen de vivienda establece un régimen imperativo que limita la autonomía de la voluntad para proteger al arrendatario."
+        },
+        {
+            "question": "Según las modificaciones de 2019, ¿cuál es el plazo mínimo obligatorio del contrato de vivienda si el arrendador es persona física?",
+            "options": [
+                "5 años.",
+                "3 años.",
+                "1 año.",
+                "7 años."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Con la reforma de 2019, el plazo mínimo es de 5 años si el arrendador es persona física."
+        },
+        {
+            "question": "Según las reformas de 2019 en la LAU, si el arrendador es persona jurídica, ¿cuál es la duración mínima obligatoria del contrato de vivienda?",
+            "options": [
+                "3 años.",
+                "7 años.",
+                "5 años.",
+                "10 años."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El plazo mínimo se amplía a 7 años si el arrendador es persona jurídica (empresa)."
+        },
+        {
+            "question": "Tras vencer el contrato de vivienda, ¿cuál es el plazo máximo de la prórroga tácita anual introducida por la reforma?",
+            "options": [
+                "Un máximo de 1 año adicional.",
+                "Un máximo de 5 años adicionales.",
+                "Hasta un máximo de 3 años adicionales.",
+                "Prórroga indefinida sin límite."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La reforma estipuló una prórroga tácita anual hasta un máximo de 3 años adicionales."
+        },
+        {
+            "question": "¿A qué límite máximo queda restringida la fianza obligatoria en los arrendamientos de vivienda según la LAU?",
+            "options": [
+                "Tres mensualidades de renta.",
+                "Medio año de renta por adelantado.",
+                "Una cantidad equivalente al valor catastral.",
+                "A una mensualidad de renta para vivienda."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Para los contratos de vivienda, el importe de la fianza obligatoria no puede exceder una mensualidad de renta."
+        },
+        {
+            "question": "¿Cuál es la finalidad principal por la que se considera que un contrato es de 'arrendamiento de vivienda'?",
+            "options": [
+                "Satisfacer la necesidad permanente de residencia del arrendatario en una edificación habitable.",
+                "Utilizar el inmueble como oficina de representación comercial de una empresa.",
+                "Servir de almacén logístico durante los meses de verano.",
+                "Alojar temporalmente a turistas durante el fin de semana."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El objeto es una edificación habitable cuya finalidad es satisfacer la necesidad permanente de vivienda del arrendatario."
+        },
+        {
+            "question": "En un arrendamiento de vivienda, si las partes pactan una duración inferior a la mínima legal, ¿qué ocurre al vencer el plazo pactado?",
+            "options": [
+                "El arrendatario es desahuciado de inmediato.",
+                "Se prorroga obligatoriamente por plazos anuales hasta alcanzar los mínimos legales establecidos por la ley.",
+                "El contrato queda anulado desde su inicio por ser ilegal.",
+                "El arrendador puede subir el importe del alquiler un 50% para compensar."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Si la duración pactada es inferior, el contrato se prorrogará obligatoriamente por plazos anuales hasta el mínimo de 5 o 7 años."
+        },
+        {
+            "question": "¿En qué condiciones puede actualizarse la renta en un arrendamiento de vivienda durante los años de duración obligatoria?",
+            "options": [
+                "En cualquier momento a voluntad del arrendador, sin límites.",
+                "Nunca, el alquiler debe ser fijo los 5 o 7 primeros años.",
+                "Solo si se ha pactado expresamente en el contrato, con referencia a índices oficiales como el IPC.",
+                "Solo si el arrendatario lo solicita de forma voluntaria."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La renta se actualiza solo si se ha pactado expresamente y con referencia a índices oficiales como el IPC."
+        },
+        {
+            "question": "¿Qué tipo de inmuebles se incluyen en los arrendamientos 'para uso distinto del de vivienda'?",
+            "options": [
+                "Solamente pisos destinados a domicilio familiar.",
+                "Residencias permanentes para estudiantes durante toda la carrera.",
+                "Cualquier inmueble con una superficie superior a 100 metros cuadrados.",
+                "Locales de negocio, viviendas de temporada, garajes o almacenes."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El arrendamiento de uso distinto engloba local de negocio, vivienda de temporada, garaje o almacén."
+        },
+        {
+            "question": "Una diferencia clave entre el arrendamiento de vivienda y el de uso distinto es el nivel de flexibilidad. ¿Cómo es en el de uso distinto?",
+            "options": [
+                "Se rige en gran parte por la autonomía de la voluntad, permitiendo mayor libertad de pactos.",
+                "Es mucho más estricto y protector para el inquilino que el de vivienda.",
+                "No existe ningún tipo de normativa aplicable al de uso distinto.",
+                "Está supeditado exclusivamente a la aprobación del notario."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Los arrendamientos de uso distinto permiten mayor libertad de pactos rigiéndose por la autonomía de la voluntad."
+        },
+        {
+            "question": "Si en un contrato de arrendamiento para uso distinto de vivienda no se pacta una duración determinada, ¿qué plazo se entiende fijado legalmente a falta de pacto?",
+            "options": [
+                "5 años.",
+                "Se entiende fijado por 1 año, con posibilidad de resolución según el Código Civil.",
+                "Será indefinido hasta que el arrendador lo rescinda.",
+                "3 meses prorrogables mes a mes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A falta de pacto de duración, se entiende por un año con posibilidad de resolución."
+        },
+        {
+            "question": "En los contratos para uso distinto del de vivienda, ¿cuál es la fianza legal mínima exigida?",
+            "options": [
+                "Una mensualidad.",
+                "Tres mensualidades.",
+                "Dos mensualidades de renta, sin considerar el IVA.",
+                "El 10% del precio total del contrato."
+            ],
+            "correctAnswer": 2,
+            "explanation": "En este tipo de arrendamientos se establece un importe legal mínimo de fianza de dos mensualidades de renta."
+        },
+        {
+            "question": "Durante la vigencia del contrato, ¿quién tiene la obligación general de realizar las reparaciones necesarias para conservar la vivienda habitable?",
+            "options": [
+                "La comunidad de vecinos.",
+                "El arrendatario, independientemente del origen de la avería.",
+                "El administrador de fincas contratado por la finca.",
+                "El arrendador, salvo que el deterioro sea imputable al arrendatario."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Es deber del arrendador realizar todas las reparaciones necesarias para conservar la vivienda, salvo culpa del inquilino."
+        },
+        {
+            "question": "¿En qué caso un arrendador persona jurídica está exento de asumir los gastos de gestión inmobiliaria y formalización del contrato?",
+            "options": [
+                "Cuando el inmueble se arriende para un uso distinto del de vivienda.",
+                "Cuando el contrato sea por más de 10 años.",
+                "Esta obligación siempre debe asumirla la inmobiliaria directamente.",
+                "Cuando el arrendatario cobre menos del salario mínimo interprofesional."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La persona jurídica debe asumir esos gastos, salvo que el inmueble se arriende para uso distinto del de vivienda."
+        },
+        {
+            "question": "¿Quién debe asumir las reparaciones por pequeños deterioros que se deriven del uso ordinario de la vivienda?",
+            "options": [
+                "El arrendador de forma íntegra.",
+                "El arrendatario.",
+                "El seguro de hogar obligatorio de la comunidad.",
+                "El consorcio de compensación de seguros."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El arrendatario asume las reparaciones por pequeños deterioros derivados del uso ordinario."
+        },
+        {
+            "question": "Respecto a la realización de obras en la vivienda por parte del arrendatario, ¿qué regla general se aplica?",
+            "options": [
+                "Puede realizar las obras que considere necesarias libremente en los dos primeros años.",
+                "Solo puede pintar las paredes pero no realizar ningún tipo de obra.",
+                "No puede realizar obras sin autorización del arrendador, salvo las de carácter menor necesarias para conservación.",
+                "Debe pedir un permiso de obra mayor y presentarlo al administrador de la finca."
+            ],
+            "correctAnswer": 2,
+            "explanation": "No debe realizar obras sin autorización, salvo las menores para la conservación."
+        },
+        {
+            "question": "¿Qué derecho principal asiste al arrendatario en un contrato de alquiler de vivienda habitual?",
+            "options": [
+                "Subarrendar partes de la casa sin necesidad de avisar al propietario.",
+                "Dejar de pagar la renta si no le gusta el color de las paredes.",
+                "Decidir unilateralmente el importe de la actualización anual del IPC.",
+                "La utilización pacífica del inmueble y a prórrogas legales cuando proceda."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El arrendatario tiene derecho a la utilización pacífica y a prórrogas legales correspondientes."
+        },
+        {
+            "question": "De las siguientes opciones, ¿cuál es una de las causas directas de resolución anticipada del contrato por parte del arrendador?",
+            "options": [
+                "El impago de la renta o de la fianza por parte del arrendatario.",
+                "Cambiar de marca de seguro de hogar conservando las mismas coberturas.",
+                "Estar al corriente de pago pero solicitar un fraccionamiento de la mensualidad.",
+                "Acoger a familiares durante unos días por vacaciones de verano."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El impago de la renta o de la fianza constituyen causas de resolución establecidas legalmente."
+        },
+        {
+            "question": "¿En qué condiciones puede el arrendador (como persona física) resolver el contrato anticipadamente alegando necesidad para ocupar la vivienda?",
+            "options": [
+                "Puede hacerlo en cualquier momento con un preaviso de 48 horas.",
+                "Si necesita destinarla a vivienda permanente para sí o parientes de primer grado, avisando con 2 meses de antelación.",
+                "Siempre que justifique que la va a vender al doble de precio al contado.",
+                "Solo si demuestra que el inquilino no ha pintado el piso recientemente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El arrendador debe comunicar la necesidad justificada (para él o familiares de 1º grado) con al menos 2 meses de antelación."
+        },
+        {
+            "question": "¿Por qué motivo principal podría el arrendatario instar la resolución del contrato de forma justificada?",
+            "options": [
+                "Si encuentra un alquiler más barato en la misma zona.",
+                "Si decide trasladarse por voluntad propia antes de terminar su primer mes.",
+                "Si el arrendador no hace las reparaciones necesarias para conservar la vivienda habitable.",
+                "Si el vecino de arriba hace ruido esporádicamente de día."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El arrendatario puede hacerlo si el arrendador no efectúa las reparaciones necesarias para mantener la habitabilidad."
+        },
+        {
+            "question": "Al surgir una causa de resolución del contrato, ¿cuál es la recomendación habitual para protegerse en un futuro conflicto?",
+            "options": [
+                "Proceder al cambio de la cerradura inmediatamente, sin avisar.",
+                "Dejar de pagar los suministros para forzar la resolución.",
+                "Abandonar el inmueble de madrugada dejando las llaves en el interior.",
+                "Notificar la intención por escrito y conservar pruebas documentales."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Se recomienda notificar por escrito y conservar pruebas documentales."
+        },
+        {
+            "question": "¿Qué objetivo persigue jurídicamente el procedimiento de desahucio iniciado por un arrendador?",
+            "options": [
+                "Que el propietario recupere inmediatamente su inmueble al desalojar a un inquilino por incumplimiento de condiciones.",
+                "Perdonar la deuda del inquilino a cambio de que limpie el piso al irse.",
+                "Obligar al inquilino a comprar la propiedad abonando todo al contado.",
+                "Enviar al arrendatario a un proceso penal grave al no pagar el alquiler."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El desahucio busca desalojar al inquilino por incumplimiento para que el propietario recupere inmediatamente su inmueble."
+        },
+        {
+            "question": "¿En qué consiste el 'desahucio exprés' en situaciones de ocupación ilegal (okupación)?",
+            "options": [
+                "Se tramita cuando el inquilino oficial paga con retrasos semanales.",
+                "El juez requiere a los ocupantes que justifiquen su derecho en 5 días hábiles y, si no, ordena la entrega inmediata.",
+                "Es un recurso administrativo gestionado únicamente por los ayuntamientos o la policía.",
+                "Permite desalojar al arrendatario oficial en menos de 24 horas si rompe una puerta exterior."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El desahucio exprés permite requerir a los ocupantes alegar en 5 días; si no lo hacen de forma justificada, se procede de inmediato."
+        },
+        {
+            "question": "¿A qué situación específica se aplica habitualmente el denominado 'desahucio por precario'?",
+            "options": [
+                "Al impago recurrente de cuotas mensuales consecutivas de renta pactada en el contrato.",
+                "Cuando se arrienda un local comercial sin seguro de impago.",
+                "Al uso gratuito de una vivienda sin título legal (como un heredero sin permiso del resto de herederos).",
+                "Cuando el arrendatario subarrienda solo por dos días en semana."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El desahucio por precario aplica al uso gratuito de vivienda sin título legal."
+        },
+        {
+            "question": "El subarriendo o cesión del inmueble arrendado, si se realiza sin el consentimiento expreso del arrendador:",
+            "options": [
+                "Es legal siempre que el subarrendatario pague puntualmente por anticipado.",
+                "Genera el cobro automático de mayores tasas de impuestos del ITP.",
+                "Es irrelevante para el contrato original si no hay quejas de los vecinos.",
+                "Constituye un incumplimiento de contrato que puede motivar un desahucio."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El subarriendo sin consentimiento es incumplimiento contractual de causa de resolución o desahucio."
+        },
+        {
+            "question": "En relación a las actividades desarrolladas en la vivienda por el arrendatario, ¿cuáles configuran causa directa de desahucio por la vía del incumplimiento contractual?",
+            "options": [
+                "Realizar actividades molestas, ilícitas, insalubres, nocivas o peligrosas.",
+                "Tener reuniones familiares un par de días de fiesta local al mes.",
+                "Utilizar sistemas convencionales de aire acondicionado ocasionalmente.",
+                "Tener una mascota doméstica, aunque no lo prohiba en ninguna parte el contrato de alquiler ni los estatutos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Causan la desahucio la realización de actividades molestas, ilícitas, insalubres, nocivas o peligrosas."
+        },
+        {
+            "question": "Según la LAU, ¿en qué consiste la 'enervación de la acción de desahucio'?",
+            "options": [
+                "En sancionar al propietario por iniciar juzgados sin necesidad aparente.",
+                "En evitar el desahucio pagando la deuda en un solo acto antes del juicio, posible generalmente solo una vez.",
+                "Es la capacidad de apelar de inmediato tras perder un juicio por ocupación.",
+                "En anular legalmente un contrato antes de pasados los plazos básicos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Enervar es evitar el desahucio pagando todo antes del juicio correspondiente. Puede hacerse solo una vez salvo requerimiento fehaciente de 30 días antes."
+        }
+    ]
+}
