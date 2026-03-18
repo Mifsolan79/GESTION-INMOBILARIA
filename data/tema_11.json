@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 11: HABILIDADES COMERCIALES Y PROCESO DE VENTA",
+    "items": [
+        {
+            "question": "¿Cuál de las siguientes habilidades comerciales permite al agente acompañar al cliente en decisiones con un fuerte componente emocional?",
+            "options": [
+                "Proactividad",
+                "Empatía y orientación al cliente",
+                "Organización y planificación",
+                "Resolución de conflictos"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La empatía permite ponerse en el lugar del cliente y acompañarlo en decisiones emocionales y económicas. (Fuente: Página 4, Sección: Principales habilidades comerciales en el sector inmobiliario)"
+        },
+        {
+            "question": "Dentro del proceso de captación de inmuebles, ¿qué documento recoge formalmente el acuerdo de comercialización?",
+            "options": [
+                "El certificado energético",
+                "La escritura de propiedad",
+                "La nota de encargo",
+                "El contrato de arras"
+            ],
+            "correctAnswer": 2,
+            "explanation": "La formalización de la nota de encargo es el documento que recoge el acuerdo de comercialización entre las partes. (Fuente: Página 6, Sección: 3.1. Captación de inmuebles)"
+        },
+        {
+            "question": "¿Qué implica la 'escucha activa' según el manual?",
+            "options": [
+                "Oír lo que el cliente dice sin interrumpir en ningún momento.",
+                "Prestar atención real, comprender palabras y emociones, y demostrar interés.",
+                "Repetir exactamente las palabras del cliente para confirmar el mensaje.",
+                "Esperar el turno de palabra para introducir argumentos de venta."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La escucha activa consiste en prestar atención real, comprender palabras y emociones, y demostrar interés auténtico. (Fuente: Página 8, Sección: 4.3. Escucha activa)"
+        },
+        {
+            "question": "¿Cuál es la función principal de un CRM inmobiliario?",
+            "options": [
+                "Publicar anuncios automáticamente en todos los portales gratuitos.",
+                "Editar fotografías y vídeos para crear visitas virtuales.",
+                "Organizar y optimizar la relación con los clientes centralizando su información.",
+                "Sustituir la necesidad de realizar llamadas telefónicas a los propietarios."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Los CRM permiten organizar y optimizar la relación con los clientes, centralizando toda la información desde el primer contacto. (Fuente: Página 9, Sección: 6.1. CRM inmobiliarios)"
+        },
+        {
+            "question": "En el contexto de la negociación inmobiliaria, ¿cuál debe ser el papel del agente?",
+            "options": [
+                "Representar exclusivamente los intereses del vendedor.",
+                "Actuar como mediador profesional buscando un punto de equilibrio.",
+                "Presionar al comprador para que acepte el precio de salida.",
+                "Delegar el diálogo directamente entre las partes interesadas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El agente debe actuar como mediador profesional, buscando un equilibrio que permita cerrar la operación. (Fuente: Página 6, Sección: 3.2. Negociación)"
+        },
+        {
+            "question": "Según el texto, ¿qué porcentaje de clics adicionales pueden recibir los anuncios que incluyen visitas virtuales frente a los que solo tienen fotos?",
+            "options": [
+                "Hasta un 30 %",
+                "Hasta un 45 %",
+                "Hasta un 60 %",
+                "Hasta un 80 %"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Los anuncios con visitas virtuales reciben hasta un 60 % más de clics que los que solo incluyen fotos. (Fuente: Página 10, Sección: 6.2. Portales inmobiliarios y plataformas online)"
+        },
+        {
+            "question": "¿Qué acción forma parte del asesoramiento sobre trámites posteriores en una compraventa tras el cierre?",
+            "options": [
+                "La redacción del anuncio publicitario.",
+                "La liquidación de impuestos como el ITP o AJD.",
+                "La búsqueda de nuevas oportunidades en el mercado local.",
+                "La elaboración de la propuesta de valor al propietario."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En las compraventas, el cierre incluye asesorar sobre trámites como la liquidación del ITP o AJD. (Fuente: Página 7, Sección: 3.3. Cierre de la operación)"
+        },
+        {
+            "question": "¿Qué define a la 'capacidad de persuasión' en el perfil comercial inmobiliario?",
+            "options": [
+                "Presionar al cliente para que tome una decisión rápida.",
+                "Influir positivamente utilizando argumentos sólidos y datos objetivos.",
+                "Ocultar las deficiencias del inmueble para facilitar la venta.",
+                "Utilizar un lenguaje técnico complejo para demostrar autoridad."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La persuasión consiste en influir positivamente en la toma de decisiones utilizando argumentos sólidos y datos objetivos. (Fuente: Página 4, Sección: Principales habilidades comerciales en el sector inmobiliario)"
+        },
+        {
+            "question": "En la comunicación no verbal, ¿qué debe cuidar un agente durante una visita presencial?",
+            "options": [
+                "Evitar el contacto visual para no intimidar al cliente.",
+                "Mantener una postura cerrada para proyectar seriedad.",
+                "Mantener una postura abierta y usar un tono de voz adecuado.",
+                "Invadir el espacio personal para generar cercanía inmediata."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El agente debe mantener una postura abierta, usar un tono de voz adecuado y mirar a los ojos sin invadir el espacio personal. (Fuente: Página 8, Sección: 4.2. Comunicación no verbal)"
+        },
+        {
+            "question": "¿Qué objetivo persigue la fase de postventa?",
+            "options": [
+                "Localizar nuevos inmuebles para captar.",
+                "Consolidar la satisfacción del cliente y fomentar su fidelización.",
+                "Negociar el precio final de la vivienda antes de la firma.",
+                "Redactar las cláusulas del contrato de arras."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La fase de postventa está orientada a consolidar la satisfacción del cliente y fomentar su fidelización a largo plazo. (Fuente: Página 10, Sección: 7. La importancia del servicio postventa y la fidelización)"
+        },
+        {
+            "question": "La captación de inmuebles no consiste en 'acumular viviendas', sino en:",
+            "options": [
+                "Obtener la mayor cantidad de llaves posible.",
+                "Incorporar inmuebles vendibles en condiciones realistas al porfolio.",
+                "Aceptar cualquier propiedad independientemente de su precio.",
+                "Priorizar solo inmuebles de lujo en zonas exclusivas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La captación es incorporar inmuebles vendibles en condiciones realistas al porfolio, no simplemente acumular viviendas. (Fuente: Página 5, Sección: 3.1. Captación de inmuebles)"
+        },
+        {
+            "question": "¿Cuál es una estrategia efectiva para la fidelización del cliente mencionada en el texto?",
+            "options": [
+                "Cobrar comisiones adicionales por el servicio de asesoría.",
+                "Cerrar la comunicación inmediatamente tras la entrega de llaves.",
+                "Ofrecer programas de recomendaciones con incentivos.",
+                "Evitar el contacto tras la venta para no molestar al cliente."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Una estrategia de fidelización es ofrecer programas de recomendaciones con incentivos por referir nuevos clientes. (Fuente: Página 11, Sección: 7.2. Estrategias para fidelizar al cliente)"
+        },
+        {
+            "question": "En la comunicación verbal con un cliente, el agente debe evitar:",
+            "options": [
+                "El uso de datos objetivos.",
+                "Los tecnicismos innecesarios.",
+                "Destacar los beneficios del inmueble.",
+                "Adaptar el lenguaje al interlocutor."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Es importante evitar tecnicismos innecesarios y adaptarse al tipo de interlocutor en la comunicación verbal. (Fuente: Página 7, Sección: 4.1. Comunicación verbal)"
+        },
+        {
+            "question": "¿Qué fase del proceso de venta se considera el 'punto de partida' de toda la actividad comercial?",
+            "options": [
+                "La negociación",
+                "El cierre",
+                "La captación",
+                "El servicio postventa"
+            ],
+            "correctAnswer": 2,
+            "explanation": "La captación es el punto de partida de toda actividad comercial inmobiliaria; sin producto no hay venta. (Fuente: Página 5, Sección: 3.1. Captación de inmuebles)"
+        },
+        {
+            "question": "¿Cuál de estos ejemplos corresponde a un CRM mencionado específicamente en el texto?",
+            "options": [
+                "Signaturit",
+                "Floorfy",
+                "Witei",
+                "Habitaclia"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Entre los CRM más utilizados se encuentran Inmoweb, Idealista Tools, Witei o Salesforce Inmobiliaria. (Fuente: Página 9, Sección: 6.1. CRM inmobiliarios)"
+        },
+        {
+            "question": "En el cierre de una operación de alquiler, ¿de qué debe ocuparse el agente?",
+            "options": [
+                "De la liquidación del impuesto de sucesiones.",
+                "Del alta de suministros y gestión de la fianza.",
+                "De la inscripción en el Registro de la Propiedad.",
+                "De la elaboración del certificado de eficiencia energética."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En los alquileres, al cierre, será necesario ocuparse del alta de suministros y de la gestión de la fianza. (Fuente: Página 7, Sección: 3.3. Cierre de la operación)"
+        },
+        {
+            "question": "La proactividad en el agente inmobiliario implica:",
+            "options": [
+                "Esperar a que los clientes llamen para mostrar interés.",
+                "Anticiparse, buscar oportunidades y mostrar disposición para mejorar.",
+                "Realizar únicamente las tareas encomendadas por la dirección.",
+                "Reaccionar solo cuando surgen problemas en la negociación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ser proactivo implica anticiparse, buscar oportunidades y mostrar disposición para mejorar continuamente. (Fuente: Página 4, Sección: Principales habilidades comerciales en el sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué elemento emocional debe combinarse con la información objetiva en los portales inmobiliarios?",
+            "options": [
+                "Historias ficticias sobre los antiguos dueños.",
+                "Elementos que conecten con el perfil del cliente.",
+                "Promesas de revalorización garantizada por escrito.",
+                "Opiniones subjetivas sobre el gusto estético del agente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Es fundamental combinar información objetiva con elementos emocionales que conecten con el perfil del cliente. (Fuente: Página 10, Sección: 6.2. Portales inmobiliarios y plataformas online)"
+        },
+        {
+            "question": "¿Qué riesgo conlleva captar inmuebles sin realizar un filtro previo?",
+            "options": [
+                "Aumentar demasiado rápido la cartera de clientes.",
+                "Reducir la carga de trabajo administrativo.",
+                "Dañar la reputación y restar tiempo con inmuebles inviables.",
+                "Mejorar el posicionamiento en los portales online."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Captar sin filtrar puede dañar la reputación y aceptar inmuebles inviables resta tiempo y credibilidad. (Fuente: Página 5, Sección: 3.1. Captación de inmuebles)"
+        },
+        {
+            "question": "¿Cuál es una tarea propia del servicio postventa?",
+            "options": [
+                "Realizar fotografías del inmueble para el anuncio.",
+                "Confirmar que todo el proceso ha sido satisfactorio.",
+                "Publicar el inmueble en Idealista o Fotocasa.",
+                "Analizar la capacidad financiera del comprador."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El servicio postventa incluye confirmar que todo el proceso ha sido satisfactorio tras la firma o entrega. (Fuente: Página 11, Sección: 7.1. ¿En qué consiste el servicio postventa?)"
+        },
+        {
+            "question": "En la fase de negociación, ¿qué es fundamental para que esta exista según el texto?",
+            "options": [
+                "Que el precio esté fijado por debajo del mercado.",
+                "Que ambas partes crean que pueden conseguir algo y tengan voluntad de diálogo.",
+                "Que el agente imponga sus condiciones de honorarios.",
+                "Que no existan objeciones por parte del comprador."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Para que exista negociación, ambas partes deben creer que pueden conseguir algo y tener voluntad de diálogo. (Fuente: Página 6, Sección: 3.2. Negociación)"
+        },
+        {
+            "question": "¿Cuál es la función del 'seguimiento personalizado' en la fidelización?",
+            "options": [
+                "Vigilar al cliente para que no contrate con otra agencia.",
+                "Contactar semanas después para preguntar por su satisfacción.",
+                "Enviar publicidad masiva de todos los inmuebles disponibles.",
+                "Revisar si el cliente ha pagado sus impuestos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El seguimiento personalizado consiste en contactar semanas después para preguntar por la satisfacción del cliente. (Fuente: Página 11, Sección: 7.2. Estrategias para fidelizar al cliente)"
+        },
+        {
+            "question": "¿Qué debe incluir la preparación del material publicitario tras la captación?",
+            "options": [
+                "Únicamente el precio de salida y los metros cuadrados.",
+                "Fotografías, descripción atractiva, vídeo y planos.",
+                "El contrato de arras ya firmado por el vendedor.",
+                "Un listado de todos los vecinos del edificio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La preparación del material publicitario incluye fotos, descripción, vídeo, planos y precio. (Fuente: Página 6, Sección: 3.1. Captación de inmuebles)"
+        },
+        {
+            "question": "La 'organización y planificación' como habilidad comercial es necesaria para:",
+            "options": [
+                "Gestionar simultáneamente varios inmuebles, clientes y visitas.",
+                "Saber redactar contratos legales complejos sin ayuda.",
+                "Convencer al propietario de bajar el precio rápidamente.",
+                "Eliminar la necesidad de usar herramientas digitales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La gestión simultánea de inmuebles y clientes requiere orden y control del tiempo para ofrecer buen servicio. (Fuente: Página 4, Sección: Principales habilidades comerciales en el sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué herramienta digital se asocia en el texto con la generación de recorridos en 360°?",
+            "options": [
+                "Signaturit",
+                "Witei",
+                "Floorfy",
+                "Idealista Tools"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Floorfy es la herramienta mencionada para generar recorridos en 360°, planos interactivos y vídeos. (Fuente: Página 12, Sección: Caso práctico 2)"
+        },
+        {
+            "question": "¿Cuál de las siguientes es una 'señal no verbal' que el agente debe interpretar en el cliente?",
+            "options": [
+                "Las preguntas sobre el precio del IBI.",
+                "La expresión facial y la postura corporal.",
+                "El contenido de los correos electrónicos recibidos.",
+                "La cantidad de dinero que ofrece en la reserva."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El agente ha de saber interpretar señales no verbales como la expresión facial o la postura del cliente. (Fuente: Página 8, Sección: 4.2. Comunicación no verbal)"
+        },
+        {
+            "question": "La fase de 'cierre' se describe como:",
+            "options": [
+                "El inicio de la prospección de mercado.",
+                "Un trámite sin importancia tras la negociación.",
+                "La culminación de todo el trabajo previo de intermediación.",
+                "El momento de publicar el inmueble en los portales."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El cierre es la culminación de todo el trabajo previo de intermediación, negociación y preparación documental. (Fuente: Página 6, Sección: 3.3. Cierre de la operación)"
+        },
+        {
+            "question": "¿Qué implica la comunicación efectiva en el sector inmobiliario según el tema?",
+            "options": [
+                "Hablar el máximo tiempo posible para no dejar dudas.",
+                "Usar solo canales digitales para evitar malentendidos.",
+                "Una combinación de expresión verbal, no verbal, escucha activa y empatía.",
+                "Utilizar siempre un tono de voz extremadamente alto."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La comunicación efectiva implica una combinación equilibrada de expresión verbal, no verbal, escucha activa y empatía. (Fuente: Página 7, Sección: 4. Técnicas de comunicación efectiva con el cliente)"
+        },
+        {
+            "question": "Durante la captación, ¿qué información técnica y legal debe recopilarse?",
+            "options": [
+                "Solo el precio que desea obtener el propietario.",
+                "Escrituras, ITE, certificado energético y planos.",
+                "El historial médico de los futuros compradores.",
+                "Referencias personales del administrador de la finca."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Se debe recopilar información técnica, legal y comercial como escrituras, ITE, certificado energético y planos. (Fuente: Página 6, Sección: 3.1. Captación de inmuebles)"
+        },
+        {
+            "question": "Un cliente satisfecho tras la postventa se convierte en:",
+            "options": [
+                "Un competidor potencial en el mercado local.",
+                "El mejor embajador comercial y generador de recomendaciones.",
+                "Una fuente de problemas legales futuros.",
+                "Un contacto que debe ser borrado del CRM para ahorrar espacio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Un cliente satisfecho puede convertirse en el mejor embajador comercial e influir en otros usuarios. (Fuente: Página 11, Sección: 7.2. Estrategias para fidelizar al cliente)"
+        }
+    ]
+}

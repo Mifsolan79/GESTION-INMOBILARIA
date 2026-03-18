@@ -195,14 +195,14 @@
                 2: "DERECHO INMOBILIARIO BÁSICO",
                 3: "EL CONTRATO DE MEDIACIÓN Y OTROS CONTRATOS",
                 4: "EL REGISTRO DE LA PROPIEDAD Y EL CATASTRO",
-                5: "VALORACIÓN Y TASACIÓN INMOBILIARIA",
+                5: "FISCALIDAD INMOBILIARIA",
                 6: "ARRENDAMIENTOS URBANOS",
                 7: "ASPECTOS BÁSICOS DE LA PROMOCIÓN INMOBILIARIA",
                 8: "PROPIEDAD HORIZONTAL",
-                9: "GESTIÓN DE VENTAS Y NEGOCIACIÓN",
-                10: "URBANISMO Y NORMATIVA DE LA EDIFICACIÓN",
-                11: "ADMINISTRACIÓN Y GESTIÓN DE PROPIEDADES",
-                12: "ASPECTOS LEGALES Y ÉTICA PROFESIONAL",
+                9: "VALORACIÓN Y TASACIÓN INMOBILIARIA",
+                10: "MARKETING Y SEGMENTACIÓN INMOBILIARIA",
+                11: "HABILIDADES COMERCIALES Y PROCESO DE VENTA",
+                12: "ATENCIÓN AL CLIENTE Y GESTIÓN DE QUEJAS",
                 13: "NUEVAS TECNOLOGÍAS Y TRANSFORMACIÓN DIGITAL",
                 14: "DESARROLLO Y PROMOCIÓN INMOBILIARIA",
                 15: "TENDENCIAS Y FUTURO del SECTOR"
@@ -211,7 +211,7 @@
             const temas = Array.from({ length: 15 }, (_, i) => {
                 const n = i + 1;
                 const tituloEspecifico = titulos[n] || `TEMA ${n}`;
-                const disponible = n <= 8;
+                const disponible = n <= 12;
 
                 return {
                     numero: n,

@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 10: MARKETING Y SEGMENTACIÓN INMOBILIARIA",
+    "items": [
+        {
+            "question": "¿En qué consiste el principio de 'Orientación al cliente' dentro del marketing inmobiliario?",
+            "options": [
+                "En priorizar la venta de los inmuebles más antiguos de la cartera.",
+                "En partir del conocimiento profundo del cliente, sus necesidades y capacidad económica.",
+                "En centrar la estrategia únicamente en el precio de mercado de la zona.",
+                "En adaptar el inmueble físicamente a los gustos estéticos del agente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La orientación al cliente implica que toda acción debe partir del conocimiento de sus necesidades, economía y estilo de vida para diseñar propuestas de valor. (Fuente: Página 4, Sección: Principios del marketing aplicado al sector inmobiliario)"
+        },
+        {
+            "question": "Dentro del Marketing-mix inmobiliario, ¿a qué se refiere el pilar de 'Distribución'?",
+            "options": [
+                "A la logística de mudanzas y transporte de muebles.",
+                "Al valor de venta o alquiler y sus condiciones financieras.",
+                "A los canales mediante los cuales se ofrece el inmueble, como portales o redes.",
+                "A la reforma y acondicionamiento previo del inmueble."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La distribución en el sector inmobiliario se refiere a los canales (agencias, webs, portales) usados para ofrecer el producto. (Fuente: Página 4, Sección: Principios del marketing aplicado al sector inmobiliario)"
+        },
+        {
+            "question": "¿Cuál es el objetivo principal de la segmentación de mercado?",
+            "options": [
+                "Dividir el mercado en grupos homogéneos con características e intereses similares.",
+                "Aumentar el precio de los inmuebles mediante la exclusión de clientes.",
+                "Eliminar la competencia directa en una zona geográfica determinada.",
+                "Reducir el número de propiedades que gestiona una agencia."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La segmentación consiste en dividir el mercado en grupos homogéneos para diseñar estrategias eficaces y personalizadas. (Fuente: Página 5, Sección: Segmentación del mercado y perfil del cliente)"
+        },
+        {
+            "question": "Según el texto, ¿qué factor influye más que el presupuesto en las inmobiliarias de lujo?",
+            "options": [
+                "La antigüedad del edificio y los materiales de construcción.",
+                "La cantidad de metros cuadrados útiles.",
+                "El estilo de vida, como la privacidad, vistas o cercanía a campos de golf.",
+                "La rapidez con la que se puede formalizar el contrato."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las inmobiliarias de lujo segmentan por estilo de vida (privacidad, vistas, etc.) más que por el simple presupuesto. (Fuente: Página 5, Sección: 3.1. ¿Por qué segmentar en el sector inmobiliario?)"
+        },
+        {
+            "question": "¿Qué criterio de segmentación incluye variables como la edad, el estado civil y la nacionalidad?",
+            "options": [
+                "Criterios Psicográficos.",
+                "Criterios Demográficos.",
+                "Criterios Conductuales.",
+                "Criterios Socioeconómicos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los criterios demográficos incluyen edad, estado civil, número de hijos y nacionalidad. (Fuente: Página 6, Sección: 3.2. Principales criterios de segmentación)"
+        },
+        {
+            "question": "El término 'buyer persona' se define como:",
+            "options": [
+                "El agente encargado de realizar la captación del inmueble.",
+                "El propietario legal que pone a la venta su vivienda.",
+                "Una representación ficticia pero realista del tipo de cliente ideal para un inmueble.",
+                "Cualquier persona que hace clic en un anuncio digital sin intención de compra."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El buyer persona es una representación ficticia pero realista del tipo de cliente que probablemente se interesará por la propiedad. (Fuente: Página 6, Sección: 3.3. Identificación del perfil del cliente)"
+        },
+        {
+            "question": "¿Qué busca lograr la promoción inmobiliaria además de dar visibilidad?",
+            "options": [
+                "Ocultar los defectos estructurales de la vivienda.",
+                "Evitar que el cliente compare con otras ofertas del mercado.",
+                "Despertar interés real y generar contactos cualificados.",
+                "Sustituir la necesidad de realizar visitas presenciales."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El objetivo es que la propiedad despierte interés real y genere contactos cualificados que se conviertan en operaciones. (Fuente: Página 7, Sección: 4. Estrategias de promoción y captación de clientes)"
+        },
+        {
+            "question": "¿Cuál de las siguientes estrategias de promoción se basa en ofrecer valor a través de blogs o guías para generar confianza?",
+            "options": [
+                "Publicidad en portales inmobiliarios.",
+                "Marketing de contenidos.",
+                "E-mail marketing.",
+                "Open House."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El marketing de contenidos consiste en ofrecer valor (blogs, guías) para posicionarse como experto y generar confianza. (Fuente: Página 7, Sección: 4.2. Estrategias de promoción más utilizadas)"
+        },
+        {
+            "question": "¿Qué ventaja principal ofrecen los eventos de tipo 'Open house'?",
+            "options": [
+                "Reducen los gastos de publicidad en portales digitales.",
+                "Permiten crear un entorno emocional favorable para la decisión de compra.",
+                "Evitan tener que limpiar el inmueble antes de mostrarlo.",
+                "Son la única forma legal de vender viviendas de segunda mano."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los eventos presenciales como el Open house permiten mostrar el inmueble en directo y crear un entorno emocional favorable. (Fuente: Página 7, Sección: 4.2. Estrategias de promoción más utilizadas)"
+        },
+        {
+            "question": "En el contexto del branding, ¿qué elementos definen una marca inmobiliaria?",
+            "options": [
+                "Únicamente el logotipo y los colores de la oficina física.",
+                "La identidad visual, valores, tono de comunicación y percepción pública.",
+                "Solo la cantidad de seguidores que tiene el agente en sus redes personales.",
+                "Exclusivamente el precio medio de los inmuebles que la agencia gestiona."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El branding abarca la identidad visual, valores, tono de comunicación y la percepción que se genera en el público. (Fuente: Página 9, Sección: 6.1. ¿Qué es el branding?)"
+        },
+        {
+            "question": "¿Qué transmite un agente inmobiliario a través de su marca, además de vender inmuebles?",
+            "options": [
+                "Confianza, seguridad y profesionalidad.",
+                "Únicamente su capacidad de negociación agresiva.",
+                "Su historial de ventas anuales detallado.",
+                "La decoración personal de su propia vivienda."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Un agente no solo vende propiedades; su marca debe reflejar confianza, seguridad y profesionalidad. (Fuente: Página 9, Sección: 6.1. ¿Qué es el branding?)"
+        },
+        {
+            "question": "¿Cuál es un elemento clave de la comunicación verbal y escrita en el branding?",
+            "options": [
+                "El diseño tipográfico del contrato de compraventa.",
+                "Cómo se presenta el agente en persona, por teléfono o e-mails.",
+                "El uso de tecnicismos legales para impresionar al cliente.",
+                "La velocidad a la que el agente habla durante las visitas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La comunicación verbal y escrita incluye cómo se presenta el agente en todos los canales (persona, teléfono, e-mail). (Fuente: Página 9, Sección: 6.2. Elementos que construyen el branding...)"
+        },
+        {
+            "question": "¿Qué es el 'storytelling' aplicado al branding personal inmobiliario?",
+            "options": [
+                "La invención de datos estadísticos para mejorar la imagen de la agencia.",
+                "Contar historias reales sobre clientes y retos para generar conexión.",
+                "Leer el contrato en voz alta durante la firma ante notario.",
+                "Publicar noticias de prensa sobre la crisis económica."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El storytelling consiste en contar historias reales sobre clientes o retos para generar más conexión y confianza. (Fuente: Página 9, Sección: 6.2. Elementos que construyen el branding...)"
+        },
+        {
+            "question": "¿Cuál es la relación ideal entre el branding personal y el branding corporativo?",
+            "options": [
+                "Deben ser totalmente opuestos para cubrir más tipos de clientes.",
+                "El personal debe ocultarse para que solo destaque la empresa.",
+                "Ambos deben estar alineados y reflejar los mismos valores.",
+                "No existe ninguna relación entre la imagen del agente y la de su empresa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ambos niveles de branding deben estar alineados para proyectar una imagen coherente (ej. modernidad y transparencia). (Fuente: Página 10, Sección: 6.3. Branding personal vs. branding corporativo)"
+        },
+        {
+            "question": "¿Qué disciplinas se unen en el neuromarketing?",
+            "options": [
+                "La economía y la psicología social.",
+                "El marketing y la neurociencia.",
+                "La arquitectura y la publicidad digital.",
+                "El derecho civil y la comunicación audiovisual."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El neuromarketing une el marketing con la neurociencia para entender la toma de decisiones. (Fuente: Página 10, Sección: 7. Neuromarketing)"
+        },
+        {
+            "question": "Según el neuromarketing, ¿qué porcentaje aproximado de las decisiones de compra son emocionales?",
+            "options": [
+                "Entre el 20% y el 30%.",
+                "Exactamente el 50%.",
+                "Entre el 85% y el 95%.",
+                "Menos del 10%, ya que la compra es racional."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El neuromarketing establece que entre el 85% y el 95% de las decisiones de compra son emocionales. (Fuente: Página 10, Sección: 7. Neuromarketing)"
+        },
+        {
+            "question": "¿Cómo influye el contexto sensorial en la toma de decisiones según el neuromarketing?",
+            "options": [
+                "No tiene influencia, ya que el cerebro solo analiza datos numéricos.",
+                "Influye poderosamente junto con la primera impresión.",
+                "Solo influye en clientes menores de 30 años.",
+                "Es un factor secundario que solo afecta al precio final."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La primera impresión y el contexto sensorial influyen poderosamente en la toma de decisiones automáticas. (Fuente: Página 10, Sección: 7. Neuromarketing)"
+        },
+        {
+            "question": "En el sector inmobiliario, ¿qué papel juegan las emociones según el neuromarketing?",
+            "options": [
+                "Un papel determinante, como la sensación de sentirse 'en casa'.",
+                "Un papel irrelevante comparado con los metros cuadrados.",
+                "Solo afectan al arrendamiento, no a la compraventa.",
+                "Son distracciones que el agente debe evitar que el cliente sienta."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Las emociones como sentirse 'en casa' o percibir seguridad son determinantes en la decisión. (Fuente: Página 11, Sección: 7.1. Importancia del neuromarketing...)"
+        },
+        {
+            "question": "¿Qué técnica de neuromarketing puede optimizar el lenguaje comercial?",
+            "options": [
+                "Usar solo datos técnicos y medidas exactas de las estancias.",
+                "Utilizar frases que apelen a la imaginación y los sentimientos.",
+                "Hablar de forma rápida para no dejar pensar al cliente.",
+                "Evitar el contacto visual durante la negociación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El lenguaje comercial se optimiza con frases que apelen a la imaginación, como 'Imagina desayunar con esta vista'. (Fuente: Página 11, Sección: 7.1. Importancia del neuromarketing...)"
+        },
+        {
+            "question": "¿Cuál es una de las transformaciones más notables impulsadas por la digitalización?",
+            "options": [
+                "La eliminación de los contratos escritos.",
+                "El acceso del cliente a información detallada, visual y rápida online.",
+                "La prohibición de las oficinas inmobiliarias a pie de calle.",
+                "La obligación de usar criptomonedas en todas las transacciones."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La digitalización permite al cliente acceder de forma rápida y visual a información detallada de las propiedades. (Fuente: Página 12, Sección: 8. Tendencias en el marketing inmobiliario)"
+        },
+        {
+            "question": "¿Para qué se utiliza el Big Data en el marketing inmobiliario?",
+            "options": [
+                "Para almacenar las escrituras de propiedad de forma física.",
+                "Para identificar zonas con más demanda y anticiparse a necesidades.",
+                "Para aumentar el tamaño de las fotografías de los anuncios.",
+                "Para sustituir la labor de los notarios en el proceso."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Big Data permite identificar zonas de demanda y conocer el comportamiento del usuario para anticiparse. (Fuente: Página 12, Sección: 8. Tendencias en el marketing inmobiliario)"
+        },
+        {
+            "question": "¿Qué beneficio aporta el uso de Realidad Virtual (VR) a los compradores?",
+            "options": [
+                "Les permite modificar la estructura legal del inmueble.",
+                "Les permite explorar la vivienda sin desplazarse físicamente.",
+                "Aumenta automáticamente el valor de tasación del inmueble.",
+                "Garantiza que el banco concederá el préstamo hipotecario."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La VR y los recorridos 3D permiten explorar la vivienda como si estuvieran dentro sin desplazamientos físicos. (Fuente: Página 12, Sección: 8. Tendencias en el marketing inmobiliario)"
+        },
+        {
+            "question": "En el marketing actual, ¿cómo se utilizan herramientas como CRMs o chatbots?",
+            "options": [
+                "Para reducir el tiempo de vacaciones de los empleados.",
+                "Para crear experiencias únicas y personalizar la comunicación.",
+                "Para evitar tener que hablar con los clientes potenciales.",
+                "Para generar anuncios falsos que atraigan tráfico masivo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Estas herramientas se orientan a crear experiencias únicas y personalizar el mensaje según el perfil. (Fuente: Página 12, Sección: 8. Tendencias en el marketing inmobiliario)"
+        },
+        {
+            "question": "Dentro de la segmentación inmobiliaria, ¿qué incluyen los criterios 'Psicográficos'?",
+            "options": [
+                "El nivel de ingresos y la ocupación profesional.",
+                "El estilo de vida, valores, motivaciones e intereses.",
+                "La zona geográfica de residencia actual.",
+                "La frecuencia con la que el cliente compra inmuebles."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los criterios psicográficos se centran en el estilo de vida, valores, motivaciones e intereses del cliente. (Fuente: Página 6, Sección: 3.2. Principales criterios de segmentación)"
+        },
+        {
+            "question": "¿Qué se busca al realizar una adecuada segmentación y posicionamiento?",
+            "options": [
+                "Definir cómo se desea que el cliente perciba el inmueble frente a la competencia.",
+                "Conseguir el mayor número de llaves de inmuebles posible.",
+                "Reducir los impuestos que debe pagar la agencia inmobiliaria.",
+                "Aumentar el número de empleados administrativos de la empresa."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El posicionamiento define cómo se desea que el cliente perciba el inmueble o la agencia frente a la competencia. (Fuente: Página 4, Sección: Principios del marketing aplicado al sector inmobiliario)"
+        },
+        {
+            "question": "¿Cuál es una característica fundamental de la 'Comunicación efectiva' en el sector?",
+            "options": [
+                "Usar un lenguaje puramente técnico para demostrar autoridad.",
+                "Ser clara, persuasiva y estar adaptada al cliente.",
+                "Ocultar información negativa hasta el momento de la firma.",
+                "Enviar la misma información estándar a todos los clientes por igual."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La comunicación efectiva debe ser clara, persuasiva y adaptada al cliente para facilitar el cierre. (Fuente: Página 4, Sección: Principios del marketing aplicado al sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué permite la segmentación respecto a los recursos de promoción?",
+            "options": [
+                "Gastarlos más rápido para terminar antes las campañas.",
+                "Optimizar los recursos al dirigirse al público adecuado.",
+                "Eliminar la necesidad de invertir dinero en publicidad.",
+                "Repartirlos equitativamente entre todos los medios de comunicación existentes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Segmentar permite optimizar los recursos de promoción al enfocarlos en el público con más probabilidades de éxito. (Fuente: Página 5, Sección: 3.1. ¿Por qué segmentar en el sector inmobiliario?)"
+        },
+        {
+            "question": "En el análisis de mercado, ¿qué elementos es imprescindible estudiar?",
+            "options": [
+                "Solo los precios de venta de la última década.",
+                "La demanda, competencia, tendencias y tipologías de inmuebles.",
+                "Exclusivamente la biografía de los dueños de agencias rivales.",
+                "Los colores de moda para pintar las fachadas de los edificios."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El análisis de mercado implica estudiar demanda, competencia, tendencias, zonas y tipologías para tomar decisiones. (Fuente: Página 4, Sección: Principios del marketing aplicado al sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué factor conductual se analiza en la segmentación?",
+            "options": [
+                "El nivel educativo alcanzado por el cliente.",
+                "La nacionalidad y cultura de origen.",
+                "El comportamiento frente a la compra, como la urgencia o fidelidad.",
+                "El número de hijos y la estructura familiar."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Los criterios conductuales analizan el comportamiento frente a la compra, como la frecuencia, urgencia o fidelidad. (Fuente: Página 6, Sección: 3.2. Principales criterios de segmentación)"
+        },
+        {
+            "question": "¿Qué se pretende lograr al activar estímulos sensoriales como la luz o el olor en un inmueble?",
+            "options": [
+                "Distraer al cliente para que no vea las grietas de las paredes.",
+                "Generar una conexión emocional positiva con el espacio.",
+                "Cumplir con la normativa de higiene de las viviendas.",
+                "Aumentar el consumo de energía eléctrica de la propiedad."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los estímulos sensoriales (luz, olor, orden) influyen en la percepción y generan conexión emocional con el espacio. (Fuente: Página 11, Sección: 7.1. Importancia del neuromarketing...)"
+        }
+    ]
+}

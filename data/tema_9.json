@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 09: VALORACIÓN Y TASACIÓN INMOBILIARIA",
+    "items": [
+        {
+            "question": "¿Cuál es el objetivo principal de una tasación en el ámbito inmobiliario?",
+            "options": [
+                "Estimar el valor de un inmueble de forma orientativa para fijar un precio de venta.",
+                "Determinar el valor de un bien de forma oficial, con validez jurídica o financiera.",
+                "Analizar exclusivamente las causas de daños y defectos constructivos de un edificio.",
+                "Emitir una opinión experta únicamente para procesos de arbitraje privado."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La tasación es un procedimiento técnico y normativamente regulado para determinar el valor oficial con validez jurídica o financiera. (Fuente: Página 4, Sección: Diferencias entre tasación, valoración y peritaje)"
+        },
+        {
+            "question": "¿Qué profesional está habilitado generalmente para realizar una tasación homologada?",
+            "options": [
+                "Cualquier agente inmobiliario con experiencia en el sector.",
+                "Un perito judicial sin titulación técnica específica.",
+                "Un arquitecto, arquitecto técnico o ingeniero.",
+                "El propietario del inmueble mediante una declaración jurada."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La tasación debe ser realizada por un tasador homologado, generalmente un arquitecto, arquitecto técnico o ingeniero. (Fuente: Página 4, Sección: Diferencias entre tasación, valoración y peritaje)"
+        },
+        {
+            "question": "¿Cuál es la normativa que regula los métodos de valoración para finalidades hipotecarias?",
+            "options": [
+                "Ley de Enjuiciamiento Civil 1/2000.",
+                "Orden ECO/805/2003.",
+                "Circular 4/2017 del Banco de España.",
+                "Código Técnico de la Edificación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La Orden ECO/805/2003 regula los métodos de valoración que deben utilizarse en las tasaciones con finalidad hipotecaria. (Fuente: Página 5, Sección: Métodos de valoración inmobiliaria. ¿Cuál elegir?)"
+        },
+        {
+            "question": "¿En qué consiste el método de comparación?",
+            "options": [
+                "En sumar el valor del suelo y el coste de construcción del edificio.",
+                "En calcular el valor futuro del proyecto descontando gastos de promoción.",
+                "En comparar el inmueble con otros similares vendidos u ofertados recientemente en la zona.",
+                "En capitalizar la renta anual neta esperada a un tipo de interés determinado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El método de comparación consiste en comparar el inmueble con otros similares vendidos u ofertados recientemente en la misma zona, realizando ajustes. (Fuente: Página 6, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        },
+        {
+            "question": "¿Para qué tipo de inmuebles es especialmente útil el método del coste o de reposición?",
+            "options": [
+                "Viviendas en zonas urbanas con muchos testigos de mercado.",
+                "Naves industriales, edificios singulares y promociones en proyecto.",
+                "Locales comerciales alquilados a franquicias con rentas estables.",
+                "Solares urbanos sin ningún tipo de edificación prevista."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El método del coste es útil para valorar inmuebles singulares o cuando no existen comparables suficientes, como naves industriales. (Fuente: Página 6, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        },
+        {
+            "question": "¿Cómo se calcula el valor de un inmueble mediante el método de capitalización de rentas?",
+            "options": [
+                "Restando la depreciación por antigüedad al valor del suelo.",
+                "Comparando el precio de alquiler con el precio de venta de la zona.",
+                "Capitalizando la renta anual neta esperada a un tipo de interés o rentabilidad exigida.",
+                "Sumando los costes de construcción y el beneficio empresarial proyectado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Se calcula capitalizando la renta anual neta esperada a un tipo de interés (rentabilidad exigida por el inversor). (Fuente: Página 7, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        },
+        {
+            "question": "¿Cuál es el método más adecuado para valorar un solar urbano con potencial edificatorio?",
+            "options": [
+                "Método de comparación directa.",
+                "Método de capitalización de rentas.",
+                "Método residual.",
+                "Método de reposición bruta."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El método residual se emplea para valorar terrenos con potencial edificatorio partiendo del valor del producto final. (Fuente: Página 7, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        },
+        {
+            "question": "¿Qué factor físico es determinante al analizar las características físicas del inmueble?",
+            "options": [
+                "La clasificación urbanística del suelo como rústico.",
+                "La superficie construida, útil y el estado de conservación.",
+                "La existencia de un contrato de arrendamiento estable.",
+                "La cercanía a zonas verdes exclusivamente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dentro de las características físicas se analizan la superficie construida y útil, antigüedad y estado de conservación, entre otros. (Fuente: Página 8, Sección: Factores que afectan al valor de un inmueble)"
+        },
+        {
+            "question": "Según la normativa hipotecaria, ¿cuánto tiempo de validez tiene un informe de tasación antes de caducar?",
+            "options": [
+                "Un año desde su fecha de emisión.",
+                "Tres meses desde su firma.",
+                "Seis meses desde su emisión.",
+                "No tiene fecha de caducidad mientras no cambie el mercado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Según la normativa hipotecaria, el valor de tasación caduca a los seis meses desde su emisión. (Fuente: Página 8, Sección: Factores que afectan al valor de un inmueble)"
+        },
+        {
+            "question": "¿Cuál es la diferencia principal entre el certificado de tasación y el informe de tasación?",
+            "options": [
+                "El certificado es un documento extenso y el informe es un resumen breve.",
+                "El informe tiene validez legal y el certificado es solo informativo sin firma.",
+                "El certificado es un documento breve que resume y da valor al informe detallado.",
+                "No existe diferencia, son exactamente el mismo documento con distinto nombre."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El certificado de tasación es un documento mucho más breve que resume el informe y le da valor legal. (Fuente: Página 10, Sección: Certificado e informe de tasación)"
+        },
+        {
+            "question": "¿Qué principio debe regir todo informe de tasación según el texto?",
+            "options": [
+                "Principio de rentabilidad máxima para el cliente.",
+                "Principios de veracidad, transparencia y adecuación a la normativa.",
+                "Principio de confidencialidad absoluta sin posibilidad de revisión judicial.",
+                "Principio de economía de medios y brevedad documental."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Todo informe de tasación debe regirse por los principios de veracidad, transparencia y adecuación a la normativa. (Fuente: Página 10, Sección: Certificado e informe de tasación)"
+        },
+        {
+            "question": "¿Qué elemento debe incluir obligatoriamente un informe de tasación según la Orden ECO/805/2003?",
+            "options": [
+                "La biografía completa del tasador responsable.",
+                "La identificación del inmueble, incluyendo referencia catastral y datos registrales.",
+                "Un presupuesto detallado de las reformas que el tasador recomienda realizar.",
+                "El nombre de todos los vecinos colindantes a la propiedad."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El informe debe incluir la identificación del inmueble: localización, referencia catastral, datos registrales, etc. (Fuente: Página 11, Sección: Contenido técnico del informe de tasación y criterios de calidad profesional)"
+        },
+        {
+            "question": "¿Qué se entiende por 'peritaje inmobiliario'?",
+            "options": [
+                "Una estimación orientativa para ayudar al propietario a vender.",
+                "Un procedimiento administrativo para el pago de impuestos locales.",
+                "Una actuación técnica destinada a emitir una opinión experta en un procedimiento judicial.",
+                "Un cálculo automático basado únicamente en datos del catastro."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El peritaje inmobiliario es una actuación técnica para emitir una opinión experta en el marco de un procedimiento judicial o arbitral. (Fuente: Página 4, Sección: Diferencias entre tasación, valoración y peritaje)"
+        },
+        {
+            "question": "Si un técnico debe valorar un local con un arrendatario solvente y contrato estable, ¿qué método es el más adecuado?",
+            "options": [
+                "Método de reposición.",
+                "Método residual dinámico.",
+                "Método de capitalización de rentas.",
+                "Método de coste de construcción."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El método de capitalización de rentas es el adecuado para locales comerciales u oficinas que generan ingresos. (Fuente: Página 7, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        },
+        {
+            "question": "¿Cuál es una limitación del método de comparación?",
+            "options": [
+                "No refleja nunca el comportamiento real del mercado.",
+                "Requiere la existencia de datos fiables y homogéneos de mercado (testigos).",
+                "Solo sirve para valorar terrenos rústicos sin ningún uso.",
+                "Es un método que no está permitido por la Orden ECO/805/2003."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La limitación del método de comparación es que requiere datos fiables y homogéneos de mercado. (Fuente: Página 6, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        },
+        {
+            "question": "¿Qué factor de ubicación puede afectar negativamente al valor de un inmueble?",
+            "options": [
+                "La cercanía a servicios y transporte público.",
+                "La orientación hacia el mediodía en zonas frías.",
+                "La cercanía a espacios degradados.",
+                "Estar situado en una zona céntrica de alta demanda."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Influyen en el valor la localización y la cercanía a zonas verdes o, por el contrario, a espacios degradados. (Fuente: Página 8, Sección: Factores que afectan al valor de un inmueble)"
+        },
+        {
+            "question": "¿Qué documento es esencial para que un informe de tasación tenga validez legal?",
+            "options": [
+                "Un dossier publicitario de la zona.",
+                "El certificado de tasación.",
+                "Un contrato de exclusividad inmobiliaria.",
+                "Una factura de suministros eléctricos reciente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A pesar de su brevedad, el certificado es esencial; sin él, un informe de tasación no tendría validez. (Fuente: Página 10, Sección: Certificado e informe de tasación)"
+        },
+        {
+            "question": "¿Cuál es el objetivo del método residual?",
+            "options": [
+                "Determinar el valor del suelo restando costes de construcción y beneficios al valor del producto final.",
+                "Calcular cuánto costaría reconstruir el edificio en la actualidad.",
+                "Saber el valor de mercado comparando con 10 inmuebles idénticos.",
+                "Estimar los impuestos que debe pagar un inmueble tras su venta."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El método residual obtiene el valor del suelo restando costes de construcción, gastos y beneficio al valor del producto final. (Fuente: Página 7, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        },
+        {
+            "question": "¿Qué debe hacer un técnico si en un método comparativo hay diferencias de altura u orientación entre los inmuebles?",
+            "options": [
+                "Ignorar las diferencias si los inmuebles están en la misma calle.",
+                "Realizar ajustes por diferencias para que el valor estimado sea fiable.",
+                "Cambiar automáticamente al método del coste.",
+                "Pedir al propietario que cambie la orientación del inmueble."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Para que el valor sea fiable, deben realizarse ajustes por diferencias en superficie, estado, antigüedad, altura y orientación. (Fuente: Página 6, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        },
+        {
+            "question": "En el contexto de factores legales, ¿qué puede limitar el uso de un inmueble y afectar su valor?",
+            "options": [
+                "El color de la pintura de la fachada.",
+                "La existencia de servidumbres o cargas registrales.",
+                "El número de ventanas que dan a la calle principal.",
+                "La marca de los electrodomésticos instalados."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El valor se ve afectado por cargas registrales, servidumbres o litigios pendientes que limitan el uso. (Fuente: Página 8, Sección: Factores que afectan al valor de un inmueble)"
+        },
+        {
+            "question": "¿Qué información proporciona la 'valoración' inmobiliaria (a diferencia de la tasación)?",
+            "options": [
+                "Un valor oficial vinculante para el Banco de España.",
+                "Una estimación orientativa o informativa sin efectos jurídicos vinculantes.",
+                "Una prueba pericial obligatoria en todos los juicios de herencia.",
+                "El valor catastral exacto para el pago del IBI."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La valoración inmobiliaria es para estimar el valor de forma orientativa o informativa, sin efectos jurídicos vinculantes. (Fuente: Página 4, Sección: Diferencias entre tasación, valoración y peritaje)"
+        },
+        {
+            "question": "¿Cómo influye la oferta y la demanda en la fijación del precio de un inmueble?",
+            "options": [
+                "En épocas de alta demanda, los precios tienden a bajar para fomentar las ventas.",
+                "En escenarios de crisis, los valores siempre se mantienen fijos por ley.",
+                "En épocas de alta demanda los precios suben, y en crisis los valores se ajustan a la baja.",
+                "La oferta y la demanda no influyen en el valor técnico de tasación."
+            ],
+            "correctAnswer": 2,
+            "explanation": "En alta demanda los precios tienden a subir, mientras que en crisis o exceso de oferta los valores se ajustan a la baja. (Fuente: Página 8, Sección: Factores que afectan al valor de un inmueble)"
+        },
+        {
+            "question": "¿Qué debe incluir la documentación anexa de un informe de tasación?",
+            "options": [
+                "Notas registrales, certificado catastral, planos y fotografías.",
+                "Solo el currículum vitae del técnico tasador.",
+                "Copia de los contratos de todos los empleados de la finca.",
+                "Un listado de las inmobiliarias que operan en la zona."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Debe incluir notas registrales, certificado catastral, plano, ficha urbanística y fotografías. (Fuente: Página 11, Sección: Contenido técnico del informe de tasación y criterios de calidad profesional)"
+        },
+        {
+            "question": "Un informe de valoración realizado por un agente inmobiliario se utiliza frecuentemente para:",
+            "options": [
+                "Solicitar una hipoteca ante una entidad bancaria.",
+                "Ayudar a un propietario a fijar el precio de venta.",
+                "Servir como prueba pericial en un tribunal supremo.",
+                "Expropiar un terreno por parte de la administración pública."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La valoración se utiliza, por ejemplo, para ayudar a un propietario a fijar el precio de venta. (Fuente: Página 4, Sección: Diferencias entre tasación, valoración y peritaje)"
+        },
+        {
+            "question": "¿Qué papel juega la 'trazabilidad' en un informe de tasación profesional?",
+            "options": [
+                "Es la capacidad de que el informe pueda enviarse por correo electrónico.",
+                "Es garantizar que los datos y cálculos puedan ser verificados y seguidos lógicamente.",
+                "Es la obligación de que el tasador viva en la misma zona que el inmueble.",
+                "Es un requisito que solo se aplica a las valoraciones comerciales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El profesional debe velar por la claridad, trazabilidad y veracidad, evitando errores o incoherencias. (Fuente: Página 11, Sección: Contenido técnico del informe de tasación y criterios de calidad profesional)"
+        },
+        {
+            "question": "¿Qué factor urbanístico es clave para determinar el valor del suelo?",
+            "options": [
+                "El nombre de la calle donde se ubica el terreno.",
+                "La clasificación del suelo (urbano, rústico o urbanizable).",
+                "La distancia exacta al centro de la capital de provincia.",
+                "El color del mobiliario urbano que rodea la parcela."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El valor se ve afectado por la clasificación urbanística del suelo (urbano, rústico, urbanizable). (Fuente: Página 8, Sección: Factores que afectan al valor de un inmueble)"
+        },
+        {
+            "question": "¿Cuándo se debe aplicar el criterio de 'objetividad del técnico'?",
+            "options": [
+                "Solo cuando el cliente no está presente en la inspección.",
+                "Únicamente en las tasaciones para el sector público.",
+                "En todos los casos para garantizar la utilidad y fiabilidad del informe.",
+                "Nunca, ya que el técnico debe favorecer siempre los intereses de quien le paga."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Existen criterios de calidad esenciales como la objetividad del técnico para garantizar la fiabilidad del informe. (Fuente: Página 12, Sección: Contenido técnico del informe de tasación y criterios de calidad profesional)"
+        },
+        {
+            "question": "¿Qué ocurre si un inmueble tiene un grado de protección por ser un edificio catalogado?",
+            "options": [
+                "Su valor aumenta automáticamente un 50% por ser histórico.",
+                "El valor puede verse afectado al limitar el uso o las posibilidades de reforma.",
+                "No influye en el valor, ya que solo importan los metros cuadrados.",
+                "Está prohibido tasarlo según la Orden ECO/805/2003."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El grado de protección (edificio catalogado) puede limitar el uso o condicionar la explotación, afectando al valor. (Fuente: Página 8, Sección: Factores que afectan al valor de un inmueble)"
+        },
+        {
+            "question": "¿Cuál es la función del profesional inmobiliario respecto a los informes de tasación?",
+            "options": [
+                "Redactar los informes oficiales aunque no sea técnico homologado.",
+                "Interpretar correctamente el contenido, conclusiones y limitaciones de los informes.",
+                "Cambiar el valor final del informe si el cliente no está de acuerdo.",
+                "Ignorar los informes técnicos y basarse solo en su intuición personal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El técnico o agente debe ser capaz de interpretar correctamente el contenido de un informe, conclusiones y limitaciones. (Fuente: Página 10, Sección: Certificado e informe de tasación)"
+        },
+        {
+            "question": "En el método del coste, ¿qué elemento se resta al sumar el valor del suelo y el coste de construcción?",
+            "options": [
+                "Los impuestos municipales de circulación.",
+                "La depreciación por antigüedad y estado.",
+                "Los gastos de representación del agente inmobiliario.",
+                "El valor de los muebles que contiene la edificación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El método del coste suma valor del suelo y coste de construcción, restando la depreciación por antigüedad y estado. (Fuente: Página 6, Sección: Métodos de valoración inmobiliaria más utilizados)"
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "title": "GESTIÓN INMOBILIARIA - TEMA 12: ATENCIÓN AL CLIENTE Y GESTIÓN DE QUEJAS",
+    "items": [
+        {
+            "question": "¿Cuál es la consecuencia directa de que un agente sea profesional según los principios fundamentales de la atención al cliente?",
+            "options": [
+                "Inspirar confianza y minimizar la incertidumbre en el cliente.",
+                "Asegurar el cierre de la operación en la primera visita.",
+                "Reducir los honorarios de intermediación automáticamente.",
+                "Garantizar que el inmueble no tenga vicios ocultos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La profesionalidad exige dominio técnico y legal; la seguridad y el rigor en la interacción inspiran confianza y minimizan la incertidumbre. (Fuente: Página 4, Sección: Principios de la atención al cliente en el sector inmobiliario)"
+        },
+        {
+            "question": "Según el texto, ¿por qué motivo abandonan una operación el 70% de los clientes?",
+            "options": [
+                "Por encontrar un precio más competitivo en otra agencia.",
+                "Porque sienten que no fueron escuchados o bien atendidos.",
+                "Debido a defectos técnicos no detectados en la vivienda.",
+                "Por problemas en la concesión de la financiación hipotecaria."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El 70% de los clientes abandonan no por precio o producto, sino por sentir que no fueron bien atendidos o escuchados. (Fuente: Página 5, Sección: Expectativas y satisfacción del cliente)"
+        },
+        {
+            "question": "En el marco normativo de consumo, ¿qué define específicamente a una 'Reclamación'?",
+            "options": [
+                "Una comunicación a la administración sobre una infracción administrativa.",
+                "Una expresión de insatisfacción para mejorar la calidad sin pedir reparación.",
+                "Una petición formal que busca una reparación del daño o resarcimiento.",
+                "Un comentario negativo en las redes sociales de la inmobiliaria."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La reclamación supone una petición formal donde el cliente busca reparación, resarcimiento o rescisión contractual. (Fuente: Página 7, Sección: Marco normativo y tipologías)"
+        },
+        {
+            "question": "¿Qué representa el concepto de 'Customer Journey' en el proceso inmobiliario?",
+            "options": [
+                "El mapa físico de los desplazamientos para visitar inmuebles.",
+                "El conjunto de etapas e interacciones desde la necesidad hasta la postventa.",
+                "El listado de gastos notariales y registrales del comprador.",
+                "La estrategia de marketing para captar clientes extranjeros."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Representa el conjunto de etapas, interacciones y percepciones desde que se detecta la necesidad hasta el final del proceso. (Fuente: Página 9, Sección: Customer journey en el proceso inmobiliario)"
+        },
+        {
+            "question": "¿Qué busca prioritariamente el 'Cliente inversor' según la clasificación de perfiles?",
+            "options": [
+                "Sensaciones subjetivas como la luz y las vistas.",
+                "Acompañamiento pedagógico por ser su primera operación.",
+                "Rentabilidad, datos financieros y potencial del inmueble.",
+                "Resolución urgente de la operación por motivos personales."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El cliente inversor busca rentabilidad y valora datos financieros y cifras claras con un enfoque racional. (Fuente: Página 10, Sección: Tipos de clientes en el entorno inmobiliario)"
+        },
+        {
+            "question": "¿Qué indicador mide la probabilidad de que un cliente recomiende el servicio a familiares o amigos?",
+            "options": [
+                "Tasa de resolución de quejas.",
+                "Net Promoter Score (NPS).",
+                "Tiempo medio de respuesta.",
+                "Tasa de repetición de compra."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El NPS evalúa la probabilidad de recomendación mediante una pregunta clave puntuada del 0 al 10. (Fuente: Página 11, Sección: Principales indicadores aplicables al sector inmobiliario)"
+        },
+        {
+            "question": "¿En qué etapa del customer journey se valora más la atención personalizada y la capacidad de resolver dudas?",
+            "options": [
+                "Descubrimiento o toma de conciencia.",
+                "Consideración o búsqueda activa.",
+                "Visitas y evaluación de opciones.",
+                "Cierre de la operación."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Durante las visitas y evaluación, la atención personalizada y la empatía son decisivas para generar confianza. (Fuente: Página 9, Sección: Etapas principales del customer journey inmobiliario)"
+        },
+        {
+            "question": "De acuerdo con el texto, ¿qué es una 'Queja' desde el punto de vista normativo?",
+            "options": [
+                "Una comunicación dirigida al colegio profesional por infracción.",
+                "Una expresión de insatisfacción para mejorar la calidad del servicio.",
+                "Una solicitud obligatoria de devolución de los honorarios pagados.",
+                "Un documento que obliga a la anulación inmediata del contrato."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La queja es una expresión de insatisfacción con el objetivo de mejorar la calidad, sin pedir reparación específica necesariamente. (Fuente: Página 7, Sección: Marco normativo y tipologías)"
+        },
+        {
+            "question": "¿Qué factor se considera el 'momento más decisivo' en el recorrido del cliente inmobiliario?",
+            "options": [
+                "La primera llamada telefónica.",
+                "La firma ante el notario.",
+                "El seguimiento justo después de la visita.",
+                "La entrega física de las llaves."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El momento más decisivo no siempre es la visita, sino lo que ocurre justo después: el seguimiento. (Fuente: Página 9, Sección: Etapas principales del customer journey inmobiliario)"
+        },
+        {
+            "question": "¿Cómo se define la 'Satisfacción del cliente' en este manual?",
+            "options": [
+                "Como el número total de inmuebles que el cliente ha visitado.",
+                "Como el grado de conformidad entre lo esperado y lo recibido.",
+                "Como el pago total de la comisión de intermediación sin protestas.",
+                "Como la ausencia total de dudas durante la fase de negociación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Se entiende como el grado de conformidad entre lo que el cliente esperaba y lo que realmente ha recibido. (Fuente: Página 6, Sección: La satisfacción del cliente)"
+        },
+        {
+            "question": "¿Qué perfil de cliente requiere un trato cercano, pedagógico y accesible por tener inseguridades?",
+            "options": [
+                "Cliente racional.",
+                "Cliente de segunda residencia.",
+                "Cliente primerizo.",
+                "Cliente extranjero."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El cliente primerizo compra o alquila por primera vez, tiene dudas y requiere un trato pedagógico. (Fuente: Página 10, Sección: Tipos de clientes en el entorno inmobiliario)"
+        },
+        {
+            "question": "¿Qué obligación tienen los agentes inmobiliarios respecto a las hojas de quejas según la normativa de consumo?",
+            "options": [
+                "Deben facilitarlas solo si la queja es por un importe superior a 3.000€.",
+                "Están obligados a disponer de ellas y facilitarlas de inmediato al solicitarlas.",
+                "Solo están obligados si pertenecen a un colegio profesional oficial.",
+                "Deben enviarlas por correo certificado en un plazo de 15 días hábiles."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los agentes están obligados a disponer de hojas oficiales y facilitarlas de inmediato cuando el cliente las solicite. (Fuente: Página 7, Sección: Marco normativo y tipologías)"
+        },
+        {
+            "question": "Dentro de los indicadores de calidad, ¿qué mide la 'Tasa de resolución de quejas'?",
+            "options": [
+                "La probabilidad de que un cliente vuelva a la agencia.",
+                "El porcentaje de clientes que no ponen ninguna reclamación.",
+                "Cuántas incidencias se han solucionado satisfactoriamente y en qué tiempo.",
+                "La rapidez con la que se contesta a los portales inmobiliarios."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Mide cuántas incidencias han sido solucionadas satisfactoriamente, valorando cantidad y tiempo de resolución. (Fuente: Página 12, Sección: Principales indicadores aplicables al sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué caracteriza al 'Cliente emocional' durante la búsqueda de un inmueble?",
+            "options": [
+                "Analiza todas las variables y hace preguntas constantes.",
+                "Busca rentabilidad y datos de la zona de forma prioritaria.",
+                "Se deja llevar por sensaciones como la luz, las vistas y el entorno.",
+                "Exige rapidez absoluta por traslados laborales urgentes."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El cliente emocional se deja llevar por sensaciones y aspectos subjetivos como luz, vistas y diseño. (Fuente: Página 10, Sección: Tipos de clientes en el entorno inmobiliario)"
+        },
+        {
+            "question": "¿Qué elemento es fundamental para generar valor y satisfacción al tratar a cada cliente como único?",
+            "options": [
+                "La digitalización total de los procesos.",
+                "La personalización.",
+                "La reducción de los plazos de entrega.",
+                "La automatización de las respuestas por correo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La personalización consiste en tratar a cada cliente como único, adaptando el discurso y ritmo a su perfil. (Fuente: Página 4, Sección: Principios de la atención al cliente en el sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué debe hacer un agente para gestionar correctamente las expectativas desde el inicio?",
+            "options": [
+                "Garantizar que todos los deseos del cliente se cumplirán.",
+                "Evitar promesas irreales y explicar honestamente qué se puede ofrecer.",
+                "Omitir información negativa para no desmotivar al comprador.",
+                "Aceptar cualquier compromiso aunque no sea sostenible en el tiempo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Es clave explicar de forma honesta lo que se puede ofrecer y lo que no, evitando promesas irreales. (Fuente: Página 6, Sección: La satisfacción del cliente)"
+        },
+        {
+            "question": "En el contexto de la atención al cliente, ¿qué implica la 'Escucha activa'?",
+            "options": [
+                "Oír al cliente mientras se revisan otros expedientes.",
+                "Comprender el contexto, motivaciones y temores del cliente.",
+                "Interrumpir al cliente para corregir sus ideas técnicas erróneas.",
+                "Grabar todas las conversaciones telefónicas legalmente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La escucha activa permite comprender el contexto, motivaciones y temores para personalizar la búsqueda. (Fuente: Página 4, Sección: Principios de la atención al cliente en el sector inmobiliario)"
+        },
+        {
+            "question": "¿Cuál es un objetivo de la etapa de 'Postventa y fidelización'?",
+            "options": [
+                "Iniciar la fase de negociación del precio final.",
+                "Conseguir recomendaciones o futuras operaciones del cliente.",
+                "Verificar la solvencia económica del comprador.",
+                "Publicar el inmueble en portales inmobiliarios internacionales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Un buen cierre en la etapa de postventa puede traducirse en recomendaciones o futuras operaciones. (Fuente: Página 9, Sección: Etapas principales del customer journey inmobiliario)"
+        },
+        {
+            "question": "¿Cómo se segmenta a los clientes según el resultado del Net Promoter Score (NPS)?",
+            "options": [
+                "Interesados, indecisos y compradores.",
+                "Promotores, pasivos o detractores.",
+                "Nacionales, extranjeros y residentes.",
+                "Inversores, particulares y empresas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El NPS permite segmentar a los clientes en promotores, pasivos o detractores. (Fuente: Página 11, Sección: Principales indicadores aplicables al sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué herramienta permite trazar un mapa del viaje del cliente y optimizarlo de forma continua?",
+            "options": [
+                "Un contrato de exclusividad.",
+                "Un software de valoración catastral.",
+                "El CRM.",
+                "El libro de visitas físico."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Herramientas como el CRM permiten trazar un mapa del viaje del cliente y optimizarlo continuamente. (Fuente: Página 10, Sección: Aplicación práctica en la agencia inmobiliaria)"
+        },
+        {
+            "question": "El cliente que busca inmuebles para jubilación o uso vacacional se clasifica como:",
+            "options": [
+                "Cliente racional.",
+                "Cliente de segunda residencia.",
+                "Cliente extranjero.",
+                "Cliente primerizo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El cliente de segunda residencia busca inmuebles para uso vacacional, jubilación o inversión mixta. (Fuente: Página 11, Sección: Tipos de clientes en el entorno inmobiliario)"
+        },
+        {
+            "question": "¿Qué principio exige suministrar información rigurosa sobre normativa urbanística y procesos hipotecarios?",
+            "options": [
+                "Empatía.",
+                "Profesionalidad.",
+                "Rapidez.",
+                "Personalización."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La profesionalidad exige dominio de aspectos técnicos, legales, fiscales y normativa urbanística. (Fuente: Página 4, Sección: Principios de la atención al cliente en el sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué suele originar la mayoría de las quejas y reclamaciones según el texto?",
+            "options": [
+                "La falta de inmuebles en la cartera de la agencia.",
+                "Malas gestiones de variables complejas (legales, financieras, etc.).",
+                "El exceso de competencia entre agencias de la misma zona.",
+                "La fluctuación diaria del Euríbor en el mercado hipotecario."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Surgen por factores complejos mal gestionados, como variables legales, técnicas o financieras. (Fuente: Página 7, Sección: Quejas y reclamaciones)"
+        },
+        {
+            "question": "En la etapa de 'Decisión y negociación', ¿qué espera principalmente el cliente?",
+            "options": [
+                "Ver fotos de calidad en los portales web.",
+                "Transparencia en información legal y apoyo en documentación.",
+                "Recibir una llamada de seguimiento tras la mudanza.",
+                "Identificar por primera vez su necesidad de compra."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En la fase de decisión y negociación se espera transparencia legal, apoyo documental y flexibilidad. (Fuente: Página 9, Sección: Etapas principales del customer journey inmobiliario)"
+        },
+        {
+            "question": "¿Qué define a un 'Indicador de calidad'?",
+            "options": [
+                "Una opinión subjetiva del gerente de la agencia.",
+                "Un dato medible y verificable para evaluar la eficacia.",
+                "La cantidad de llamadas recibidas en un solo día.",
+                "El catálogo de servicios que ofrece la inmobiliaria."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Es un dato medible y verificable que permite evaluar el cumplimiento de un estándar o eficacia. (Fuente: Página 11, Sección: ¿Qué es un indicador de calidad?)"
+        },
+        {
+            "question": "¿Qué busca el 'Cliente racional' durante su interacción con el agente?",
+            "options": [
+                "Rapidez absoluta por encima de la información.",
+                "Analizar variables, comparar y recibir información detallada.",
+                "Basar su decisión únicamente en sensaciones subjetivas.",
+                "Asesoramiento sobre el idioma por ser extranjero."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El cliente racional analiza todas las variables, compara mucho y necesita tiempo e información detallada. (Fuente: Página 10, Sección: Tipos de clientes en el entorno inmobiliario)"
+        },
+        {
+            "question": "¿Cuál es una consecuencia positiva de la satisfacción del cliente?",
+            "options": [
+                "Obliga al agente a reducir sus honorarios comerciales.",
+                "Refuerza la imagen profesional del agente o la agencia.",
+                "Elimina la necesidad de realizar seguimiento postventa.",
+                "Permite omitir la entrega de la documentación legal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La satisfacción fomenta la fidelización, aumenta recomendaciones y refuerza la imagen profesional. (Fuente: Página 6, Sección: La satisfacción del cliente)"
+        },
+        {
+            "question": "¿Qué principio se refiere a la agilidad al atender consultas o resolver incidencias?",
+            "options": [
+                "Orientación a resultados.",
+                "Seguimiento postventa.",
+                "Rapidez y eficacia en la respuesta.",
+                "Escucha activa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La agilidad en atender consultas o incidencias influye directamente en la percepción del servicio. (Fuente: Página 4, Sección: Principios de la atención al cliente en el sector inmobiliario)"
+        },
+        {
+            "question": "¿Qué información busca un cliente en la etapa de 'Descubrimiento'?",
+            "options": [
+                "Firmar el contrato de compraventa ante notario.",
+                "Información en portales inmobiliarios o redes sociales.",
+                "Analizar la rentabilidad financiera del inmueble ya reservado.",
+                "Tramitar la plusvalía municipal tras la compra."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En la fase de descubrimiento, el cliente suele buscar información en portales, redes o recomendaciones. (Fuente: Página 9, Sección: Etapas principales del customer journey inmobiliario)"
+        },
+        {
+            "question": "¿Qué es una 'Denuncia' según el marco normativo explicado?",
+            "options": [
+                "Una petición de devolución de la señal de reserva.",
+                "Una comunicación a la Administración por posible infracción.",
+                "Una queja verbal realizada durante la visita al piso.",
+                "Un desacuerdo sobre los honorarios de la agencia."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La denuncia es una comunicación dirigida a la Administración o colegio profesional sobre hechos que pueden ser infracción. (Fuente: Página 7, Sección: Marco normativo y tipologías)"
+        }
+    ]
+}
