@@ -189,7 +189,6 @@
 
         // Script de temas
         (function () {
-            // Updated titles for Gestion Inmobiliaria based on User's repo data
             const titulos = {
                 1: "GESTIÓN INMOBILIARIA",
                 2: "DERECHO INMOBILIARIO BÁSICO",
@@ -203,15 +202,15 @@
                 10: "MARKETING Y SEGMENTACIÓN INMOBILIARIA",
                 11: "HABILIDADES COMERCIALES Y PROCESO DE VENTA",
                 12: "ATENCIÓN AL CLIENTE Y GESTIÓN DE QUEJAS",
-                13: "NUEVAS TECNOLOGÍAS Y TRANSFORMACIÓN DIGITAL",
-                14: "DESARROLLO Y PROMOCIÓN INMOBILIARIA",
-                15: "TENDENCIAS Y FUTURO del SECTOR"
+                13: "URBANISMO Y PLANEAMIENTO INMOBILIARIO",
+                14: "TRANSFORMACIÓN DIGITAL Y HERRAMIENTAS INMOBILIARIAS",
+                15: "ÉTICA, DEONTOLOGÍA Y ASOCIACIONES PROFESIONALES"
             };
 
             const temas = Array.from({ length: 15 }, (_, i) => {
                 const n = i + 1;
                 const tituloEspecifico = titulos[n] || `TEMA ${n}`;
-                const disponible = n <= 12;
+                const disponible = n <= 15;
 
                 return {
                     numero: n,

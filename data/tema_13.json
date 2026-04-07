@@ -1,0 +1,335 @@
+{
+    "title": "GESTI?N INMOBILIARIA - TEMA 13: URBANISMO Y PLANEAMIENTO INMOBILIARIO",
+    "items": [
+        {
+            "question": "¿Cuál es la finalidad principal del urbanismo como conjunto de normas y técnicas?",
+            "options": [
+                "Fomentar únicamente el crecimiento económico de los sectores industriales",
+                "Lograr un desarrollo ordenado, funcional y sostenible de los núcleos urbanos y rurales",
+                "Eliminar la propiedad privada en favor del uso público total del suelo",
+                "Sustituir las leyes de mercado por decisiones exclusivamente políticas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El urbanismo busca el desarrollo ordenado y funcional, garantizando el equilibrio entre crecimiento, medioambiente e infraestructuras. (Fuente: Página 4, Sección: Concepto de urbanismo y su relevancia en la gestión inmobiliaria)"
+        },
+        {
+            "question": "¿Qué normativa estatal constituye la principal referencia legal en España sobre urbanismo?",
+            "options": [
+                "La Ley de Propiedad Horizontal de 1960",
+                "El Texto Refundido de la Ley del Suelo y Rehabilitación Urbana (RD Legislativo 7/2015)",
+                "El Código de Comercio vigente",
+                "La Ley de Ordenación de la Edificación de 1999"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Real Decreto Legislativo 7/2015 es la norma básica estatal que deben respetar todas las Administraciones. (Fuente: Página 5, Sección: Competencias urbanísticas en España. El Estado)"
+        },
+        {
+            "question": "¿Qué administración tiene la competencia plena para clasificar el suelo y aprobar figuras de planeamiento?",
+            "options": [
+                "El Estado central",
+                "La Unión Europea",
+                "Las comunidades autónomas",
+                "Los Registros de la Propiedad"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las comunidades autónomas tienen competencia plena y aprueban sus propias leyes del suelo y figuras de planeamiento. (Fuente: Página 6, Sección: Las comunidades autónomas: Legislación y planificación territorial)"
+        },
+        {
+            "question": "¿Cuál de las siguientes es una función específica de los ayuntamientos en materia de urbanismo?",
+            "options": [
+                "Definir los criterios de valoración del suelo en procesos expropiatorios nacionales",
+                "Dictar la Ley del Suelo autonómica",
+                "Aprobar los Planes Generales de Ordenación Urbana (PGOU)",
+                "Regular los derechos fundamentales de propiedad en la Constitución"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Los ayuntamientos gestionan el urbanismo local y aprueban el PGOU para organizar el uso del suelo municipal. (Fuente: Página 7, Sección: Los ayuntamientos: Planeamiento y control local)"
+        },
+        {
+            "question": "¿Qué caracteriza al suelo urbano consolidado?",
+            "options": [
+                "Necesita intervenciones de mejora y dotación de servicios básicos",
+                "No permite bajo ningún concepto la edificación residencial",
+                "Cuenta con todas las infraestructuras urbanas y no requiere actuaciones de urbanización",
+                "Está pendiente de una reclasificación por parte del Estado"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El suelo urbano consolidado ya está integrado en la ciudad con acceso a servicios y no requiere urbanización adicional. (Fuente: Página 8, Sección: Clases de suelo y su regulación)"
+        },
+        {
+            "question": "¿Qué es el suelo urbanizable sectorizado?",
+            "options": [
+                "Suelo que ya está delimitado para su desarrollo mediante un instrumento de planeamiento",
+                "Suelo protegido por su alto valor agrícola que nunca será urbano",
+                "Suelo que no tiene ninguna previsión de transformación en el planeamiento",
+                "Suelo que solo puede usarse para infraestructuras estatales de carreteras"
+            ],
+            "correctAnswer": 0,
+            "explanation": "El suelo urbanizable sectorizado es aquel ya delimitado y preparado para su transformación mediante planeamiento. (Fuente: Página 8, Sección: Clases de suelo y su regulación)"
+        },
+        {
+            "question": "¿Cuál es la finalidad principal del suelo no urbanizable?",
+            "options": [
+                "Reservar espacio para futuros rascacielos",
+                "Preservar el medio ambiente, el paisaje, los recursos naturales o el suelo agrícola",
+                "Permitir la construcción de viviendas unifamiliares sin licencia municipal",
+                "Facilitar la especulación inmobiliaria en zonas de costa"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Este suelo se excluye de la transformación urbana para proteger valores ambientales, naturales o agrícolas. (Fuente: Página 8, Sección: Clases de suelo y su regulación)"
+        },
+        {
+            "question": "¿Qué licencia acredita que un edificio reúne las condiciones de seguridad y habitabilidad tras su construcción?",
+            "options": [
+                "Licencia de parcelación",
+                "Licencia de demolición",
+                "Licencia de obra nueva",
+                "Licencia de ocupación o primera utilización"
+            ],
+            "correctAnswer": 3,
+            "explanation": "La licencia de ocupación garantiza que el edificio terminado cumple los requisitos legales para ser usado. (Fuente: Página 10, Sección: Licencias urbanísticas y su impacto en el desarrollo inmobiliario)"
+        },
+        {
+            "question": "¿Qué documento es imprescindible para poder contratar suministros de luz y agua en una edificación nueva?",
+            "options": [
+                "El contrato de arras",
+                "La licencia de primera ocupación",
+                "La escritura de propiedad del suelo",
+                "El certificado de eficiencia energética únicamente"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sin la licencia de primera ocupación no se puede legalizar el uso ni contratar suministros básicos. (Fuente: Página 10, Sección: Licencias urbanísticas y su impacto en el desarrollo inmobiliario)"
+        },
+        {
+            "question": "¿Cuál es el impacto de la Ley de Costas en la construcción cerca del litoral?",
+            "options": [
+                "Permite construir libremente si el terreno es privado",
+                "Prohíbe edificar en el Dominio Público Marítimo-Terrestre y limita la construcción en los 100 metros siguientes",
+                "Solo afecta a las construcciones industriales, no a las viviendas",
+                "Obliga a que todos los edificios en la costa sean de madera"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La Ley de Costas establece restricciones estrictas en el dominio público y la franja de protección de 100 metros. (Fuente: Página 12, Sección: Limitaciones derivadas de la normativa sectorial)"
+        },
+        {
+            "question": "¿Qué organismo debe autorizar cualquier construcción cerca de un río según la Ley de Aguas?",
+            "options": [
+                "El Ministerio de Cultura",
+                "La Confederación Hidrográfica correspondiente",
+                "La Consejería de Sanidad",
+                "La Oficina del Catastro"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La Ley de Aguas exige permiso previo de la Confederación Hidrográfica para construir en zonas cercanas a cauces. (Fuente: Página 12, Sección: Limitaciones derivadas de la normativa sectorial)"
+        },
+        {
+            "question": "¿Qué normativa exige que los edificios sean accesibles y eficientes energéticamente a nivel técnico?",
+            "options": [
+                "El Plan General de Ordenación Urbana",
+                "La Ley Hipotecaria",
+                "El Código Técnico de la Edificación (CTE)",
+                "Los Estatutos de la Comunidad de Propietarios"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El CTE establece las exigencias básicas de accesibilidad, seguridad y ahorro de energía en la edificación. (Fuente: Página 12, Sección: Limitaciones derivadas de la normativa sectorial)"
+        },
+        {
+            "question": "En el contexto urbanístico, ¿qué significa la 'función social de la propiedad'?",
+            "options": [
+                "Que el propietario puede hacer lo que quiera sin límites",
+                "Que el derecho de uso está condicionado por deberes y cargas impuestos por el Estado",
+                "Que el suelo pertenece exclusivamente a los ayuntamientos",
+                "Que no se puede cobrar por el alquiler de las propiedades"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La propiedad del suelo implica deberes y cargas definidos por ley para asegurar el interés general. (Fuente: Página 5, Sección: Competencias urbanísticas en España. El Estado)"
+        },
+        {
+            "question": "¿Qué sucede con los edificios declarados Bien de Interés Cultural (BIC)?",
+            "options": [
+                "Pueden ser demolidos si el propietario lo desea para hacer viviendas",
+                "No se pueden demoler ni reformar sin una autorización especial",
+                "? A) Pueden ser demolidos si el propietario lo desea para hacer viviendas B) No se pueden demoler ni reformar sin una autorización especial C) Están exentos de cumplir cualquier normativa de seguridad",
+                "Solo pueden ser propiedad de la Administración Pública"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La protección del patrimonio impide reformas o demoliciones en edificios BIC sin permiso específico. (Fuente: Página 11, Sección: Limitaciones derivadas de la normativa sectorial)"
+        },
+        {
+            "question": "¿Qué es un Plan General de Ordenación Urbana (PGOU)?",
+            "options": [
+                "Un documento estatal que regula los precios del alquiler",
+                "El instrumento municipal que organiza los usos del suelo en todo el término municipal",
+                "Una ley autonómica para la protección de bosques",
+                "Un contrato privado entre promotores y constructores"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El PGOU es la herramienta principal de los ayuntamientos para planificar el territorio municipal. (Fuente: Página 7, Sección: Los ayuntamientos: Planeamiento y control local)"
+        },
+        {
+            "question": "Para un profesional inmobiliario, ¿por qué es vital conocer la clasificación del suelo?",
+            "options": [
+                "Para determinar el color de las fachadas",
+                "Para saber si un terreno es apto para el uso deseado y sus condiciones de edificación",
+                "Para calcular los impuestos de circulación del propietario",
+                "Para redactar los estatutos de una sociedad limitada"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La clasificación determina los usos permitidos, la edificabilidad y la viabilidad técnica de un proyecto. (Fuente: Página 4, Sección: Concepto de urbanismo y su relevancia en la gestión inmobiliaria)"
+        },
+        {
+            "question": "¿Qué tipo de suelo se destina a preservar el paisaje y los recursos naturales?",
+            "options": [
+                "Suelo urbano no consolidado",
+                "Suelo urbanizable no sectorizado",
+                "Suelo no urbanizable",
+                "Suelo urbano consolidado"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El suelo no urbanizable tiene como fin la preservación ambiental, paisajística y de recursos. (Fuente: Página 8, Sección: Clases de suelo y su regulación)"
+        },
+        {
+            "question": "¿Qué competencia tiene el Estado respecto a la valoración del suelo?",
+            "options": [
+                "Ninguna, es competencia municipal",
+                "Establecer los criterios de valoración en procesos expropiatorios y transmisiones",
+                "Fijar el precio máximo de venta de todas las parcelas privadas",
+                "Decidir el valor de las acciones de las promotoras"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Estado define los criterios legales para calcular el valor del suelo en actuaciones públicas o expropiaciones. (Fuente: Página 6, Sección: Competencias urbanísticas en España. El Estado)"
+        },
+        {
+            "question": "¿Qué debe acompañar obligatoriamente a la solicitud de una licencia urbanística de obra?",
+            "options": [
+                "Un currículum vítae del promotor",
+                "Un proyecto técnico visado",
+                "Una recomendación de otro ayuntamiento",
+                "El título de propiedad original únicamente"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La solicitud de licencia requiere un proyecto técnico visado por el colegio profesional correspondiente. (Fuente: Página 11, Sección: Licencias urbanísticas y su impacto en el desarrollo inmobiliario)"
+        },
+        {
+            "question": "¿Qué es el suelo urbanizable no sectorizado?",
+            "options": [
+                "Suelo que ya tiene calles y farolas instaladas",
+                "Suelo que no tiene aún una ordenación detallada ni previsión inmediata de transformación",
+                "Suelo que nunca podrá ser transformado en urbano",
+                "Suelo destinado exclusivamente a parques públicos estatales"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Es suelo urbanizable que está pendiente de planificación detallada y desarrollo futuro. (Fuente: Página 8, Sección: Clases de suelo y su regulación)"
+        },
+        {
+            "question": "¿Cuál es el papel de las ordenanzas urbanísticas municipales?",
+            "options": [
+                "Regular aspectos como altura, alineaciones, materiales y estética de los edificios",
+                "Establecer el sistema penal para delitos urbanísticos",
+                "Fijar los tipos impositivos del IRPF",
+                "Regular el tráfico aéreo sobre el municipio"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Las ordenanzas municipales detallan las normas estéticas, de volumen y uso a nivel local. (Fuente: Página 7, Sección: Los ayuntamientos: Planeamiento y control local)"
+        },
+        {
+            "question": "¿Qué implica que el urbanismo sea una materia con competencias 'repartidas'?",
+            "options": [
+                "Que cada ciudadano puede decidir su propia norma",
+                "Que Estado, CC. AA. y Ayuntamientos tienen papeles diferenciados y complementarios",
+                "Que las leyes se deciden por sorteo entre las administraciones",
+                "Que solo la administración que llega primero puede regular"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El modelo descentralizado español reparte funciones entre los tres niveles de la administración. (Fuente: Página 5, Sección: Competencias urbanísticas en España. El Estado)"
+        },
+        {
+            "question": "¿Qué tipo de licencia se requiere para dividir un terreno en varias parcelas?",
+            "options": [
+                "Licencia de actividad",
+                "Licencia de parcelación",
+                "Licencia de primera utilización",
+                "Licencia de rehabilitación"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La división de terrenos conforme a la normativa requiere una licencia de parcelación específica. (Fuente: Página 10, Sección: Licencias urbanísticas y su impacto en el desarrollo inmobiliario)"
+        },
+        {
+            "question": "¿Por qué el urbanismo actual interviene en la regeneración de barrios obsoletos?",
+            "options": [
+                "Para obligar a los vecinos a mudarse a las afueras",
+                "Para mejorar la accesibilidad, sostenibilidad y calidad de vida en zonas degradadas",
+                "Para demoler edificios históricos sin protección",
+                "Para aumentar la contaminación en los centros urbanos"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La regeneración urbana busca revitalizar y mejorar la funcionalidad y sostenibilidad de barrios antiguos. (Fuente: Página 4, Sección: Concepto de urbanismo y su relevancia en la gestión inmobiliaria)"
+        },
+        {
+            "question": "¿Qué se debe consultar para asegurar que no existen 'afecciones legales' sobre una parcela?",
+            "options": [
+                "Solo el precio de mercado en portales inmobiliarios",
+                "El planeamiento vigente y la ficha urbanística del ayuntamiento",
+                "La opinión de los vecinos más antiguos de la zona",
+                "El código civil exclusivamente"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La consulta del planeamiento y las fichas urbanísticas es esencial para detectar cargas o protecciones. (Fuente: Página 7, Sección: Los ayuntamientos: Planeamiento y control local)"
+        },
+        {
+            "question": "En materia de medio ambiente, ¿qué es la Red Natura 2000?",
+            "options": [
+                "Una red de carreteras de alta velocidad",
+                "Un conjunto de zonas naturales protegidas donde la construcción está muy limitada",
+                "Una empresa pública de gestión de residuos",
+                "Una normativa sobre la instalación de antenas de telefonía"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La Red Natura 2000 protege áreas naturales y su normativa puede prevalecer sobre el plan urbanístico. (Fuente: Página 11, Sección: Limitaciones derivadas de la normativa sectorial)"
+        },
+        {
+            "question": "¿Qué sucede si se realiza una obra sin la licencia urbanística correspondiente?",
+            "options": [
+                "No pasa nada si la obra queda bien terminada",
+                "Se pueden imponer sanciones, paralizar las obras y obligar a restituir la legalidad",
+                "El ayuntamiento está obligado a legalizarla automáticamente pasado un mes",
+                "El arquitecto pierde su título de forma permanente y automática"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La falta de licencia conlleva consecuencias legales graves, incluyendo sanciones y demolición. (Fuente: Página 11, Sección: Licencias urbanísticas y su impacto en el desarrollo inmobiliario)"
+        },
+        {
+            "question": "¿Cuál es un objetivo de las políticas estatales de vivienda?",
+            "options": [
+                "Garantizar el acceso a una vivienda digna y asequible",
+                "Regalar una vivienda a cada ciudadano mayor de edad",
+                "Prohibir la venta de viviendas a extranjeros",
+                "Construir solo en zonas de alta montaña"
+            ],
+            "correctAnswer": 0,
+            "explanation": "El Estado promueve políticas para asegurar el derecho constitucional a una vivienda digna. (Fuente: Página 6, Sección: Competencias urbanísticas en España. El Estado)"
+        },
+        {
+            "question": "¿Qué tipo de suelo permite usos agrícolas o ganaderos pero generalmente no residencial?",
+            "options": [
+                "Suelo urbano consolidado",
+                "Suelo no urbanizable",
+                "Suelo urbanizable sectorizado",
+                "Suelo de uso industrial exclusivo"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El suelo no urbanizable permite usos primarios (agrícola, ganadero) pero prohíbe el residencial ordinario. (Fuente: Página 9, Sección: Clases de suelo y su regulación)"
+        },
+        {
+            "question": "¿Quién es responsable de controlar el cumplimiento de las condiciones edificatorias y sancionar infracciones?",
+            "options": [
+                "Las notarías",
+                "Los ayuntamientos",
+                "Las comunidades de vecinos",
+                "El Ministerio de Hacienda"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los ayuntamientos ejercen el control local y la potestad sancionadora en materia de urbanismo. (Fuente: Página 7, Sección: Los ayuntamientos: Planeamiento y control local)"
+        }
+    ]
+}

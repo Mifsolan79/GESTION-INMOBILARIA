@@ -1,0 +1,335 @@
+{
+    "title": "GESTI?N INMOBILIARIA - TEMA 14: TRANSFORMACI?N DIGITAL Y HERRAMIENTAS INMOBILIARIAS",
+    "items": [
+        {
+            "question": "¿Cuál es la función principal de un CRM dentro del sector inmobiliario?",
+            "options": [
+                "Vender inmuebles de forma automatizada sin intervención humana.",
+                "Gestionar la relación con los clientes de manera centralizada.",
+                "Publicar anuncios automáticamente en todos los portales gratuitos.",
+                "Sustituir la labor de asesoramiento del agente inmobiliario."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La principal función de un CRM es gestionar la relación con los clientes de manera centralizada, organizando y dando seguimiento a los contactos. (Fuente: Página 5, Sección: 3. El uso del CRM inmobiliario)"
+        },
+        {
+            "question": "En un CRM inmobiliario, ¿en qué se debe focalizar principalmente la atención?",
+            "options": [
+                "En la propiedad y sus características técnicas.",
+                "En el cliente, sus necesidades y preferencias.",
+                "En los algoritmos de valoración automática.",
+                "En la competencia directa de la zona."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La clave de un CRM es focalizar la atención en el cliente, no en la propiedad, para entender sus necesidades y preferencias. (Fuente: Página 5, Sección: 3. El uso del CRM inmobiliario)"
+        },
+        {
+            "question": "¿Qué tipo de CRM no requiere instalación de software local y es ideal para agencias pequeñas por su flexibilidad?",
+            "options": [
+                "CRM local.",
+                "CRM de código abierto.",
+                "CRM en la nube (Cloud CRM).",
+                "CRM de infraestructura física."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El CRM en la nube no requiere instalación local, se accede por Internet y es ideal para agencias pequeñas y medianas. (Fuente: Página 5, Sección: 3. El uso del CRM inmobiliario)"
+        },
+        {
+            "question": "¿Cuál es una de las principales ventajas de la firma digital en la gestión inmobiliaria?",
+            "options": [
+                "Elimina la necesidad de tener un seguro de responsabilidad civil.",
+                "Garantiza seguridad jurídica y reduce los tiempos de tramitación.",
+                "Permite evitar el pago de impuestos asociados a la compraventa.",
+                "Sustituye la necesidad de elevar el contrato a escritura pública."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La firma digital permite formalizar documentos de forma remota, garantizando seguridad jurídica y reducción de tiempos. (Fuente: Página 4, Sección: 2. Uso de herramientas digitales en la gestión inmobiliaria)"
+        },
+        {
+            "question": "¿Qué tecnología permite visualizar reformas simuladas o decorar virtualmente viviendas vacías?",
+            "options": [
+                "Realidad Aumentada (RA).",
+                "Big Data.",
+                "CRM Local.",
+                "Firma Electrónica."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La realidad aumentada permite visualizar reformas simuladas, acabados no ejecutados o decorar virtualmente viviendas vacías. (Fuente: Página 9, Sección: 7. Tecnologías clave de las nuevas herramientas inmobiliarias)"
+        },
+        {
+            "question": "Los modelos de valoración automatizada (AVMs) combinan inteligencia artificial con:",
+            "options": [
+                "Inspección física obligatoria de cada inmueble.",
+                "Aprendizaje automático (machine learning).",
+                "Publicidad tradicional en prensa local.",
+                "Entrevistas presenciales con los vecinos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las herramientas AVMs combinan inteligencia artificial y aprendizaje automático para ofrecer estimaciones automáticas de valor. (Fuente: Página 7, Sección: 5. Big data y su aplicación en la valoración de inmuebles)"
+        },
+        {
+            "question": "¿Qué normativa rige la gestión de datos personales en toda la Unión Europea?",
+            "options": [
+                "La Ley de Arrendamientos Urbanos.",
+                "El Reglamento General de Protección de Datos (RGPD).",
+                "La Ley de Propiedad Horizontal.",
+                ". C) La Ley de Propiedad Horizontal. D) El Código de Comercio Digital."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El RGPD es el Reglamento General de Protección de Datos de aplicación en toda la Unión Europea. (Fuente: Página 10, Sección: 8. Ciberseguridad y protección de datos en la gestión inmobiliaria digital)"
+        },
+        {
+            "question": "¿Qué factor influye en el posicionamiento de un anuncio dentro de un portal inmobiliario?",
+            "options": [
+                "El nombre legal de la agencia inmobiliaria.",
+                "La calidad de las fotografías y la frecuencia de actualización.",
+                "La antigüedad total de la agencia en el mercado físico.",
+                "El número de empleados que tenga la oficina."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Factores como la calidad de las fotos, vídeos, descripción completa y frecuencia de actualización afectan al posicionamiento. (Fuente: Página 6, Sección: 4. Portales inmobiliarios y su impacto en la compraventa)"
+        },
+        {
+            "question": "¿Qué permite la geolocalización avanzada en las presentaciones comerciales?",
+            "options": [
+                "Ocultar la ubicación exacta para evitar la competencia.",
+                "Mostrar capas de información sobre servicios cercanos y transporte.",
+                "Predecir el nombre del futuro comprador del inmueble.",
+                "Garantizar que el inmueble se venderá en menos de un mes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La geolocalización permite mostrar información relevante como proximidad a colegios, transporte y valor del m² por zona. (Fuente: Página 4, Sección: 2. Uso de herramientas digitales en la gestión inmobiliaria)"
+        },
+        {
+            "question": "¿Qué característica define al CRM de código abierto?",
+            "options": [
+                "Es propiedad exclusiva de los portales inmobiliarios.",
+                "Permite personalizar el software a medida.",
+                "No requiere ningún tipo de conocimiento técnico.",
+                "Es la opción más cara y menos flexible del mercado."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El CRM de código abierto permite personalizar el software a medida, aunque requiere conocimientos técnicos avanzados. (Fuente: Página 5, Sección: 3. El uso del CRM inmobiliario)"
+        },
+        {
+            "question": "¿Qué ventaja ofrece el uso de Big Data en la valoración inmobiliaria en términos de rapidez?",
+            "options": [
+                "Obliga a realizar tasaciones manuales más lentas.",
+                "Permite obtener estimaciones inmediatas sin desplazamiento.",
+                "Elimina la necesidad de usar bases de datos históricas.",
+                "Reduce la cantidad de datos que el agente debe analizar."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Una de las ventajas del big data es la agilidad, permitiendo obtener estimaciones inmediatas sin necesidad de desplazamiento. (Fuente: Página 7, Sección: 5. Big data y su aplicación en la valoración de inmuebles)"
+        },
+        {
+            "question": "En el contexto de la ciberseguridad, ¿cuál es una medida recomendada para proteger la información?",
+            "options": [
+                "Utilizar la misma contraseña para todas las plataformas.",
+                "Almacenar datos personales en ordenadores de uso público.",
+                "Cifrar los documentos enviados por correo electrónico.",
+                "Compartir las claves de acceso con todos los colaboradores externos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Para prevenir riesgos, es recomendable cifrar los documentos enviados por correo electrónico. (Fuente: Página 11, Sección: 8. Ciberseguridad y protección de datos en la gestión inmobiliaria digital)"
+        },
+        {
+            "question": "¿Qué herramienta de marketing digital se menciona para segmentar audiencias y programar envíos?",
+            "options": [
+                "Photoshop.",
+                "Mailchimp.",
+                "AutoCAD.",
+                "Excel."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Herramientas como Mailchimp permiten segmentar audiencias y programar envíos personalizados. (Fuente: Página 4, Sección: 2. Uso de herramientas digitales en la gestión inmobiliaria)"
+        },
+        {
+            "question": "¿Qué es un Chatbot inteligente en el sector inmobiliario?",
+            "options": [
+                "Un robot físico que enseña las viviendas.",
+                "Un sistema de automatización de respuestas mediante IA.",
+                "Un software para hackear bases de datos de la competencia.",
+                "Un sensor que mide la temperatura de la oficina."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La IA permite la automatización de respuestas mediante chatbots inteligentes. (Fuente: Página 10, Sección: 7. Tecnologías clave de las nuevas herramientas inmobiliarias)"
+        },
+        {
+            "question": "¿Qué tecnología facilita una experiencia inmersiva mediante imágenes en 360°?",
+            "options": [
+                "Big Data.",
+                "Visitas virtuales.",
+                "Firma electrónica.",
+                "Simuladores de hipotecas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las visitas virtuales permiten recorrer un inmueble a través de imágenes en 360° o recorridos 3D interactivos. (Fuente: Página 9, Sección: 7. Tecnologías clave de las nuevas herramientas inmobiliarias)"
+        },
+        {
+            "question": "Sobre la protección de datos, ¿qué derecho NO se menciona expresamente que deban facilitar las agencias?",
+            "options": [
+                "Derecho de acceso.",
+                "Derecho de rectificación.",
+                "Derecho de supresión.",
+                "Derecho de propiedad intelectual del anuncio."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Las leyes obligan a facilitar derechos de acceso, rectificación y supresión, pero no se menciona la propiedad intelectual del anuncio como derecho del cliente. (Fuente: Página 11, Sección: 8. Ciberseguridad y protección de datos en la gestión inmobiliaria digital)"
+        },
+        {
+            "question": "¿Qué limitación tiene el Big Data en la valoración de inmuebles?",
+            "options": [
+                "No permite el análisis de grandes volúmenes de datos.",
+                "No sustituye el análisis técnico ni la inspección física en tasaciones hipotecarias.",
+                "Es incapaz de detectar tendencias de mercado.",
+                "Solo puede utilizarse para viviendas de lujo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El big data no sustituye el análisis técnico ni la inspección física del inmueble en operaciones con valor legal. (Fuente: Página 8, Sección: 5. Big data y su aplicación en la valoración de inmuebles)"
+        },
+        {
+            "question": "¿Qué figura es clave en las inmobiliarias para supervisar el cumplimiento del RGPD?",
+            "options": [
+                "El Notario digital.",
+                "El Delegado de Protección de Datos.",
+                "El Comisario de Ciberseguridad.",
+                "El Gestor de Activos Virtuales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Delegado de Protección de Datos supervisa el cumplimiento del RGPD y asesora sobre la protección de datos. (Fuente: Página 11, Sección: 8. Ciberseguridad y protección de datos en la gestión inmobiliaria digital)"
+        },
+        {
+            "question": "¿Qué significa que el Big Data ofrece 'escalabilidad' en la valoración?",
+            "options": [
+                "Que solo sirve para edificios con muchas escaleras.",
+                "Que puede aplicarse a carteras completas de activos simultáneamente.",
+                "Que el precio siempre escala hacia arriba.",
+                "Que los datos se guardan en orden alfabético."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La escalabilidad significa que el big data puede aplicarse a carteras completas de activos en operaciones corporativas. (Fuente: Página 7, Sección: 5. Big data y su aplicación en la valoración de inmuebles)"
+        },
+        {
+            "question": "¿Cómo afectan los portales inmobiliarios al perfil del consumidor actual?",
+            "options": [
+                "Lo hacen menos informado y más dependiente del agente.",
+                "Generan un consumidor más informado, exigente y selectivo.",
+                "Hacen que el consumidor no use internet para buscar casa.",
+                "Le obligan a visitar físicamente todas las agencias de la ciudad."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El nuevo modelo de portales ha generado un consumidor más informado, exigente y selectivo. (Fuente: Página 6, Sección: 4. Portales inmobiliarios y su impacto en la compraventa)"
+        },
+        {
+            "question": "¿Qué tipo de datos NO se consideran sensibles o personales en la gestión inmobiliaria según el texto?",
+            "options": [
+                "Nóminas y contratos laborales.",
+                "Información bancaria.",
+                "El número de clics generales en un portal de noticias.",
+                "Firmas electrónicas."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El texto menciona datos de contacto, económicos, del inmueble y documentación como datos que se manejan, no los clics en noticias generales. (Fuente: Página 10, Sección: 8. Ciberseguridad y protección de datos en la gestión inmobiliaria digital)"
+        },
+        {
+            "question": "¿Cuál es la principal fuente de datos para el Big Data inmobiliario?",
+            "options": [
+                "Únicamente las encuestas telefónicas.",
+                "Fuentes diversas como catastros, registros y redes sociales.",
+                "Solo los anuncios de la prensa en papel.",
+                "Exclusivamente las conversaciones privadas de los agentes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El big data analiza volúmenes de datos procedentes de fuentes diversas como catastros, registros, redes sociales, etc. (Fuente: Página 7, Sección: 5. Big data y su aplicación en la valoración de inmuebles)"
+        },
+        {
+            "question": "¿Qué permite predecir la Inteligencia Artificial en el mercado inmobiliario?",
+            "options": [
+                "El tiempo exacto que hará el día de la firma.",
+                "La estimación predictiva de precios según tendencias.",
+                "La fecha de fallecimiento de los inquilinos.",
+                "El número de lotería que ganará el vendedor."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La IA permite la estimación predictiva de precios en función de las tendencias del mercado. (Fuente: Página 10, Sección: 7. Tecnologías clave de las nuevas herramientas inmobiliarias)"
+        },
+        {
+            "question": "En el uso de portales, ¿qué sucede con los anuncios que generan pocos clics o interacción?",
+            "options": [
+                "Son premiados con las primeras posiciones.",
+                "El algoritmo los relega en el posicionamiento.",
+                "Se borran automáticamente en 24 horas.",
+                "Se envían por correo a todos los usuarios del portal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los portales muestran antes las viviendas que generan más interacción, relegando las que tienen baja interacción. (Fuente: Página 6, Sección: 4. Portales inmobiliarios y su impacto en la compraventa)"
+        },
+        {
+            "question": "¿Para qué sirven los sistemas de gestión documental en la nube?",
+            "options": [
+                "Para imprimir contratos en papel reciclado.",
+                "Para almacenar y consultar documentos clave de forma segura desde cualquier dispositivo.",
+                "Para destruir documentos antiguos automáticamente.",
+                "Para evitar que el cliente vea la nota registral."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los sistemas en la nube almacenan, comparten y consultan documentos clave de forma segura y accesible. (Fuente: Página 4, Sección: 2. Uso de herramientas digitales en la gestión inmobiliaria)"
+        },
+        {
+            "question": "¿Cuál es una obligación de las agencias respecto al tratamiento de datos?",
+            "options": [
+                "Vender los datos al mejor postor para obtener beneficios.",
+                "Pedir el consentimiento expreso para fines publicitarios.",
+                "Mantener los datos de forma pública en su página web.",
+                "No informar al cliente sobre el uso de sus datos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las leyes obligan a las agencias a pedir el consentimiento expreso para fines como enviar publicidad. (Fuente: Página 11, Sección: 8. Ciberseguridad y protección de datos en la gestión inmobiliaria digital)"
+        },
+        {
+            "question": "Un CRM Local se diferencia del CRM en la nube porque:",
+            "options": [
+                "Se accede siempre por una App móvil gratuita.",
+                "Se instala directamente en los servidores de la empresa.",
+                "No requiere ningún tipo de mantenimiento.",
+                "Es propiedad del gobierno."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El CRM local se instala directamente en los servidores de la empresa y ofrece control total sobre los datos. (Fuente: Página 5, Sección: 3. El uso del CRM inmobiliario)"
+        },
+        {
+            "question": "¿Qué información aportan los mapas inteligentes en la geolocalización?",
+            "options": [
+                "Los nombres de los vecinos de cada piso.",
+                "Niveles de ruido, criminalidad y proximidad a zonas verdes.",
+                "El color de las cortinas de las viviendas cercanas.",
+                "La lista de la compra de los residentes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los mapas inteligentes muestran capas de información como niveles de ruido, criminalidad o zonas verdes. (Fuente: Página 4, Sección: 2. Uso de herramientas digitales en la gestión inmobiliaria)"
+        },
+        {
+            "question": "La 'objetividad' en el Big Data se refiere a que las valoraciones:",
+            "options": [
+                "Se basan en la opinión personal del tasador.",
+                "Se basan en criterios estadísticos y no solo en apreciaciones subjetivas.",
+                "Son siempre más altas que el precio de mercado.",
+                "Dependen del estado de ánimo del agente inmobiliario."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El uso del big data aporta objetividad porque se basa en criterios estadísticos. (Fuente: Página 7, Sección: 5. Big data y su aplicación en la valoración de inmuebles)"
+        },
+        {
+            "question": "¿Qué ventaja tiene el uso de simuladores financieros en la web de una agencia?",
+            "options": [
+                "Permiten al cliente imprimir billetes de curso legal.",
+                "Permiten calcular cuotas hipotecarias y orientar al cliente económicamente.",
+                "Garantizan la concesión de la hipoteca al 100%.",
+                "Sustituyen la necesidad de ir al Notario."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los simuladores permiten calcular cuotas hipotecarias y orientar al cliente en la toma de decisiones económicas. (Fuente: Página 4, Sección: 2. Uso de herramientas digitales en la gestión inmobiliaria)"
+        }
+    ]
+}

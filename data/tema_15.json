@@ -1,0 +1,335 @@
+{
+    "title": "GESTI?N INMOBILIARIA - TEMA 15: ?TICA, DEONTOLOG?A Y ASOCIACIONES PROFESIONALES",
+    "items": [
+        {
+            "question": "¿Cuál es la naturaleza jurídica del código deontológico del agente inmobiliario?",
+            "options": [
+                "Es una norma jurídica con rango de ley estatal.",
+                "No es una norma jurídica con rango de ley, pero su cumplimiento es obligatorio para ciertos colectivos.",
+                "Es un documento de carácter opcional que no acarrea responsabilidad disciplinaria.",
+                "Es un reglamento interno aplicable únicamente a empleados públicos del sector."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El código deontológico no tiene rango de ley, pero es de cumplimiento obligatorio para quienes estén inscritos en registros autonómicos o pertenezcan a colegios y asociaciones profesionales. (Fuente: Página 4, Sección: Código deontológico del agente inmobiliario)"
+        },
+        {
+            "question": "Dentro de los principios fundamentales del código deontológico, ¿en qué consiste la 'Veracidad y transparencia'?",
+            "options": [
+                "En actualizar los conocimientos según la evolución tecnológica.",
+                "En evitar actos de competencia desleal con otros compañeros.",
+                "En ofrecer información completa, veraz y comprensible sobre el inmueble y sus condiciones contractuales.",
+                "En tratar la información patrimonial de los clientes con la máxima reserva."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Este principio obliga al agente a ofrecer información completa, veraz y comprensible sobre el inmueble, su situación registral, precio y condiciones. (Fuente: Página 4, Sección: Principios fundamentales del código deontológico)"
+        },
+        {
+            "question": "En el contexto de la ética profesional, ¿qué implica el principio de 'Confidencialidad'?",
+            "options": [
+                "Mantener la reserva de la información incluso una vez finalizada la operación.",
+                "Informar únicamente al comprador sobre los vicios ocultos.",
+                "Compartir datos patrimoniales solo con otros agentes de la misma zona.",
+                "Guardar secreto profesional solo durante la vigencia del contrato de encargo."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Toda la información personal o patrimonial debe tratarse con la máxima reserva, incluso tras finalizar la operación. (Fuente: Página 4, Sección: Principios fundamentales del código deontológico)"
+        },
+        {
+            "question": "¿Es obligatoria la colegiación para los agentes inmobiliarios en España de forma generalizada?",
+            "options": [
+                "Sí, es un requisito legal para ejercer en todo el territorio nacional.",
+                "No es obligatoria de forma generalizada, aunque existen registros autonómicos.",
+                "Solo es obligatoria para agentes que trabajen en grandes franquicias.",
+                "Es obligatoria únicamente para ejercer en el mercado de alquiler."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En España la colegiación no es obligatoria de forma generalizada, pero sí existen registros autonómicos donde se debe acreditar la pertenencia a una asociación. (Fuente: Página 5, Sección: Asociaciones y colegios profesionales)"
+        },
+        {
+            "question": "¿Qué función cumplen los sistemas de arbitraje voluntario ofrecidos por algunas asociaciones inmobiliarias?",
+            "options": [
+                "Establecer los precios mínimos de mercado de forma obligatoria.",
+                "Resolver conflictos entre clientes y agentes rápidamente sin acudir a la vía judicial.",
+                "Sancionar penalmente a los agentes que cometan estafas.",
+                "Garantizar la financiación de las operaciones de compraventa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El arbitraje voluntario permite resolver conflictos de forma rápida y sin necesidad de un proceso judicial. (Fuente: Página 5, Sección: Asociaciones y colegios profesionales - Sabías que...)"
+        },
+        {
+            "question": "¿Qué requisito específico exige el COAPI (Colegio Oficial de Agentes de la Propiedad Inmobiliaria) para la colegiación?",
+            "options": [
+                "para la colegiación? A) Tener una antigüedad mínima de 10 años en el sector.",
+                "Haber realizado al menos 50 transacciones anuales.",
+                "Estar en posesión del título oficial de Agente de la Propiedad Inmobiliaria.",
+                "Contar con una oficina física de más de 100 metros cuadrados."
+            ],
+            "correctAnswer": 2,
+            "explanation": "De carácter colegial, el COAPI exige estar en posesión del título oficial de Agente de la Propiedad Inmobiliaria para colegiarse. (Fuente: Página 6, Sección: ¿Cómo elegir una buena asociación profesional inmobiliaria?)"
+        },
+        {
+            "question": "¿Qué entidad coordina la actuación de los COAPI provinciales a nivel estatal?",
+            "options": [
+                "La Federación de Asociaciones Inmobiliarias (FAI).",
+                "El Consejo General de los Colegios API.",
+                "La Asociación Profesional de Expertos Inmobiliarios (APEI).",
+                "El Ministerio de Vivienda."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Consejo General de los Colegios API coordina la actuación de los COAPI provinciales y representa al colectivo a nivel estatal. (Fuente: Página 6, Sección: ¿Cómo elegir una buena asociación profesional inmobiliaria?)"
+        },
+        {
+            "question": "¿Cuál es la característica principal del modelo de la FAI (Federación de Asociaciones Inmobiliarias)?",
+            "options": [
+                "Es un organismo estatal dependiente del Gobierno.",
+                "Es un modelo flexible centrado en la cooperación y formación de asociaciones independientes.",
+                "Exige obligatoriamente el título oficial de API para todos sus miembros.",
+                "Se dedica exclusivamente a la gestión de seguros de caución."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La FAI reúne a múltiples asociaciones independientes bajo un modelo flexible, centrado en la cooperación y formación. (Fuente: Página 6, Sección: ¿Cómo elegir una buena asociación profesional inmobiliaria?)"
+        },
+        {
+            "question": "¿Qué es el AICAT en el contexto de Cataluña?",
+            "options": [
+                "Una asociación de carácter voluntario para expertos tasadores.",
+                "Un registro obligatorio que funciona como censo y organismo regulador.",
+                "Un sindicato de trabajadores del sector inmobiliario.",
+                "Una base de datos privada de acceso exclusivo para notarios."
+            ],
+            "correctAnswer": 1,
+            "explanation": "AICAT es un registro obligatorio en Cataluña que funciona como censo y regulador, exigiendo formación y seguro. (Fuente: Página 7, Sección: ¿Cómo elegir una buena asociación profesional inmobiliaria?)"
+        },
+        {
+            "question": "¿Existe una ley estatal específica que regule uniformemente los requisitos de los agentes inmobiliarios en España?",
+            "options": [
+                "Sí, la Ley General de Agencias Inmobiliarias de 2022.",
+                "No, la regulación depende mayoritariamente de las comunidades autónomas.",
+                "Sí, pero solo es aplicable en zonas de mercado tensionado.",
+                "No, el sector está totalmente desregulado y no existen registros de ningún tipo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El ejercicio de la actividad en España no está regulado por una ley estatal específica que establezca requisitos uniformes. (Fuente: Página 7, Sección: Regulación y registros de agentes inmobiliarios)"
+        },
+        {
+            "question": "¿Cuál de los siguientes es un elemento común exigido en la mayoría de registros autonómicos de agentes?",
+            "options": [
+                "Un aval bancario de un millón de euros.",
+                "La superación de un examen de oposición estatal.",
+                "La contratación de un seguro de responsabilidad civil profesional.",
+                "Tener la nacionalidad española de forma obligatoria."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Muchos registros comparten elementos comunes como la formación acreditada y el seguro de responsabilidad civil. (Fuente: Página 7, Sección: Regulación y registros de agentes inmobiliarios)"
+        },
+        {
+            "question": "Operar sin estar inscrito en un registro autonómico donde es obligatorio se considera:",
+            "options": [
+                "Un delito de estafa tipificado en el Código Penal.",
+                "Una práctica comercial habitual sin consecuencias legales.",
+                "Una infracción administrativa que puede acarrear sanciones económicas.",
+                "Un incumplimiento leve que solo afecta a la reputación profesional."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Operar sin estar inscrito donde es requisito supone una infracción administrativa y puede acarrear sanciones económicas. (Fuente: Página 8, Sección: Regulación y registros de agentes inmobiliarios)"
+        },
+        {
+            "question": "¿Cómo contribuye el registro profesional a la protección del consumidor?",
+            "options": [
+                "Garantiza que el precio de venta sea el más bajo posible.",
+                "Asegura la financiación bancaria automática al cliente.",
+                "Ofrece garantías institucionales frente a malas prácticas o conflictos.",
+                "Elimina por completo el pago de impuestos en la compraventa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El registro refuerza la protección al consumidor al ofrecer garantías institucionales frente a malas prácticas. (Fuente: Página 8, Sección: Regulación y registros de agentes inmobiliarios)"
+        },
+        {
+            "question": "¿Cuándo surge la responsabilidad civil del agente inmobiliario?",
+            "options": [
+                "Cuando incumple normas de protección de datos personales.",
+                "Cuando por una actuación negligente causa un daño económico o patrimonial a un cliente.",
+                "Cuando comete un delito de falsificación documental.",
+                "Cuando no renueva sus datos en el registro administrativo a tiempo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La responsabilidad civil surge cuando, por negligencia, se causa daño económico o patrimonial, como una valoración errónea. (Fuente: Página 9, Sección: Tipos de responsabilidad del agente inmobiliario)"
+        },
+        {
+            "question": "¿Qué tipo de responsabilidad se produce al vulnerar la normativa de protección de datos?",
+            "options": [
+                "Responsabilidad civil pura.",
+                "Responsabilidad penal.",
+                "Responsabilidad administrativa.",
+                "Responsabilidad ética no sancionable."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La responsabilidad administrativa se produce por incumplir normas regulatorias, como la de protección de datos. (Fuente: Página 9, Sección: Tipos de responsabilidad del agente inmobiliario)"
+        },
+        {
+            "question": "¿Puede un agente ser responsable de omitir información que desconocía?",
+            "options": [
+                "No, solo es responsable de lo que sabe con certeza.",
+                "Sí, si se demuestra que debía haberla comprobado como parte de su deber de diligencia.",
+                "Solo si la omisión afecta al precio final en más de un 20%.",
+                "Solo si el cliente es una persona física consumidora."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Puede incurrir en responsabilidad incluso por omitir información que no sabía si debía haberla comprobado profesionalmente. (Fuente: Página 9, Sección: Tipos de responsabilidad del agente inmobiliario - Sabías que...)"
+        },
+        {
+            "question": "¿Qué situación describe un conflicto de intereses en la actividad inmobiliaria?",
+            "options": [
+                "Vender un inmueble en un precio superior al de mercado.",
+                "Cobrar los honorarios pactados legalmente en la nota de encargo.",
+                "Representar simultáneamente a comprador y vendedor sin consentimiento informado por escrito.",
+                "Sugerir al cliente la contratación de un tasador independiente."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Representar a ambas partes simultáneamente sin transparencia es una situación común de conflicto de intereses. (Fuente: Página 10, Sección: El conflicto de intereses en la actividad inmobiliaria)"
+        },
+        {
+            "question": "¿Cómo debe actuar un agente ante un posible conflicto de intereses?",
+            "options": [
+                "Ocultar la relación personal si no afecta al precio final.",
+                "Aplicar criterios de ética preventiva, informando por escrito al cliente.",
+                "Continuar con la operación siempre que la comisión sea inferior al 3%.",
+                "Informar verbalmente solo si el cliente lo pregunta directamente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El agente debe aplicar ética preventiva basada en la transparencia y la declaración de intereses contrapuestos. (Fuente: Página 10, Sección: El conflicto de intereses en la actividad inmobiliaria)"
+        },
+        {
+            "question": "¿Cuál es una buena práctica recomendada para gestionar intereses contrapuestos?",
+            "options": [
+                "Garantizar siempre el beneficio del vendedor por encima de todo.",
+                "Solicitar consentimiento expreso si se actúa como mediador para ambas partes.",
+                "Dividir la comisión entre las partes sin avisarles.",
+                "Derivar al cliente a una agencia que sea propiedad de un familiar."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Entre las buenas prácticas destaca solicitar consentimiento expreso si se actúa como mediador para ambas partes. (Fuente: Página 11, Sección: El conflicto de intereses en la actividad inmobiliaria)"
+        },
+        {
+            "question": "¿Qué implica la 'formación continua' en el código deontológico?",
+            "options": [
+                "Obtener un título universitario cada cinco años.",
+                "Actualizar conocimientos para prestar un servicio acorde a la evolución normativa y tecnológica.",
+                "Asistir obligatoriamente a todas las ferias inmobiliarias nacionales.",
+                "Realizar prácticas gratuitas en colegios profesionales una vez al mes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El profesional debe actualizar sus conocimientos para adaptarse a la evolución normativa, tecnológica y comercial. (Fuente: Página 4, Sección: Principios fundamentales del código deontológico)"
+        },
+        {
+            "question": "¿Cuál de las siguientes es una función relevante de los colegios profesionales?",
+            "options": [
+                "Fijar el precio máximo de los alquileres en su provincia.",
+                "Supervisar el ejercicio profesional conforme a los principios éticos del código deontológico.",
+                "Proporcionar préstamos hipotecarios directos a los clientes de los colegiados.",
+                "Sustituir a los notarios en la firma de escrituras públicas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Una de las funciones más relevantes es la supervisión del ejercicio profesional conforme a los códigos deontológicos. (Fuente: Página 5, Sección: Asociaciones y colegios profesionales)"
+        },
+        {
+            "question": "¿A qué ámbito pertenece la APEI (Asociación Profesional de Expertos Inmobiliarios)?",
+            "options": [
+                "Es exclusivamente de ámbito autonómico catalán.",
+                "Es una asociación de ámbito nacional.",
+                "Es un organismo internacional con sede en Bruselas.",
+                "Es una asociación local de la ciudad de Madrid."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La APEI es una asociación de ámbito nacional que impulsa la formación técnica y criterios éticos. (Fuente: Página 7, Sección: ¿Cómo elegir una buena asociación profesional inmobiliaria?)"
+        },
+        {
+            "question": "¿Qué tipo de responsabilidad puede conllevar inhabilitaciones o retirada de licencias?",
+            "options": [
+                "Responsabilidad civil contractual.",
+                "Responsabilidad administrativa.",
+                "Responsabilidad reputacional.",
+                "Responsabilidad ética interna."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La responsabilidad administrativa puede conllevar sanciones económicas, inhabilitaciones o retirada de licencias. (Fuente: Página 9, Sección: Tipos de responsabilidad del agente inmobiliario)"
+        },
+        {
+            "question": "¿En qué casos puede incurrir el agente en responsabilidad penal?",
+            "options": [
+                "Por no estar inscrito en el registro de su comunidad autónoma.",
+                "Por cometer estafa, falsificación documental o apropiación indebida.",
+                "Por realizar una valoración de mercado ligeramente superior a la realidad.",
+                "Por no informar al cliente sobre los gastos de comunidad."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La responsabilidad penal afecta casos graves como estafa, falsificación documental o discriminación deliberada. (Fuente: Página 9, Sección: Tipos de responsabilidad del agente inmobiliario)"
+        },
+        {
+            "question": "¿Qué principio obliga a no desacreditar a otros agentes de la competencia?",
+            "options": [
+                "Legalidad.",
+                "Veracidad.",
+                "Respeto a la competencia y a los compañeros de profesión.",
+                "Diligencia."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El agente no debe incurrir en competencia desleal ni desacreditar a otros, respetando la colaboración profesional. (Fuente: Página 4, Sección: Principios fundamentales del código deontológico)"
+        },
+        {
+            "question": "¿Qué documento suele firmarse para garantizar el compromiso ético en los registros oficiales?",
+            "options": [
+                "Un contrato de exclusividad perpetua.",
+                "La adhesión a un código deontológico.",
+                "Una renuncia a cobrar honorarios en caso de litigio.",
+                "Un certificado de antecedentes penales internacional."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En los registros se exige la adhesión a un código deontológico que regula la conducta profesional. (Fuente: Página 7, Sección: Regulación y registros de agentes inmobiliarios)"
+        },
+        {
+            "question": "Dentro de las funciones de defensa institucional, ¿ante quién representan las asociaciones al colectivo?",
+            "options": [
+                "Únicamente ante los clientes particulares.",
+                "Ante la Administración, los medios y otros actores del sector.",
+                "Ante los juzgados de lo penal exclusivamente.",
+                "Ante las empresas constructoras solamente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las asociaciones defienden los intereses del colectivo ante la Administración, medios y otros actores. (Fuente: Página 5, Sección: Asociaciones y colegios profesionales)"
+        },
+        {
+            "question": "¿Qué permite al agente inmobiliario actuar con mayor seguridad jurídica según el texto?",
+            "options": [
+                "Trabajar siempre sin contratos escritos.",
+                "El acceso a recursos avanzados y formación permanente de las asociaciones.",
+                "Delegar toda la responsabilidad legal en el comprador.",
+                "No inscribirse en registros públicos para evitar inspecciones."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las funciones de las asociaciones permiten al agente actuar con mayor seguridad jurídica y acceder a formación. (Fuente: Página 5, Sección: Asociaciones y colegios profesionales)"
+        },
+        {
+            "question": "¿Qué se recomienda hacer si no se puede garantizar la imparcialidad en una operación?",
+            "options": [
+                "Subir los honorarios para compensar el riesgo.",
+                "Rehusar la operación.",
+                "Delegar la firma en un administrativo de la oficina.",
+                "No informar al cliente para no preocuparle."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El agente debe rehusar la operación si no puede actuar con total independencia o si hay riesgo reputacional. (Fuente: Página 11, Sección: El conflicto de intereses en la actividad inmobiliaria)"
+        },
+        {
+            "question": "¿Cuál es un pilar fundamental para garantizar la confianza en el sector según la introducción?",
+            "options": [
+                "La maximización del beneficio económico rápido.",
+                "La ética profesional.",
+                "La publicidad agresiva en redes sociales.",
+                "La reducción de costes operativos al mínimo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La ética profesional se ha convertido en un pilar fundamental para garantizar confianza y transparencia. (Fuente: Página 3, Sección: Introducción y contextualización práctica)"
+        }
+    ]
+}
